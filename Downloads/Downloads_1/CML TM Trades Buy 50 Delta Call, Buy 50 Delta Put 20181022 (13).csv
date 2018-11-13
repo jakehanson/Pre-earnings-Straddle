@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+24-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Feb18`12,190,Call, $6.98, , $187
+24-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Feb18`12,190,Put, $9.95, , $187
+30-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Feb18`12,190,Call, $10.98, $399, $192.15
+30-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Feb18`12,190,Put, $8.93,-$102, $192.15
+19-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Apr27`12,190,Call, $8.1, , $191.1
+19-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Apr27`12,190,Put, $6.95, , $191.1
+25-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Apr27`12,190,Call, $9.2, $109, $194.42
+25-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Apr27`12,190,Put, $4.7,-$225, $194.42
+19-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Jul27`12,225,Call, $9.95, , $226.17
+19-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Jul27`12,225,Put, $8.6, , $226.17
+25-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Jul27`12,225,Call, $5.48,-$448, $217.05
+25-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Jul27`12,225,Put, $13.9, $530, $217.05
+18-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Oct26`12,245,Call, $10.12, , $244.85
+18-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Oct26`12,245,Put, $10.18, , $244.85
+24-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Oct26`12,245,Call, $3.28,-$685, $228.49
+24-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Oct26`12,245,Put, $19.92, $974, $228.49
+22-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Feb16`13,270,Call, $10.35, , $270.19
+22-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Feb16`13,270,Put, $10.55, , $270.19
+28-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Feb16`13,270,Call, $16.1, $574, $276.04
+28-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Feb16`13,270,Put, $9.6,-$95, $276.04
+18-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Apr26`13,260,Call, $10.2, , $259.42
+18-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Apr26`13,260,Put, $10.7, , $259.42
+24-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Apr26`13,260,Call, $15.08, $487, $268.78
+24-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Apr26`13,260,Put, $5.98,-$472, $268.78
+18-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Jul26`13,305,Call, $10.05, , $304.11
+18-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Jul26`13,305,Put, $10.85, , $304.11
+24-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Jul26`13,305,Call, $6.02,-$404, $298.94
+24-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Jul26`13,305,Put, $12.27, $142, $298.94
+17-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Oct25`13,310,Call, $10.15, , $310.77
+17-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Oct25`13,310,Put, $9.43, , $310.77
+18-Oct-13,Close 40%CloseAfterGains:Long Calls,-1,AMZN,Oct25`13,310,Call, $23.35, $1319, $328.93
+18-Oct-13,Close 40%CloseAfterGains:Long Puts,-1,AMZN,Oct25`13,310,Put, $4.25,-$518, $328.93
+23-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Jan31`14,402.5,Call, $12.08, , $399.87
+23-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Jan31`14,402.5,Put, $14.6, , $399.87
+29-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Jan31`14,402.5,Call, $7.08,-$501, $384.2
+29-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Jan31`14,402.5,Put, $25.3, $1070, $384.2
+17-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Apr25`14,327.5,Call, $10.75, , $324.91
+17-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Apr25`14,327.5,Put, $13.08, , $324.91
+23-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Apr25`14,327.5,Call, $9.7,-$106, $324.58
+23-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Apr25`14,327.5,Put, $12.62,-$46, $324.58
+17-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Jul25`14,352.5,Call, $11.58, , $352.45
+17-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Jul25`14,352.5,Put, $11.52, , $352.45
+23-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Jul25`14,352.5,Call, $13.9, $231, $358.14
+23-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Jul25`14,352.5,Put, $8.3,-$322, $358.14
+16-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Oct24`14,305,Call, $12.05, , $302.86
+16-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Oct24`14,305,Put, $14.18, , $302.86
+22-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Oct24`14,305,Call, $16.42, $436, $312.97
+22-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Oct24`14,305,Put, $8.35,-$583, $312.97
+22-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Jan30`15,312.5,Call, $10.95, , $310.32
+22-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Jan30`15,312.5,Put, $13.2, , $310.32
+28-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Jan30`15,312.5,Call, $7.82,-$314, $303.91
+28-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Jan30`15,312.5,Put, $16.25, $305, $303.91
+16-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Apr24`15,387.5,Call, $13.55, , $386.04
+16-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Apr24`15,387.5,Put, $14.85, , $386.04
+22-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Apr24`15,387.5,Call, $17.3, $374, $389.8
+22-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Apr24`15,387.5,Put, $14.95, $10, $389.8
+16-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Jul24`15,477.5,Call, $15.92, , $475.48
+16-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Jul24`15,477.5,Put, $17.73, , $475.48
+22-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Jul24`15,477.5,Call, $27.28, $1135, $488.27
+22-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Jul24`15,477.5,Put, $16.92,-$81, $488.27
+15-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Oct23`15,565,Call, $23.42, , $562.44
+15-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Oct23`15,565,Put, $26.12, , $562.44
+21-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Oct23`15,565,Call, $21.38,-$205, $555.77
+21-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Oct23`15,565,Put, $30.28, $416, $555.77
+21-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Jan29`16,580,Call, $25.78, , $575.02
+21-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Jan29`16,580,Put, $29.2, , $575.02
+27-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Jan29`16,580,Call, $27.4, $161, $583.35
+27-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Jan29`16,580,Put, $24.02,-$518, $583.35
+21-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Apr29`16,635,Call, $23.83, , $631
+21-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Apr29`16,635,Put, $27.9, , $631
+27-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Apr29`16,635,Call, $11.18,-$1266, $606.57
+27-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Apr29`16,635,Put, $39.95, $1205, $606.57
+21-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Jul29`16,747.5,Call, $26.7, , $744.43
+21-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Jul29`16,747.5,Put, $29.83, , $744.43
+27-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Jul29`16,747.5,Call, $20.98,-$573, $736.67
+27-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Jul29`16,747.5,Put, $32.4, $257, $736.67
+20-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Oct28`16,812.5,Call, $26.88, , $810.32
+20-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Oct28`16,812.5,Put, $27.98, , $810.32
+26-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Oct28`16,812.5,Call, $31.67, $478, $822.59
+26-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Oct28`16,812.5,Put, $21.3,-$668, $822.59
+26-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Feb3`17,842.5,Call, $21.7, , $839.15
+26-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Feb3`17,842.5,Put, $24.55, , $839.15
+01-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Feb3`17,842.5,Call, $17.27,-$444, $832.35
+01-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Feb3`17,842.5,Put, $26.85, $230, $832.35
+20-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Apr28`17,902.5,Call, $19.65, , $902.06
+20-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Apr28`17,902.5,Put, $19.55, , $902.06
+26-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Apr28`17,902.5,Call, $21.78, $212, $909.29
+26-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Apr28`17,902.5,Put, $15.23,-$432, $909.29
+20-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Jul28`17,1030,Call, $23.15, , $1028.7
+20-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Jul28`17,1030,Put, $23.8, , $1028.7
+26-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Jul28`17,1030,Call, $33.35, $1019, $1052.8
+26-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Jul28`17,1030,Put, $10.73,-$1307, $1052.8
+19-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,AMZN,Oct27`17,987.5,Call, $23.28, , $986.61
+19-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,AMZN,Oct27`17,987.5,Put, $24.85, , $986.61
+25-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,AMZN,Oct27`17,987.5,Call, $12.72,-$1057, $972.91
+25-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,AMZN,Oct27`17,987.5,Put, $27.82, $297, $972.91

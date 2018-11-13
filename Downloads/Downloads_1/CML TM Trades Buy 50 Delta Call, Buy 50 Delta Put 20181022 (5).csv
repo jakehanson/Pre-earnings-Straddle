@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+18-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Feb18`12,57.5,Call, $0.65, , $56.5
+18-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Feb18`12,57.5,Put, $1.7, , $56.5
+24-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Feb18`12,57.5,Call, $0.6,-$6, $56.73
+24-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Feb18`12,57.5,Put, $1.42,-$28, $56.73
+24-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,ADP,May19`12,55,Call, $0.8, , $54.73
+24-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,ADP,May19`12,55,Put, $1.1, , $54.73
+30-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,May19`12,55,Call, $1.23, $42, $55.62
+30-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,May19`12,55,Put, $0.65,-$45, $55.62
+25-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Aug18`12,55,Call, $1.2, , $55.41
+25-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Aug18`12,55,Put, $0.8, , $55.41
+27-Jul-12,Close 40%CloseAfterGains:Long Calls,-1,ADP,Aug18`12,55,Call, $2.85, $164, $57.6
+27-Jul-12,Close 40%CloseAfterGains:Long Puts,-1,ADP,Aug18`12,55,Put, $0.25,-$55, $57.6
+25-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Nov17`12,57.5,Call, $1.32, , $58.23
+25-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Nov17`12,57.5,Put, $0.62, , $58.23
+31-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Nov17`12,57.5,Call, $0.98,-$35, $57.79
+31-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Nov17`12,57.5,Put, $0.68, $6, $57.79
+29-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Feb16`13,60,Call, $0.92, , $60.27
+29-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Feb16`13,60,Put, $0.62, , $60.27
+04-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Feb16`13,60,Call, $0.5,-$43, $59.55
+04-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Feb16`13,60,Put, $0.98, $36, $59.55
+26-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,ADP,May18`13,67.5,Call, $0.68, , $66.59
+26-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,ADP,May18`13,67.5,Put, $1.52, , $66.59
+02-May-13,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,May18`13,67.5,Call, $0.95, $26, $67.39
+02-May-13,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,May18`13,67.5,Put, $0.98,-$54, $67.39
+25-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Aug17`13,72.5,Call, $0.92, , $72.17
+25-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Aug17`13,72.5,Put, $1.23, , $72.17
+31-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Aug17`13,72.5,Call, $0.8,-$13, $72.09
+31-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Aug17`13,72.5,Put, $1.23, , $72.09
+23-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Nov16`13,75,Call, $1.1, , $75.11
+23-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Nov16`13,75,Put, $1.05, , $75.11
+29-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Nov16`13,75,Call, $1.85, $74, $76.35
+29-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Nov16`13,75,Put, $0.55,-$50, $76.35
+29-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Feb22`14,77.5,Call, $1, , $76.53
+29-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Feb22`14,77.5,Put, $1.88, , $76.53
+04-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Feb22`14,77.5,Call, $0.45,-$56, $74.95
+04-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Feb22`14,77.5,Put, $2.82, $94, $74.95
+23-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,ADP,May17`14,77.5,Call, $0.77, , $76.29
+23-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,ADP,May17`14,77.5,Put, $1.95, , $76.29
+29-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,May17`14,77.5,Call, $0.92, $14, $76.99
+29-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,May17`14,77.5,Put, $1.48,-$47, $76.99
+24-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Aug16`14,82.5,Call, $1.05, , $82.43
+24-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Aug16`14,82.5,Put, $1.1, , $82.43
+30-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Aug16`14,82.5,Call, $0.8,-$26, $82.15
+30-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Aug16`14,82.5,Put, $1.12, $2, $82.15
+22-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Nov22`14,75,Call, $1.27, , $74.61
+22-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Nov22`14,75,Put, $1.62, , $74.61
+28-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Nov22`14,75,Call, $2.75, $147, $77.26
+28-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Nov22`14,75,Put, $0.6,-$102, $77.26
+28-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Feb20`15,85,Call, $1.38, , $84.53
+28-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Feb20`15,85,Put, $1.72, , $84.53
+03-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Feb20`15,85,Call, $1.48, $9, $85.14
+03-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Feb20`15,85,Put, $1.3,-$42, $85.14
+23-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,ADP,May15`15,85,Call, $1.9, , $85.77
+23-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,ADP,May15`15,85,Put, $1, , $85.77
+29-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,May15`15,85,Call, $1.52,-$39, $85.39
+29-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,May15`15,85,Put, $1.12, $12, $85.39
+23-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Aug21`15,80,Call, $2.1, , $80.94
+23-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Aug21`15,80,Put, $1.2, , $80.94
+29-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Aug21`15,80,Call, $3.05, $94, $82.34
+29-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Aug21`15,80,Put, $0.57,-$63, $82.34
+21-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Nov20`15,87.5,Call, $1.75, , $87.45
+21-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Nov20`15,87.5,Put, $1.82, , $87.45
+27-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Nov20`15,87.5,Call, $3.6, $184, $90.33
+27-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Nov20`15,87.5,Put, $0.82,-$100, $90.33
+27-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Feb19`16,80,Call, $2.15, , $80.48
+27-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Feb19`16,80,Put, $1.78, , $80.48
+02-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Feb19`16,80,Call, $3.3, $114, $82.17
+02-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Feb19`16,80,Put, $1.02,-$76, $82.17
+21-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,ADP,May20`16,90,Call, $1.45, , $89.35
+21-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,ADP,May20`16,90,Put, $2.02, , $89.35
+27-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,May20`16,90,Call, $1.68, $22, $90.12
+27-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,May20`16,90,Put, $1.6,-$42, $90.12
+21-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Aug19`16,95,Call, $1.5, , $94.88
+21-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Aug19`16,95,Put, $1.78, , $94.88
+27-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Aug19`16,95,Call, $1.55, $4, $94.93
+27-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Aug19`16,95,Put, $1.62,-$16, $94.93
+26-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Nov18`16,87.5,Call, $1.52, , $87.19
+26-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Nov18`16,87.5,Put, $1.72, , $87.19
+01-Nov-16,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Nov18`16,87.5,Call, $1.65, $12, $86.92
+01-Nov-16,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Nov18`16,87.5,Put, $2.25, $53, $86.92
+25-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Feb17`17,105,Call, $0.9, , $102.7
+25-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Feb17`17,105,Put, $3.2, , $102.7
+31-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Feb17`17,105,Call, $0.3,-$61, $100.99
+31-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Feb17`17,105,Put, $4.45, $125, $100.99
+26-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,ADP,May19`17,105,Call, $1.8, , $104.86
+26-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,ADP,May19`17,105,Put, $1.8, , $104.86
+02-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,May19`17,105,Call, $1.4,-$41, $104.01
+02-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,May19`17,105,Put, $2.25, $45, $104.01
+20-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Aug18`17,105,Call, $2.33, , $103.34
+20-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Aug18`17,105,Put, $3.9, , $103.34
+26-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Aug18`17,105,Call, $4.05, $171, $105.98
+26-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Aug18`17,105,Put, $3.15,-$75, $105.98
+26-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,ADP,Nov3`17,118,Call, $2.68, , $117.3
+26-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,ADP,Nov3`17,118,Put, $3.2, , $117.3
+01-Nov-17,Close 1DaysBeforeEarnings:Long Calls,-1,ADP,Nov3`17,118,Call, $1.45,-$124, $115.4
+01-Nov-17,Close 1DaysBeforeEarnings:Long Puts,-1,ADP,Nov3`17,118,Put, $4.1, $90, $115.4

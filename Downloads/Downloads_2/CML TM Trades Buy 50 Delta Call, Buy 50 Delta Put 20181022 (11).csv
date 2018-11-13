@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+02-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Feb18`12,29,Call, $1.35, , $28.94
+02-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Feb18`12,29,Put, $1.4, , $28.94
+08-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Feb18`12,29,Call, $1.83, $47, $29.33
+08-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Feb18`12,29,Put, $1.5, $10, $29.33
+03-May-12,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,May19`12,24,Call, $1, , $24.11
+03-May-12,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,May19`12,24,Put, $0.9, , $24.11
+09-May-12,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,May19`12,24,Call, $0.62,-$39, $23.4
+09-May-12,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,May19`12,24,Put, $1.23, $33, $23.4
+31-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Aug18`12,21,Call, $0.78, , $20.35
+31-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Aug18`12,21,Put, $1.38, , $20.35
+06-Aug-12,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Aug18`12,21,Call, $2.02, $123, $22.39
+06-Aug-12,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Aug18`12,21,Put, $0.6,-$78, $22.39
+12-Nov-12,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Dec22`12,21,Call, $1.17, , $21.08
+12-Nov-12,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Dec22`12,21,Put, $1.08, , $21.08
+16-Nov-12,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Dec22`12,21,Call, $0.88,-$30, $20.35
+16-Nov-12,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Dec22`12,21,Put, $1.5, $42, $20.35
+31-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Feb16`13,24,Call, $0.82, , $24.05
+31-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Feb16`13,24,Put, $0.75, , $24.05
+06-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Feb16`13,24,Call, $1.05, $22, $24.61
+06-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Feb16`13,24,Put, $0.45,-$30, $24.61
+23-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,May18`13,22,Call, $0.8, , $21.35
+23-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,May18`13,22,Put, $1.45, , $21.35
+29-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,May18`13,22,Call, $1.85, $104, $23.3
+29-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,May18`13,22,Put, $0.57,-$88, $23.3
+30-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Aug17`13,19,Call, $0.57, , $18.42
+30-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Aug17`13,19,Put, $1.12, , $18.42
+05-Aug-13,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Aug17`13,19,Call, $0.95, $37, $19.17
+05-Aug-13,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Aug17`13,19,Put, $0.8,-$32, $19.17
+18-Nov-13,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Dec21`13,16,Call, $1.15, , $16.21
+18-Nov-13,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Dec21`13,16,Put, $0.95, , $16.21
+22-Nov-13,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Dec21`13,16,Call, $1.25, $9, $16.37
+22-Nov-13,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Dec21`13,16,Put, $0.8,-$15, $16.37
+03-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Feb22`14,15,Call, $0.75, , $15.08
+03-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Feb22`14,15,Put, $0.72, , $15.08
+07-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Feb22`14,15,Call, $1.1, $34, $15.72
+07-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Feb22`14,15,Put, $0.38,-$34, $15.72
+01-May-14,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,May17`14,16,Call, $0.78, , $16.27
+01-May-14,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,May17`14,16,Put, $0.52, , $16.27
+07-May-14,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,May17`14,16,Call, $0.48,-$31, $15.8
+07-May-14,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,May17`14,16,Put, $0.68, $16, $15.8
+04-Aug-14,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Aug16`14,18,Call, $0.82, , $18.18
+04-Aug-14,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Aug16`14,18,Put, $0.65, , $18.18
+08-Aug-14,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Aug16`14,18,Call, $0.62,-$21, $17.91
+08-Aug-14,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Aug16`14,18,Put, $0.68, $3, $17.91
+17-Nov-14,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Dec20`14,16,Call, $0.73, , $15.58
+17-Nov-14,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Dec20`14,16,Put, $1.12, , $15.58
+21-Nov-14,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Dec20`14,16,Call, $0.48,-$26, $15.23
+21-Nov-14,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Dec20`14,16,Put, $1.25, $13, $15.23
+29-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Feb20`15,14,Call, $0.5, , $13.85
+29-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Feb20`15,14,Put, $0.68, , $13.85
+04-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Feb20`15,14,Call, $0.78, $27, $14.47
+04-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Feb20`15,14,Put, $0.35,-$33, $14.47
+30-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,May15`15,15,Call, $0.75, , $15.33
+30-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,May15`15,15,Put, $0.45, , $15.33
+06-May-15,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,May15`15,15,Call, $0.7,-$6, $15.35
+06-May-15,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,May15`15,15,Put, $0.35,-$10, $15.35
+30-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Aug21`15,18,Call, $0.75, , $18.11
+30-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Aug21`15,18,Put, $0.65, , $18.11
+05-Aug-15,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Aug21`15,18,Call, $0.78, $2, $18.24
+05-Aug-15,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Aug21`15,18,Put, $0.55,-$10, $18.24
+09-Nov-15,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Nov20`15,17,Call, $0.85, , $17.34
+09-Nov-15,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Nov20`15,17,Put, $0.52, , $17.34
+13-Nov-15,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Nov20`15,17,Call, $0.52,-$34, $16.56
+13-Nov-15,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Nov20`15,17,Put, $0.95, $43, $16.56
+02-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Feb19`16,18,Call, $0.6, , $17.38
+02-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Feb19`16,18,Put, $1.2, , $17.38
+08-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Feb19`16,18,Call, $0.3,-$31, $16.38
+08-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Feb19`16,18,Put, $1.98, $78, $16.38
+03-May-16,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,May20`16,17,Call, $0.65, , $16.77
+03-May-16,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,May20`16,17,Put, $0.88, , $16.77
+09-May-16,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,May20`16,17,Call, $0.57,-$9, $16.67
+09-May-16,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,May20`16,17,Put, $0.9, $2, $16.67
+01-Aug-16,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Aug19`16,16,Call, $0.62, , $16.01
+01-Aug-16,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Aug19`16,16,Put, $0.65, , $16.01
+05-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Aug19`16,16,Call, $0.75, $12, $16.3
+05-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Aug19`16,16,Put, $0.45,-$20, $16.3
+10-Nov-16,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Nov18`16,14,Call, $0.62, , $14.15
+10-Nov-16,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Nov18`16,14,Put, $0.48, , $14.15
+15-Nov-16,Close 40%CloseAfterGains:Long Calls,-1,NUAN,Nov18`16,14,Call, $1.48, $85, $15.33
+15-Nov-16,Close 40%CloseAfterGains:Long Puts,-1,NUAN,Nov18`16,14,Put, $0.18,-$30, $15.33
+31-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Feb17`17,16,Call, $0.55, , $15.86
+31-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Feb17`17,16,Put, $0.68, , $15.86
+06-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Feb17`17,16,Call, $0.62, $6, $15.95
+06-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Feb17`17,16,Put, $0.68, , $15.95
+02-May-17,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,May19`17,18,Call, $0.57, , $17.99
+02-May-17,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,May19`17,18,Put, $0.65, , $17.99
+08-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,May19`17,18,Call, $0.68, $10, $18.09
+08-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,May19`17,18,Put, $0.57,-$8, $18.09
+01-Aug-17,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Aug18`17,17,Call, $0.8, , $17.3
+01-Aug-17,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Aug18`17,17,Put, $0.55, , $17.3
+07-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Aug18`17,17,Call, $0.62,-$19, $17
+07-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Aug18`17,17,Put, $0.65, $10, $17
+21-Nov-17,Open 7DaysBeforeEarnings:Long Calls,1,NUAN,Dec15`17,15,Call, $0.52, , $14.67
+21-Nov-17,Open 7DaysBeforeEarnings:Long Puts,1,NUAN,Dec15`17,15,Put, $0.85, , $14.67
+27-Nov-17,Close 1DaysBeforeEarnings:Long Calls,-1,NUAN,Dec15`17,15,Call, $0.85, $32, $15.31
+27-Nov-17,Close 1DaysBeforeEarnings:Long Puts,-1,NUAN,Dec15`17,15,Put, $0.55,-$30, $15.31

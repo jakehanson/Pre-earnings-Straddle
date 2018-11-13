@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+24-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Feb18`12,29,Call, $0.82, , $29.09
+24-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Feb18`12,29,Put, $0.75, , $29.09
+30-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Feb18`12,29,Call, $1.12, $29, $29.53
+30-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Feb18`12,29,Put, $0.6,-$15, $29.53
+09-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Apr21`12,34,Call, $0.62, , $33.64
+09-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Apr21`12,34,Put, $1, , $33.64
+13-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Apr21`12,34,Call, $0.82, $19, $34.13
+13-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Apr21`12,34,Put, $0.72,-$28, $34.13
+10-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Jul21`12,32,Call, $0.6, , $31.58
+10-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Jul21`12,32,Put, $1.05, , $31.58
+16-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Jul21`12,32,Call, $0.4,-$21, $31.04
+16-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Jul21`12,32,Put, $1.42, $37, $31.04
+09-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Oct20`12,35,Call, $1.1, , $35.36
+09-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Oct20`12,35,Put, $0.75, , $35.36
+15-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Oct20`12,35,Call, $1.2, $9, $35.42
+15-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Oct20`12,35,Put, $0.78, $3, $35.42
+25-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Feb16`13,37,Call, $1.33, , $37.15
+25-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Feb16`13,37,Put, $1.2, , $37.15
+31-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Feb16`13,37,Call, $1.6, $26, $37.63
+31-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Feb16`13,37,Put, $0.92,-$28, $37.63
+10-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Apr20`13,44,Call, $0.92, , $44.06
+10-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Apr20`13,44,Put, $0.9, , $44.06
+16-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Apr20`13,44,Call, $0.4,-$53, $42.98
+16-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Apr20`13,44,Put, $1.38, $48, $42.98
+10-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Jul20`13,47,Call, $0.7, , $46.52
+10-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Jul20`13,47,Put, $1.17, , $46.52
+16-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Jul20`13,47,Call, $0.6,-$11, $46.33
+16-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Jul20`13,47,Put, $1.3, $13, $46.33
+09-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Oct19`13,41,Call, $1, , $40.76
+09-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Oct19`13,41,Put, $1.2, , $40.76
+15-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Oct19`13,41,Call, $1.38, $37, $41.55
+15-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Oct19`13,41,Put, $0.8,-$40, $41.55
+24-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Feb22`14,43,Call, $1.23, , $43
+24-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Feb22`14,43,Put, $1.42, , $43
+30-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Feb22`14,43,Call, $1.25, $1, $43.01
+30-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Feb22`14,43,Put, $1.42, , $43.01
+10-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Apr19`14,38,Call, $1.02, , $37.98
+10-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Apr19`14,38,Put, $1.08, , $37.98
+16-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Apr19`14,38,Call, $0.9,-$13, $37.88
+16-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Apr19`14,38,Put, $1,-$8, $37.88
+10-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Jul19`14,39,Call, $1.05, , $39.25
+10-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Jul19`14,39,Put, $0.72, , $39.25
+16-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Jul19`14,39,Call, $0.92,-$14, $39.03
+16-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Jul19`14,39,Put, $0.95, $23, $39.03
+09-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Oct18`14,31,Call, $0.92, , $30.62
+09-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Oct18`14,31,Put, $1.25, , $30.62
+15-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Oct18`14,31,Call, $0.82,-$11, $30.54
+15-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Oct18`14,31,Put, $1.25, , $30.54
+23-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Feb20`15,28,Call, $1.12, , $28.04
+23-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Feb20`15,28,Put, $1.3, , $28.04
+29-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Feb20`15,28,Call, $0.45,-$68, $26.9
+29-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Feb20`15,28,Put, $1.75, $45, $26.9
+09-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Apr17`15,24,Call, $0.82, , $24.27
+09-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Apr17`15,24,Put, $0.62, , $24.27
+15-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Apr17`15,24,Call, $1.62, $79, $25.37
+15-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Apr17`15,24,Put, $0.28,-$34, $25.37
+09-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Jul17`15,26,Call, $0.65, , $25.78
+09-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Jul17`15,26,Put, $0.85, , $25.78
+15-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Jul17`15,26,Call, $0.48,-$18, $25.59
+15-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Jul17`15,26,Put, $0.95, $10, $25.59
+08-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Oct16`15,22,Call, $1.02, , $22.33
+08-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Oct16`15,22,Put, $0.65, , $22.33
+14-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Oct16`15,22,Call, $1.3, $27, $22.52
+14-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Oct16`15,22,Put, $0.75, $10, $22.52
+25-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Feb19`16,27,Call, $1.02, , $26.74
+25-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Feb19`16,27,Put, $1.42, , $26.74
+29-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Feb19`16,27,Call, $1.48, $45, $27.59
+29-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Feb19`16,27,Put, $1.08,-$34, $27.59
+13-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Apr22`16,33.5,Call, $1.08, , $33.42
+13-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Apr22`16,33.5,Put, $1.18, , $33.42
+19-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Apr22`16,33.5,Call, $1.12, $3, $33.91
+19-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Apr22`16,33.5,Put, $0.77,-$41, $33.91
+13-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Jul22`16,33.5,Call, $0.9, , $33.24
+13-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Jul22`16,33.5,Put, $1.15, , $33.24
+19-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Jul22`16,33.5,Call, $0.48,-$43, $32.37
+19-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Jul22`16,33.5,Put, $1.65, $50, $32.37
+12-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Oct21`16,29.5,Call, $0.95, , $29.6
+12-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Oct21`16,29.5,Put, $0.82, , $29.6
+18-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Oct21`16,29.5,Call, $1.65, $69, $30.71
+18-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Oct21`16,29.5,Put, $0.4,-$42, $30.71
+18-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Jan27`17,30.5,Call, $0.65, , $30.47
+18-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Jan27`17,30.5,Put, $0.65, , $30.47
+24-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Jan27`17,30.5,Call, $0.88, $22, $31.19
+24-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Jan27`17,30.5,Put, $0.32,-$33, $31.19
+13-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Apr21`17,25,Call, $0.9, , $25.01
+13-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Apr21`17,25,Put, $0.85, , $25.01
+19-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Apr21`17,25,Call, $0.95, $4, $25.11
+19-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Apr21`17,25,Put, $0.88, $3, $25.11
+20-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Jul28`17,21.5,Call, $0.65, , $21.31
+20-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Jul28`17,21.5,Put, $0.82, , $21.31
+26-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Jul28`17,21.5,Call, $0.45,-$21, $20.92
+26-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Jul28`17,21.5,Put, $1.02, $20, $20.92
+19-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,MAT,Oct27`17,16,Call, $0.7, , $15.81
+19-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,MAT,Oct27`17,16,Put, $0.95, , $15.81
+25-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,MAT,Oct27`17,16,Call, $0.48,-$23, $15.45
+25-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,MAT,Oct27`17,16,Put, $1.08, $13, $15.45

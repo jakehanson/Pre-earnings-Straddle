@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+02-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Feb18`12,100,Call, $1.85, , $99
+02-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Feb18`12,100,Put, $2.6, , $99
+08-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Feb18`12,100,Call, $4.2, $234, $103.43
+08-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Feb18`12,100,Put, $0.95,-$165, $103.43
+19-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,May19`12,95,Call, $3.3, , $95.55
+19-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,May19`12,95,Put, $2.8, , $95.55
+25-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,May19`12,95,Call, $4.5, $119, $97.05
+25-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,May19`12,95,Put, $2.58,-$22, $97.05
+25-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Aug18`12,87.5,Call, $2.42, , $87.36
+25-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Aug18`12,87.5,Put, $2.6, , $87.36
+31-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Aug18`12,87.5,Call, $1.72,-$71, $86.18
+31-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Aug18`12,87.5,Put, $2.95, $35, $86.18
+18-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Nov17`12,90,Call, $3.25, , $90.32
+18-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Nov17`12,90,Put, $3, , $90.32
+24-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Nov17`12,90,Call, $1.05,-$221, $85.06
+24-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Nov17`12,90,Put, $5.95, $295, $85.06
+07-Feb-13,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Feb16`13,100,Call, $1.88, , $100.06
+07-Feb-13,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Feb16`13,100,Put, $1.82, , $100.06
+13-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Feb16`13,100,Call, $1.72,-$17, $100.37
+13-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Feb16`13,100,Put, $1.42,-$40, $100.37
+25-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,May18`13,95,Call, $1.5, , $93.09
+25-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,May18`13,95,Put, $3.4, , $93.09
+01-May-13,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,May18`13,95,Call, $1.52, $1, $93.36
+01-May-13,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,May18`13,95,Put, $3.15,-$25, $93.36
+18-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Aug17`13,105,Call, $2.1, , $102.54
+18-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Aug17`13,105,Put, $4.65, , $102.54
+24-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Aug17`13,105,Call, $1.6,-$51, $102.52
+24-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Aug17`13,105,Put, $4.25,-$40, $102.52
+17-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Nov16`13,120,Call, $5.1, , $122.01
+17-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Nov16`13,120,Put, $3.25, , $122.01
+23-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Nov16`13,120,Call, $5.35, $24, $122.41
+23-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Nov16`13,120,Put, $3.1,-$15, $122.41
+06-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Feb22`14,155,Call, $3.15, , $153.75
+06-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Feb22`14,155,Put, $4.75, , $153.75
+12-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Feb22`14,155,Call, $4.3, $114, $156.08
+12-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Feb22`14,155,Put, $3.3,-$145, $156.08
+24-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,May17`14,165,Call, $6.55, , $165.4
+24-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,May17`14,165,Put, $6.25, , $165.4
+30-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,May17`14,165,Call, $10.75, $419, $171.75
+30-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,May17`14,165,Put, $4.05,-$220, $171.75
+11-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Jul19`14,250,Call, $6.7, , $249.06
+11-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Jul19`14,250,Put, $8.5, , $249.06
+17-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Jul19`14,250,Call, $5.2,-$151, $253.44
+17-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Jul19`14,250,Put, $2.45,-$605, $253.44
+17-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Oct24`14,180,Call, $4.25, , $179.16
+17-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Oct24`14,180,Put, $4.75, , $179.16
+23-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Oct24`14,180,Call, $5.85, $159, $184.98
+23-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Oct24`14,180,Put, $0.82,-$393, $184.98
+05-Feb-15,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Feb13`15,230,Call, $4.35, , $228.42
+05-Feb-15,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Feb13`15,230,Put, $6.3, , $228.42
+09-Feb-15,Close 40%CloseAfterGains:Long Calls,-1,SHPG,Feb13`15,230,Call, $0.68,-$368, $215.77
+09-Feb-15,Close 40%CloseAfterGains:Long Puts,-1,SHPG,Feb13`15,230,Put, $14.7, $840, $215.77
+23-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,May1`15,255,Call, $5.75, , $255.37
+23-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,May1`15,255,Put, $6, , $255.37
+29-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,May1`15,255,Call, $2.42,-$334, $245.26
+29-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,May1`15,255,Put, $10.45, $445, $245.26
+16-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Jul24`15,257.5,Call, $4.95, , $256.5
+16-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Jul24`15,257.5,Put, $5.75, , $256.5
+22-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Jul24`15,257.5,Call, $4.35,-$61, $259.46
+22-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Jul24`15,257.5,Put, $2.92,-$283, $259.46
+16-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Oct23`15,210,Call, $5.05, , $209.63
+16-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Oct23`15,210,Put, $5.15, , $209.63
+22-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Oct23`15,210,Call, $1.83,-$323, $204.27
+22-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Oct23`15,210,Put, $7.4, $225, $204.27
+04-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Feb12`16,165,Call, $3.78, , $163.34
+04-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Feb12`16,165,Put, $6.05, , $163.34
+08-Feb-16,Close 40%CloseAfterGains:Long Calls,-1,SHPG,Feb12`16,165,Call, $0.62,-$317, $150.4
+08-Feb-16,Close 40%CloseAfterGains:Long Puts,-1,SHPG,Feb12`16,165,Put, $14.8, $875, $150.4
+22-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Apr29`16,185,Call, $5.05, , $185.15
+22-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Apr29`16,185,Put, $5.25, , $185.15
+28-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Apr29`16,185,Call, $1.88,-$318, $180.96
+28-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Apr29`16,185,Put, $6.4, $115, $180.96
+26-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Aug5`16,195,Call, $4.15, , $193.6
+26-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Aug5`16,195,Put, $5.45, , $193.6
+01-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Aug5`16,195,Call, $3.4,-$76, $194
+01-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Aug5`16,195,Put, $4.4,-$105, $194
+25-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Nov4`16,180,Call, $4.9, , $179.69
+25-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Nov4`16,180,Put, $5, , $179.69
+31-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Nov4`16,180,Call, $0.6,-$431, $168.64
+31-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Nov4`16,180,Put, $11.5, $650, $168.64
+09-Feb-17,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Feb17`17,172.5,Call, $2.98, , $171.82
+09-Feb-17,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Feb17`17,172.5,Put, $3.8, , $171.82
+15-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Feb17`17,172.5,Call, $3.8, $81, $174.2
+15-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Feb17`17,172.5,Put, $2.12,-$168, $174.2
+25-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,May5`17,177.5,Call, $3.35, , $176.68
+25-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,May5`17,177.5,Put, $3.8, , $176.68
+01-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,May5`17,177.5,Call, $2.4,-$96, $176.47
+01-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,May5`17,177.5,Put, $3.4,-$40, $176.47
+27-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Aug4`17,170,Call, $3.4, , $169.36
+27-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Aug4`17,170,Put, $4.1, , $169.36
+02-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Aug4`17,170,Call, $1.5,-$191, $167.1
+02-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Aug4`17,170,Put, $4.65, $55, $167.1
+20-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,SHPG,Oct27`17,145,Call, $3.2, , $145.25
+20-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,SHPG,Oct27`17,145,Put, $2.98, , $145.25
+26-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,SHPG,Oct27`17,145,Call, $0.92,-$229, $138.24
+26-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,SHPG,Oct27`17,145,Put, $7.7, $472, $138.24

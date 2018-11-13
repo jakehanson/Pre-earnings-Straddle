@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+24-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,STX,Feb18`12,20,Call, $0.93, , $19.75
+24-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,STX,Feb18`12,20,Put, $1.36, , $19.75
+30-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Feb18`12,20,Call, $1.52, $58, $20.89
+30-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Feb18`12,20,Put, $0.79,-$57, $20.89
+10-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,STX,Apr21`12,26,Call, $1.38, , $25.64
+10-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,STX,Apr21`12,26,Put, $1.73, , $25.64
+16-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Apr21`12,26,Call, $2.97, $158, $28.51
+16-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Apr21`12,26,Put, $0.44,-$129, $28.51
+23-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,STX,Aug18`12,27,Call, $1.14, , $26.55
+23-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,STX,Aug18`12,27,Put, $1.83, , $26.55
+26-Jul-12,Close 40%CloseAfterGains:Long Calls,-1,STX,Aug18`12,27,Call, $3.52, $237, $30.06
+26-Jul-12,Close 40%CloseAfterGains:Long Puts,-1,STX,Aug18`12,27,Put, $0.68,-$115, $30.06
+24-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,STX,Nov17`12,28,Call, $1.21, , $27.7
+24-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,STX,Nov17`12,28,Put, $1.84, , $27.7
+30-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Nov17`12,28,Call, $1.23, $1, $27.91
+30-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Nov17`12,28,Put, $1.64,-$20, $27.91
+22-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,STX,Feb16`13,38,Call, $1.74, , $37.89
+22-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,STX,Feb16`13,38,Put, $1.9, , $37.89
+25-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Feb16`13,38,Call, $1.21,-$54, $37.25
+25-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Feb16`13,38,Put, $2.04, $14, $37.25
+24-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,STX,May18`13,37,Call, $1.27, , $36.46
+24-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,STX,May18`13,37,Put, $2.22, , $36.46
+30-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,STX,May18`13,37,Call, $1.16,-$12, $36.7
+30-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,STX,May18`13,37,Put, $1.82,-$40, $36.7
+17-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,STX,Aug17`13,47,Call, $1.68, , $46.69
+17-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,STX,Aug17`13,47,Put, $2.28, , $46.69
+23-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Aug17`13,47,Call, $1,-$69, $45.31
+23-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Aug17`13,47,Put, $3.01, $73, $45.31
+21-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,STX,Nov1`13,50,Call, $2.12, , $50.49
+21-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,STX,Nov1`13,50,Put, $1.67, , $50.49
+25-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Nov1`13,50,Call, $1.67,-$46, $49.8
+25-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Nov1`13,50,Put, $1.91, $24, $49.8
+21-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,STX,Jan31`14,61,Call, $2.3, , $61.24
+21-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,STX,Jan31`14,61,Put, $2.12, , $61.24
+24-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Jan31`14,61,Call, $0.96,-$135, $58.57
+24-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Jan31`14,61,Put, $3.32, $120, $58.57
+22-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,STX,May2`14,56,Call, $1.76, , $55.67
+22-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,STX,May2`14,56,Put, $2.08, , $55.67
+28-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,STX,May2`14,56,Call, $0.51,-$126, $52.6
+28-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,STX,May2`14,56,Put, $3.85, $177, $52.6
+10-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,STX,Jul19`14,59,Call, $1.54, , $58.83
+10-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,STX,Jul19`14,59,Put, $1.72, , $58.83
+16-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Jul19`14,59,Call, $2.97, $142, $61.31
+16-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Jul19`14,59,Put, $0.68,-$104, $61.31
+20-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,STX,Oct31`14,54,Call, $1.58, , $53.85
+20-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,STX,Oct31`14,54,Put, $1.76, , $53.85
+24-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Oct31`14,54,Call, $4.68, $309, $58.36
+24-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Oct31`14,54,Put, $0.34,-$142, $58.36
+20-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,STX,Jan30`15,63.5,Call, $1.71, , $63.12
+20-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,STX,Jan30`15,63.5,Put, $2.05, , $63.12
+23-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Jan30`15,63.5,Call, $1.88, $16, $63.98
+23-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Jan30`15,63.5,Put, $1.5,-$55, $63.98
+10-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,STX,Apr17`15,55.5,Call, $1.54, , $55.58
+10-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,STX,Apr17`15,55.5,Put, $1.5, , $55.58
+16-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Apr17`15,55.5,Call, $1.56, $1, $55.96
+16-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Apr17`15,55.5,Put, $1.08,-$42, $55.96
+24-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,STX,Jul31`15,47.5,Call, $1.56, , $47.32
+24-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,STX,Jul31`15,47.5,Put, $1.75, , $47.32
+30-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Jul31`15,47.5,Call, $4, $243, $51.29
+30-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Jul31`15,47.5,Put, $0.28,-$147, $51.29
+23-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,STX,Oct30`15,41.5,Call, $1.23, , $41.15
+23-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,STX,Oct30`15,41.5,Put, $1.59, , $41.15
+29-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Oct30`15,41.5,Call, $0.09,-$115, $38.06
+29-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Oct30`15,41.5,Put, $3.44, $185, $38.06
+22-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,STX,Jan29`16,28,Call, $1.21, , $27.93
+22-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,STX,Jan29`16,28,Put, $1.3, , $27.93
+28-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Jan29`16,28,Call, $0.48,-$74, $26.76
+28-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Jan29`16,28,Put, $1.8, $50, $26.76
+22-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,STX,Apr29`16,25.5,Call, $0.83, , $25.32
+22-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,STX,Apr29`16,25.5,Put, $1, , $25.32
+28-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Apr29`16,25.5,Call, $1.56, $72, $26.9
+28-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Apr29`16,25.5,Put, $0.15,-$85, $26.9
+26-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,STX,Aug5`16,32.5,Call, $1.16, , $32.45
+26-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,STX,Aug5`16,32.5,Put, $1.42, , $32.45
+01-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Aug5`16,32.5,Call, $1.03,-$14, $32.43
+01-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Aug5`16,32.5,Put, $1.19,-$23, $32.43
+12-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,STX,Oct21`16,35.5,Call, $1.18, , $35.23
+12-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,STX,Oct21`16,35.5,Put, $1.45, , $35.23
+18-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Oct21`16,35.5,Call, $0.84,-$35, $35.34
+18-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Oct21`16,35.5,Put, $0.98,-$47, $35.34
+17-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,STX,Jan27`17,37,Call, $1.45, , $37.02
+17-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,STX,Jan27`17,37,Put, $1.42, , $37.02
+23-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Jan27`17,37,Call, $0.97,-$49, $36.37
+23-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Jan27`17,37,Put, $1.61, $19, $36.37
+19-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,STX,Apr28`17,49,Call, $2.07, , $48.56
+19-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,STX,Apr28`17,49,Put, $2.54, , $48.56
+25-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Apr28`17,49,Call, $2.64, $56, $50.51
+25-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Apr28`17,49,Put, $1.13,-$141, $50.51
+18-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,STX,Jul28`17,39,Call, $1.59, , $38.83
+18-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,STX,Jul28`17,39,Put, $1.78, , $38.83
+24-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Jul28`17,39,Call, $1.98, $38, $39.76
+24-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Jul28`17,39,Put, $1.19,-$59, $39.76
+16-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,STX,Oct27`17,35,Call, $1.28, , $34.49
+16-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,STX,Oct27`17,35,Put, $1.84, , $34.49
+20-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,STX,Oct27`17,35,Call, $1.56, $27, $34.94
+20-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,STX,Oct27`17,35,Put, $1.68,-$16, $34.94

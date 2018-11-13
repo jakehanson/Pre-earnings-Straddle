@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+19-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Feb18`12,50,Call, $2.78, , $51.03
+19-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Feb18`12,50,Put, $1.88, , $51.03
+25-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Feb18`12,50,Call, $2.55,-$24, $51.24
+25-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Feb18`12,50,Put, $1.3,-$58, $51.24
+19-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,May19`12,55,Call, $1, , $53.37
+19-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,May19`12,55,Put, $2.9, , $53.37
+25-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,May19`12,55,Call, $0.7,-$31, $53.2
+25-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,May19`12,55,Put, $2.9, , $53.2
+19-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Aug18`12,49,Call, $1.85, , $49.34
+19-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Aug18`12,49,Put, $1.8, , $49.34
+25-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Aug18`12,49,Call, $1.7,-$16, $48.94
+25-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Aug18`12,49,Put, $2.08, $28, $48.94
+18-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Nov17`12,47,Call, $1.25, , $46.57
+18-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Nov17`12,47,Put, $1.95, , $46.57
+24-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Nov17`12,47,Call, $1.45, $19, $47.13
+24-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Nov17`12,47,Put, $1.6,-$35, $47.13
+17-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Feb16`13,50,Call, $2.75, , $51.89
+17-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Feb16`13,50,Put, $1.05, , $51.89
+23-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Feb16`13,50,Call, $2.88, $12, $52.35
+23-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Feb16`13,50,Put, $0.72,-$33, $52.35
+18-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,May18`13,55,Call, $1, , $52.87
+18-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,May18`13,55,Put, $3.5, , $52.87
+24-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,May18`13,55,Call, $1.95, $94, $55.49
+24-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,May18`13,55,Put, $1.8,-$170, $55.49
+18-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Aug17`13,60,Call, $2.22, , $60.18
+18-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Aug17`13,60,Put, $2.35, , $60.18
+24-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Aug17`13,60,Call, $1.67,-$56, $59.45
+24-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Aug17`13,60,Put, $2.6, $25, $59.45
+17-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Nov16`13,65,Call, $1.27, , $63.89
+17-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Nov16`13,65,Put, $2.72, , $63.89
+23-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Nov16`13,65,Call, $0.92,-$36, $63.05
+23-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Nov16`13,65,Put, $3.15, $43, $63.05
+16-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Feb22`14,65,Call, $1.08, , $63.06
+16-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Feb22`14,65,Put, $3.4, , $63.06
+22-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Feb22`14,65,Call, $1.12, $3, $63.66
+22-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Feb22`14,65,Put, $2.78,-$62, $63.66
+17-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,May17`14,65,Call, $2.55, , $66.11
+17-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,May17`14,65,Put, $1.65, , $66.11
+23-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,May17`14,65,Call, $2.82, $26, $66.72
+23-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,May17`14,65,Put, $1.3,-$35, $66.72
+17-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Aug16`14,75,Call, $1.52, , $74.01
+17-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Aug16`14,75,Put, $2.85, , $74.01
+23-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Aug16`14,75,Call, $1.15,-$38, $73.26
+23-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Aug16`14,75,Put, $3.35, $50, $73.26
+16-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Nov22`14,67.5,Call, $3.1, , $68.23
+16-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Nov22`14,67.5,Put, $2.65, , $68.23
+22-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Nov22`14,67.5,Call, $3.9, $79, $70.3
+22-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Nov22`14,67.5,Put, $1.38,-$127, $70.3
+15-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Feb20`15,67.5,Call, $2.62, , $66.87
+15-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Feb20`15,67.5,Put, $3.5, , $66.87
+21-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Feb20`15,67.5,Call, $3.6, $97, $69.41
+21-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Feb20`15,67.5,Put, $1.98,-$152, $69.41
+16-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,May15`15,60,Call, $1.58, , $59.33
+16-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,May15`15,60,Put, $2.6, , $59.33
+22-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,May15`15,60,Call, $1.95, $36, $60.3
+22-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,May15`15,60,Put, $1.95,-$65, $60.3
+23-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Aug21`15,52.5,Call, $1.75, , $52.84
+23-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Aug21`15,52.5,Put, $1.8, , $52.84
+29-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Aug21`15,52.5,Call, $1.25,-$51, $51.74
+29-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Aug21`15,52.5,Put, $2.42, $62, $51.74
+14-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Nov20`15,52.5,Call, $2.17, , $52.59
+14-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Nov20`15,52.5,Put, $2.55, , $52.59
+20-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Nov20`15,52.5,Call, $2.95, $77, $53.86
+20-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Nov20`15,52.5,Put, $1.95,-$60, $53.86
+21-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Feb19`16,65,Call, $1.32, , $64.63
+21-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Feb19`16,65,Put, $1.92, , $64.63
+27-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Feb19`16,65,Call, $0.98,-$35, $64.43
+27-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Feb19`16,65,Put, $1.8,-$12, $64.43
+19-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,May20`16,72.5,Call, $2, , $73.12
+19-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,May20`16,72.5,Put, $2.35, , $73.12
+25-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,May20`16,72.5,Call, $1.8,-$21, $71.59
+25-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,May20`16,72.5,Put, $2.6, $25, $71.59
+22-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Aug19`16,75,Call, $2.28, , $76.06
+22-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Aug19`16,75,Put, $1.95, , $76.06
+27-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Aug19`16,75,Call, $2.9, $61, $77
+27-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Aug19`16,75,Put, $2.4, $45, $77
+13-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Oct21`16,72.5,Call, $1.32, , $71.34
+13-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Oct21`16,72.5,Put, $2.45, , $71.34
+19-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Oct21`16,72.5,Call, $1.27,-$6, $71.94
+19-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Oct21`16,72.5,Put, $1.72,-$73, $71.94
+19-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Feb17`17,82.5,Call, $1.78, , $81.15
+19-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Feb17`17,82.5,Put, $3.35, , $81.15
+25-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Feb17`17,82.5,Call, $3.75, $196, $84.67
+25-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Feb17`17,82.5,Put, $1.78,-$157, $84.67
+20-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,May19`17,97.5,Call, $3.25, , $98.51
+20-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,May19`17,97.5,Put, $2.42, , $98.51
+26-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,May19`17,97.5,Call, $4.65, $139, $100.8
+26-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,May19`17,97.5,Put, $1.45,-$97, $100.8
+20-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Aug18`17,100,Call, $4.1, , $101.7
+20-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Aug18`17,100,Put, $2.75, , $101.7
+26-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Aug18`17,100,Call, $3.3,-$81, $100.86
+26-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Aug18`17,100,Put, $2.85, $10, $100.86
+19-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,KLAC,Nov17`17,110,Call, $2.62, , $108.05
+19-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,KLAC,Nov17`17,110,Put, $4.85, , $108.05
+25-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,KLAC,Nov17`17,110,Call, $1.7,-$93, $106.71
+25-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,KLAC,Nov17`17,110,Put, $5.5, $65, $106.71

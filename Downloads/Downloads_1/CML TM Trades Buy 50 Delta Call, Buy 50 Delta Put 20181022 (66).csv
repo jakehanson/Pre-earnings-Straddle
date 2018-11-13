@@ -1,0 +1,61 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+09-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Apr19`14,565,Call, $16.85, , $564.14
+09-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Apr19`14,565,Put, $17.35, , $564.14
+15-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Apr19`14,565,Call, $4.75,-$1211, $536.44
+15-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Apr19`14,565,Put, $34.05, $1670, $536.44
+10-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Jul19`14,572.5,Call, $12.55, , $571.1
+10-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Jul19`14,572.5,Put, $13.7, , $571.1
+16-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Jul19`14,572.5,Call, $18.3, $574, $582.66
+16-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Jul19`14,572.5,Put, $7.95,-$575, $582.66
+09-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Oct18`14,562.5,Call, $13.05, , $560.88
+09-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Oct18`14,562.5,Put, $13.7, , $560.88
+13-Oct-14,Close 40%CloseAfterGains:Long Calls,-1,GOOG,Oct18`14,562.5,Call, $4.8,-$826, $533.21
+13-Oct-14,Close 40%CloseAfterGains:Long Puts,-1,GOOG,Oct18`14,562.5,Put, $32.95, $1925, $533.21
+22-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Jan30`15,535,Call, $11.55, , $534.39
+22-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Jan30`15,535,Put, $12.55, , $534.39
+28-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Jan30`15,535,Call, $2.92,-$864, $510
+28-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Jan30`15,535,Put, $27.45, $1490, $510
+16-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Apr24`15,535,Call, $10.9, , $533.8
+16-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Apr24`15,535,Put, $12.1, , $533.8
+22-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Apr24`15,535,Call, $13.3, $239, $539.37
+22-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Apr24`15,535,Put, $8.6,-$350, $539.37
+09-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Jul17`15,522.5,Call, $10.25, , $520.68
+09-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Jul17`15,522.5,Put, $11.3, , $520.68
+14-Jul-15,Close 40%CloseAfterGains:Long Calls,-1,GOOG,Jul17`15,522.5,Call, $39.2, $2894, $561.1
+14-Jul-15,Close 40%CloseAfterGains:Long Puts,-1,GOOG,Jul17`15,522.5,Put, $0.77,-$1053, $561.1
+15-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Oct23`15,662.5,Call, $19.4, , $661.74
+15-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Oct23`15,662.5,Put, $20.7, , $661.74
+21-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Oct23`15,662.5,Call, $10.85,-$856, $642.61
+21-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Oct23`15,662.5,Put, $30.75, $1005, $642.61
+25-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Feb5`16,715,Call, $25.95, , $711.67
+25-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Feb5`16,715,Put, $28.75, , $711.67
+29-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Feb5`16,715,Call, $40.55, $1459, $742.95
+29-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Feb5`16,715,Put, $14.1,-$1465, $742.95
+14-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Apr22`16,755,Call, $20, , $753.2
+14-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Apr22`16,755,Put, $21.25, , $753.2
+20-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Apr22`16,755,Call, $18.65,-$136, $752.67
+20-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Apr22`16,755,Put, $20.6,-$65, $752.67
+21-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Jul29`16,740,Call, $17.1, , $738.63
+21-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Jul29`16,740,Put, $18.35, , $738.63
+27-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Jul29`16,740,Call, $18, $89, $741.77
+27-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Jul29`16,740,Put, $17,-$135, $741.77
+20-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Oct28`16,800,Call, $20.3, , $796.97
+20-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Oct28`16,800,Put, $22.55, , $796.97
+26-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Oct28`16,800,Call, $19.9,-$41, $799.07
+26-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Oct28`16,800,Put, $20.7,-$185, $799.07
+19-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Jan27`17,802.5,Call, $17.55, , $802.18
+19-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Jan27`17,802.5,Put, $17.35, , $802.18
+25-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Jan27`17,802.5,Call, $37.45, $1989, $835.67
+25-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Jan27`17,802.5,Put, $4.65,-$1270, $835.67
+20-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Apr28`17,842.5,Call, $14.8, , $841.65
+20-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Apr28`17,842.5,Put, $14.45, , $841.65
+26-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Apr28`17,842.5,Call, $33.8, $1899, $871.73
+26-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Apr28`17,842.5,Put, $4.25,-$1020, $871.73
+17-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Jul28`17,955,Call, $20.45, , $953.42
+17-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Jul28`17,955,Put, $21.3, , $953.42
+21-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Jul28`17,955,Call, $31.05, $1059, $972.92
+21-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Jul28`17,955,Put, $13.1,-$820, $972.92
+19-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,GOOG,Oct27`17,985,Call, $20.7, , $984.45
+19-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,GOOG,Oct27`17,985,Put, $20.25, , $984.45
+25-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,GOOG,Oct27`17,985,Call, $13.9,-$681, $973.33
+25-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,GOOG,Oct27`17,985,Put, $26.55, $630, $973.33

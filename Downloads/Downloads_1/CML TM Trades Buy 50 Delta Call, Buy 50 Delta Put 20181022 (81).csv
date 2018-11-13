@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+12-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jan21`12,460,Call, $13.25, , $458.13
+12-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jan21`12,460,Put, $14.65, , $458.13
+18-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jan21`12,460,Call, $19.45, $619, $470.86
+18-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jan21`12,460,Put, $9.35,-$530, $470.86
+10-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Apr21`12,540,Call, $15.2, , $535.24
+10-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Apr21`12,540,Put, $20.35, , $535.24
+16-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Apr21`12,540,Call, $16.9, $169, $541.09
+16-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Apr21`12,540,Put, $16.1,-$425, $541.09
+12-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jul21`12,535,Call, $18.2, , $534.59
+12-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jul21`12,535,Put, $18, , $534.59
+18-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jul21`12,535,Call, $24, $579, $549.36
+18-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jul21`12,535,Put, $10.2,-$780, $549.36
+09-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Oct20`12,500,Call, $17.55, , $495.16
+09-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Oct20`12,500,Put, $22.55, , $495.16
+15-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Oct20`12,500,Call, $26.1, $854, $512.53
+15-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Oct20`12,500,Put, $13.2,-$935, $512.53
+15-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Feb16`13,505,Call, $22.2, , $503.59
+15-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Feb16`13,505,Put, $23.4, , $503.59
+22-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Feb16`13,505,Call, $27.55, $534, $518.49
+22-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Feb16`13,505,Put, $14.3,-$910, $518.49
+11-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Apr20`13,515,Call, $16, , $512.57
+11-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Apr20`13,515,Put, $19, , $512.57
+17-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Apr20`13,515,Call, $14.65,-$136, $507.64
+17-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Apr20`13,515,Put, $20.95, $195, $507.64
+11-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jul20`13,430,Call, $9.75, , $430
+11-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jul20`13,430,Put, $11.25, , $430
+17-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jul20`13,430,Call, $5.8,-$396, $415.54
+17-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jul20`13,430,Put, $19.95, $870, $415.54
+10-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Oct19`13,390,Call, $13.85, , $387.21
+10-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Oct19`13,390,Put, $16.95, , $387.21
+16-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Oct19`13,390,Call, $20.25, $639, $401.33
+16-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Oct19`13,390,Put, $9.4,-$755, $401.33
+16-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jan24`14,415,Call, $13.95, , $414.39
+16-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jan24`14,415,Put, $14.25, , $414.39
+22-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jan24`14,415,Call, $28.45, $1449, $439.12
+22-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jan24`14,415,Put, $5.45,-$880, $439.12
+15-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Apr25`14,420,Call, $14.35, , $417.09
+15-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Apr25`14,420,Put, $16.55, , $417.09
+21-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Apr25`14,420,Call, $9.8,-$456, $411.11
+21-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Apr25`14,420,Put, $18.25, $170, $411.11
+15-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jul25`14,385,Call, $16.05, , $383.57
+15-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jul25`14,385,Put, $16.65, , $383.57
+21-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jul25`14,385,Call, $17.15, $109, $388.72
+21-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jul25`14,385,Put, $14.75,-$190, $388.72
+14-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Nov22`14,465,Call, $22.35, , $461.31
+14-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Nov22`14,465,Put, $25.3, , $461.31
+20-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Nov22`14,465,Call, $37.95, $1559, $485.26
+20-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Nov22`14,465,Put, $17.5,-$780, $485.26
+15-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jan23`15,525,Call, $14.3, , $524.38
+15-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jan23`15,525,Put, $14.1, , $524.38
+21-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jan23`15,525,Call, $9.85,-$446, $518.12
+21-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jan23`15,525,Put, $16.85, $275, $518.12
+14-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Apr24`15,537.5,Call, $17.35, , $536.05
+14-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Apr24`15,537.5,Put, $20, , $536.05
+20-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Apr24`15,537.5,Call, $25.7, $834, $552.98
+20-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Apr24`15,537.5,Put, $10.6,-$940, $552.98
+14-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jul24`15,492.5,Call, $15.25, , $491.95
+14-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jul24`15,492.5,Put, $15.2, , $491.95
+20-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jul24`15,492.5,Call, $17.25, $199, $497.61
+20-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jul24`15,492.5,Put, $12.5,-$270, $497.61
+13-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Oct23`15,460,Call, $19.05, , $456.41
+13-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Oct23`15,460,Put, $22.85, , $456.41
+19-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Oct23`15,460,Call, $28.35, $929, $478.44
+19-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Oct23`15,460,Put, $10.15,-$1270, $478.44
+14-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jan22`16,557.5,Call, $15.65, , $555.77
+14-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jan22`16,557.5,Put, $19.05, , $555.77
+20-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jan22`16,557.5,Call, $16.95, $129, $554.56
+20-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jan22`16,557.5,Put, $17,-$205, $554.56
+12-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Apr22`16,630,Call, $17.4, , $625.51
+12-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Apr22`16,630,Put, $21.55, , $625.51
+18-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Apr22`16,630,Call, $16.4,-$101, $626.98
+18-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Apr22`16,630,Put, $19.9,-$165, $626.98
+12-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jul22`16,675,Call, $20.65, , $675.31
+12-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jul22`16,675,Put, $19.8, , $675.31
+18-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jul22`16,675,Call, $15.45,-$521, $670.54
+18-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jul22`16,675,Put, $19.75,-$5, $670.54
+11-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Oct21`16,712.5,Call, $17.7, , $710.3
+11-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Oct21`16,712.5,Put, $19.8, , $710.3
+17-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Oct21`16,712.5,Call, $16.65,-$106, $709.44
+17-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Oct21`16,712.5,Put, $19.7,-$10, $709.44
+17-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jan27`17,665,Call, $15.15, , $663.74
+17-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jan27`17,665,Put, $15.65, , $663.74
+23-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jan27`17,665,Call, $9.9,-$526, $655.03
+23-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jan27`17,665,Put, $19.65, $400, $655.03
+11-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Apr21`17,765,Call, $14.8, , $764.83
+11-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Apr21`17,765,Put, $15.9, , $764.83
+17-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Apr21`17,765,Call, $16.2, $139, $768.28
+17-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Apr21`17,765,Put, $12.05,-$385, $768.28
+13-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Jul21`17,940,Call, $19.85, , $938.54
+13-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Jul21`17,940,Put, $21.4, , $938.54
+19-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Jul21`17,940,Call, $35.3, $1544, $966.79
+19-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Jul21`17,940,Put, $8.8,-$1260, $966.79
+12-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,ISRG,Oct20`17,363.33,Call, $8.45, , $362.53
+12-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,ISRG,Oct20`17,363.33,Put, $9.2, , $362.53
+18-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,ISRG,Oct20`17,363.33,Call, $4.8,-$366, $354.37
+18-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,ISRG,Oct20`17,363.33,Put, $13.75, $455, $354.37

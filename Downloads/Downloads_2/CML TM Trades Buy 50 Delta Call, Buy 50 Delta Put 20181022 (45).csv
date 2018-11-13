@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+12-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jan21`12,52.5,Call, $1.1, , $52.87
+12-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jan21`12,52.5,Put, $0.74, , $52.87
+18-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jan21`12,52.5,Call, $1.77, $66, $53.94
+18-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jan21`12,52.5,Put, $0.3,-$44, $53.94
+12-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Apr21`12,57.5,Call, $1.56, , $58.46
+12-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Apr21`12,57.5,Put, $0.61, , $58.46
+18-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Apr21`12,57.5,Call, $0.67,-$90, $57.32
+18-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Apr21`12,57.5,Put, $0.76, $15, $57.32
+12-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jul21`12,55,Call, $0.9, , $54.57
+12-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jul21`12,55,Put, $1.34, , $54.57
+18-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jul21`12,55,Call, $1.73, $82, $56.35
+18-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jul21`12,55,Put, $0.32,-$102, $56.35
+09-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Oct20`12,57.5,Call, $0.94, , $57.47
+09-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Oct20`12,57.5,Put, $0.94, , $57.47
+15-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Oct20`12,57.5,Call, $0.83,-$12, $57.49
+15-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Oct20`12,57.5,Put, $0.78,-$16, $57.49
+10-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jan19`13,52.5,Call, $1.16, , $53.11
+10-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jan19`13,52.5,Put, $0.57, , $53.11
+16-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jan19`13,52.5,Call, $1.54, $37, $53.66
+16-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jan19`13,52.5,Put, $0.4,-$17, $53.66
+11-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Apr20`13,62.5,Call, $1.25, , $62.98
+11-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Apr20`13,62.5,Put, $0.76, , $62.98
+17-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Apr20`13,62.5,Call, $0.72,-$54, $62.03
+17-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Apr20`13,62.5,Put, $1.08, $32, $62.03
+11-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jul20`13,67.5,Call, $1.58, , $68.36
+11-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jul20`13,67.5,Put, $0.7, , $68.36
+17-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jul20`13,67.5,Call, $0.45,-$114, $66.23
+17-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jul20`13,67.5,Put, $1.88, $118, $66.23
+10-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Oct19`13,74,Call, $1.19, , $73.98
+10-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Oct19`13,74,Put, $1.3, , $73.98
+16-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Oct19`13,74,Call, $1.82, $62, $75.19
+16-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Oct19`13,74,Put, $0.65,-$65, $75.19
+09-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jan18`14,76,Call, $1.49, , $76.08
+09-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jan18`14,76,Put, $1.41, , $76.08
+15-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jan18`14,76,Call, $0.7,-$80, $74.84
+15-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jan18`14,76,Put, $1.96, $55, $74.84
+10-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Apr19`14,80,Call, $1.51, , $79.99
+10-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Apr19`14,80,Put, $1.39, , $79.99
+16-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Apr19`14,80,Call, $0.42,-$110, $78.19
+16-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Apr19`14,80,Put, $2.28, $89, $78.19
+10-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jul19`14,82.5,Call, $1.14, , $82.08
+10-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jul19`14,82.5,Put, $1.52, , $82.08
+16-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jul19`14,82.5,Call, $2.02, $87, $83.76
+16-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jul19`14,82.5,Put, $0.8,-$72, $83.76
+09-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Oct18`14,85,Call, $1.73, , $84.94
+09-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Oct18`14,85,Put, $1.66, , $84.94
+15-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Oct18`14,85,Call, $0.6,-$114, $82.16
+15-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Oct18`14,85,Put, $3.4, $174, $82.16
+14-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jan23`15,103,Call, $2.2, , $103.33
+14-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jan23`15,103,Put, $1.86, , $103.33
+20-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jan23`15,103,Call, $3.35, $114, $105.62
+20-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jan23`15,103,Put, $0.78,-$108, $105.62
+09-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Apr17`15,119,Call, $2.02, , $118.55
+09-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Apr17`15,119,Put, $2.41, , $118.55
+15-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Apr17`15,119,Call, $1.04,-$99, $117.32
+15-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Apr17`15,119,Put, $2.8, $39, $117.32
+09-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jul17`15,120,Call, $2.24, , $119.34
+09-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jul17`15,120,Put, $2.72, , $119.34
+15-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jul17`15,120,Call, $5.92, $367, $125.86
+15-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jul17`15,120,Put, $0.26,-$246, $125.86
+08-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Oct16`15,116,Call, $2.64, , $116.08
+08-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Oct16`15,116,Put, $2.6, , $116.08
+13-Oct-15,Close 40%CloseAfterGains:Long Calls,-1,UNH,Oct16`15,116,Call, $8.62, $597, $123.99
+13-Oct-15,Close 40%CloseAfterGains:Long Puts,-1,UNH,Oct16`15,116,Put, $0.18,-$242, $123.99
+12-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jan22`16,112,Call, $2.69, , $112.26
+12-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jan22`16,112,Put, $2.44, , $112.26
+19-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jan22`16,112,Call, $1.63,-$107, $112.58
+19-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jan22`16,112,Put, $1.37,-$107, $112.58
+12-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Apr22`16,127,Call, $2.28, , $126.8
+12-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Apr22`16,127,Put, $2.4, , $126.8
+18-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Apr22`16,127,Call, $2.19,-$10, $127.81
+18-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Apr22`16,127,Put, $1.58,-$82, $127.81
+12-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jul22`16,140,Call, $2.28, , $139.86
+12-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jul22`16,140,Put, $2.42, , $139.86
+18-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jul22`16,140,Call, $2.53, $24, $140.75
+18-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jul22`16,140,Put, $1.81,-$61, $140.75
+11-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Oct21`16,135,Call, $2.26, , $134.75
+11-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Oct21`16,135,Put, $2.52, , $134.75
+17-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Oct21`16,135,Call, $1.42,-$85, $134.13
+17-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Oct21`16,135,Put, $2.31,-$21, $134.13
+10-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jan20`17,162.5,Call, $2.5, , $161.58
+10-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jan20`17,162.5,Put, $3.38, , $161.58
+17-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jan20`17,162.5,Call, $0.44,-$207, $160.66
+17-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jan20`17,162.5,Put, $2.36,-$102, $160.66
+11-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Apr21`17,165,Call, $2.9, , $165.83
+11-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Apr21`17,165,Put, $2.18, , $165.83
+17-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Apr21`17,165,Call, $3.55, $64, $167.18
+17-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Apr21`17,165,Put, $1.46,-$72, $167.18
+11-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Jul21`17,185,Call, $3.58, , $185.95
+11-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Jul21`17,185,Put, $2.49, , $185.95
+17-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Jul21`17,185,Call, $3.45,-$14, $186.35
+17-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Jul21`17,185,Put, $1.8,-$69, $186.35
+10-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,UNH,Oct20`17,195,Call, $3, , $194.68
+10-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,UNH,Oct20`17,195,Put, $3.32, , $194.68
+16-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,UNH,Oct20`17,195,Call, $2.31,-$70, $193.2
+16-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,UNH,Oct20`17,195,Put, $4.22, $90, $193.2

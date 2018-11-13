@@ -1,0 +1,81 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+04-Feb-13,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Feb16`13,30,Call, $0.25, , $28.41
+04-Feb-13,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Feb16`13,30,Put, $1.8, , $28.41
+08-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Feb16`13,30,Call, $0.08,-$18, $27.91
+08-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Feb16`13,30,Put, $2.12, $32, $27.91
+29-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,May18`13,30,Call, $1.38, , $30.36
+29-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,May18`13,30,Put, $1.15, , $30.36
+03-May-13,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,May18`13,30,Call, $2.1, $71, $31.53
+03-May-13,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,May18`13,30,Put, $0.45,-$70, $31.53
+22-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Aug17`13,30,Call, $1.9, , $31.3
+22-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Aug17`13,30,Put, $0.7, , $31.3
+26-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Aug17`13,30,Call, $1.75,-$16, $30.97
+26-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Aug17`13,30,Put, $0.75, $5, $30.97
+21-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Nov16`13,30,Call, $2.1, , $31.22
+21-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Nov16`13,30,Put, $0.88, , $31.22
+25-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Nov16`13,30,Call, $2.9, $79, $32.44
+25-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Nov16`13,30,Put, $0.28,-$60, $32.44
+11-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Feb22`14,35,Call, $1.67, , $36.25
+11-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Feb22`14,35,Put, $0.3, , $36.25
+18-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Feb22`14,35,Call, $0.1,-$158, $33.56
+18-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Feb22`14,35,Put, $1.42, $112, $33.56
+22-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,May17`14,30,Call, $1.5, , $30.79
+22-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,May17`14,30,Put, $0.7, , $30.79
+28-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,May17`14,30,Call, $1.95, $44, $31.67
+28-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,May17`14,30,Put, $0.43,-$27, $31.67
+21-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Aug16`14,30,Call, $2.33, , $31.89
+21-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Aug16`14,30,Put, $0.4, , $31.89
+25-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Aug16`14,30,Call, $2.72, $38, $32.4
+25-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Aug16`14,30,Put, $0.28,-$12, $32.4
+22-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Nov22`14,35,Call, $1.05, , $34.64
+22-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Nov22`14,35,Put, $1.15, , $34.64
+28-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Nov22`14,35,Call, $2.02, $96, $36.23
+28-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Nov22`14,35,Put, $1.3, $15, $36.23
+10-Feb-15,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Feb20`15,45,Call, $0.57, , $44.12
+10-Feb-15,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Feb20`15,45,Put, $1.4, , $44.12
+17-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Feb20`15,45,Call, $0.48,-$10, $43.4
+17-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Feb20`15,45,Put, $2.05, $65, $43.4
+30-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,May15`15,50,Call, $1.02, , $48.51
+30-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,May15`15,50,Put, $2.62, , $48.51
+06-May-15,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,May15`15,50,Call, $0.92,-$11, $48.7
+06-May-15,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,May15`15,50,Put, $2.12,-$50, $48.7
+28-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Aug21`15,60,Call, $1.23, , $58.43
+28-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Aug21`15,60,Put, $2.88, , $58.43
+03-Aug-15,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Aug21`15,60,Call, $3.3, $206, $62
+03-Aug-15,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Aug21`15,60,Put, $1.48,-$140, $62
+27-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Nov20`15,65,Call, $1.83, , $63.63
+27-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Nov20`15,65,Put, $3.3, , $63.63
+02-Nov-15,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Nov20`15,65,Call, $1.85, $1, $63.76
+02-Nov-15,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Nov20`15,65,Put, $3.05,-$25, $63.76
+16-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Mar18`16,40,Call, $3.03, , $40.56
+16-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Mar18`16,40,Put, $2.45, , $40.56
+22-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Mar18`16,40,Call, $5.2, $216, $44.08
+22-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Mar18`16,40,Put, $1,-$145, $44.08
+03-May-16,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,May20`16,50,Call, $2.05, , $50.14
+03-May-16,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,May20`16,50,Put, $1.95, , $50.14
+09-May-16,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,May20`16,50,Call, $1.32,-$74, $49.25
+09-May-16,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,May20`16,50,Put, $2.08, $13, $49.25
+02-Aug-16,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Aug19`16,40,Call, $1.35, , $39.76
+02-Aug-16,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Aug19`16,40,Put, $1.62, , $39.76
+08-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Aug19`16,40,Call, $3.5, $214, $42.96
+08-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Aug19`16,40,Put, $0.6,-$102, $42.96
+02-Nov-16,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Nov18`16,37.5,Call, $1.52, , $37.49
+02-Nov-16,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Nov18`16,37.5,Put, $1.52, , $37.49
+08-Nov-16,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Nov18`16,37.5,Call, $2.55, $102, $39.13
+08-Nov-16,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Nov18`16,37.5,Put, $0.88,-$64, $39.13
+15-Feb-17,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Mar17`17,47.5,Call, $2.33, , $47.92
+15-Feb-17,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Mar17`17,47.5,Put, $1.85, , $47.92
+21-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Mar17`17,47.5,Call, $2.33,-$1, $48.2
+21-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Mar17`17,47.5,Put, $1.52,-$33, $48.2
+03-May-17,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,May19`17,55,Call, $1.78, , $54.9
+03-May-17,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,May19`17,55,Put, $1.85, , $54.9
+09-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,May19`17,55,Call, $2.15, $36, $55.78
+09-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,May19`17,55,Put, $1.3,-$55, $55.78
+01-Aug-17,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Aug18`17,57.5,Call, $1.55, , $56.91
+01-Aug-17,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Aug18`17,57.5,Put, $2.1, , $56.91
+07-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Aug18`17,57.5,Call, $1.25,-$31, $56.65
+07-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Aug18`17,57.5,Put, $2.17, $7, $56.65
+02-Nov-17,Open 7DaysBeforeEarnings:Long Calls,1,NCLH,Nov17`17,55,Call, $1.82, , $54.91
+02-Nov-17,Open 7DaysBeforeEarnings:Long Puts,1,NCLH,Nov17`17,55,Put, $1.85, , $54.91
+08-Nov-17,Close 1DaysBeforeEarnings:Long Calls,-1,NCLH,Nov17`17,55,Call, $1.8,-$3, $55.56
+08-Nov-17,Close 1DaysBeforeEarnings:Long Puts,-1,NCLH,Nov17`17,55,Put, $1.33,-$52, $55.56

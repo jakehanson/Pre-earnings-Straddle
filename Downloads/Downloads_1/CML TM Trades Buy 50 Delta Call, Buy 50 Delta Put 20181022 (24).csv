@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+15-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Mar17`12,35,Call, $1.78, , $34.98
+15-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Mar17`12,35,Put, $1.82, , $34.98
+21-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Mar17`12,35,Call, $1.92, $13, $35.47
+21-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Mar17`12,35,Put, $1.52,-$30, $35.47
+15-May-12,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Jun16`12,30,Call, $2.17, , $31.05
+15-May-12,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Jun16`12,30,Put, $1.23, , $31.05
+21-May-12,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Jun16`12,30,Call, $1.9,-$28, $30.91
+21-May-12,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Jun16`12,30,Put, $1.2,-$3, $30.91
+09-Aug-12,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Aug18`12,35,Call, $2.78, , $37.32
+09-Aug-12,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Aug18`12,35,Put, $0.48, , $37.32
+15-Aug-12,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Aug18`12,35,Call, $2.05,-$74, $36.58
+15-Aug-12,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Aug18`12,35,Put, $0.5, $2, $36.58
+23-Nov-12,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Dec22`12,35,Call, $0.73, , $33.55
+23-Nov-12,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Dec22`12,35,Put, $2.3, , $33.55
+28-Nov-12,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Dec22`12,35,Call, $1.08, $34, $34.56
+28-Nov-12,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Dec22`12,35,Put, $1.62,-$68, $34.56
+19-Feb-13,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Mar16`13,35,Call, $1.75, , $35.55
+19-Feb-13,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Mar16`13,35,Put, $1.25, , $35.55
+25-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Mar16`13,35,Call, $0.78,-$98, $32.95
+25-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Mar16`13,35,Put, $2.8, $155, $32.95
+22-May-13,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Jun22`13,35,Call, $1.05, , $34.56
+22-May-13,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Jun22`13,35,Put, $1.7, , $34.56
+28-May-13,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Jun22`13,35,Call, $0.98,-$8, $34.44
+28-May-13,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Jun22`13,35,Put, $1.7, , $34.44
+20-Aug-13,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Sep21`13,37.5,Call, $1.1, , $36.79
+20-Aug-13,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Sep21`13,37.5,Put, $1.9, , $36.79
+26-Aug-13,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Sep21`13,37.5,Call, $1.35, $24, $37.48
+26-Aug-13,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Sep21`13,37.5,Put, $1.58,-$32, $37.48
+27-Nov-13,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Dec21`13,45,Call, $1.38, , $44.67
+27-Nov-13,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Dec21`13,45,Put, $1.85, , $44.67
+03-Dec-13,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Dec21`13,45,Call, $1.45, $6, $44.78
+03-Dec-13,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Dec21`13,45,Put, $1.88, $3, $44.78
+18-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Mar22`14,57.5,Call, $2.82, , $58.37
+18-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Mar22`14,57.5,Put, $2.2, , $58.37
+24-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Mar22`14,57.5,Call, $3.5, $67, $59.57
+24-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Mar22`14,57.5,Put, $1.5,-$70, $59.57
+22-May-14,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Jun21`14,70,Call, $2.08, , $68.68
+22-May-14,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Jun21`14,70,Put, $3.55, , $68.68
+28-May-14,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Jun21`14,70,Call, $2.75, $66, $70.1
+28-May-14,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Jun21`14,70,Put, $2.75,-$80, $70.1
+21-Aug-14,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Sep20`14,77.5,Call, $1.88, , $76.27
+21-Aug-14,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Sep20`14,77.5,Put, $3.45, , $76.27
+27-Aug-14,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Sep20`14,77.5,Call, $1.72,-$17, $76.16
+27-Aug-14,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Sep20`14,77.5,Put, $3.3,-$15, $76.16
+26-Nov-14,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Dec20`14,95,Call, $3.2, , $93.78
+26-Nov-14,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Dec20`14,95,Put, $4.6, , $93.78
+02-Dec-14,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Dec20`14,95,Call, $2.35,-$86, $92.2
+02-Dec-14,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Dec20`14,95,Put, $5.45, $85, $92.2
+18-Feb-15,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Mar20`15,110,Call, $5.1, , $110
+18-Feb-15,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Mar20`15,110,Put, $5.15, , $110
+24-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Mar20`15,110,Call, $6.55, $144, $113.18
+24-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Mar20`15,110,Put, $3.55,-$160, $113.18
+21-May-15,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Jun19`15,130,Call, $5.85, , $129.59
+21-May-15,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Jun19`15,130,Put, $6.35, , $129.59
+27-May-15,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Jun19`15,130,Call, $15.3, $944, $141.49
+27-May-15,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Jun19`15,130,Put, $3.65,-$270, $141.49
+19-Aug-15,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Sep18`15,125,Call, $5.1, , $121.45
+19-Aug-15,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Sep18`15,125,Put, $8.85, , $121.45
+24-Aug-15,Close 40%CloseAfterGains:Long Calls,-1,AVGO,Sep18`15,125,Call, $2.4,-$271, $109.94
+24-Aug-15,Close 40%CloseAfterGains:Long Puts,-1,AVGO,Sep18`15,125,Put, $17.7, $885, $109.94
+25-Nov-15,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Dec4`15,129,Call, $4.95, , $128.39
+25-Nov-15,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Dec4`15,129,Put, $5.5, , $128.39
+01-Dec-15,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Dec4`15,129,Call, $7.35, $239, $132.89
+01-Dec-15,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Dec4`15,129,Put, $3.45,-$205, $132.89
+25-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Mar4`16,133,Call, $5.15, , $132.47
+25-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Mar4`16,133,Put, $5.95, , $132.47
+02-Mar-16,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Mar4`16,133,Call, $7.05, $189, $136.97
+02-Mar-16,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Mar4`16,133,Put, $3.18,-$277, $136.97
+26-May-16,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Jun3`16,152.5,Call, $5.45, , $153.02
+26-May-16,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Jun3`16,152.5,Put, $4.8, , $153.02
+01-Jun-16,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Jun3`16,152.5,Call, $6.35, $89, $154.77
+01-Jun-16,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Jun3`16,152.5,Put, $4.15,-$65, $154.77
+25-Aug-16,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Sep2`16,177.5,Call, $4.9, , $176.04
+25-Aug-16,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Sep2`16,177.5,Put, $6.4, , $176.04
+31-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Sep2`16,177.5,Call, $4.6,-$31, $176.42
+31-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Sep2`16,177.5,Put, $5.6,-$80, $176.42
+01-Dec-16,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Dec9`16,162.5,Call, $5.45, , $162.79
+01-Dec-16,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Dec9`16,162.5,Put, $5.3, , $162.79
+07-Dec-16,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Dec9`16,162.5,Call, $8.05, $259, $168.55
+07-Dec-16,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Dec9`16,162.5,Put, $2.17,-$313, $168.55
+22-Feb-17,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Mar3`17,215,Call, $4.95, , $214.16
+22-Feb-17,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Mar3`17,215,Put, $5.85, , $214.16
+28-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Mar3`17,215,Call, $3.1,-$186, $210.93
+28-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Mar3`17,215,Put, $7.25, $140, $210.93
+25-May-17,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Jun2`17,242.5,Call, $5.5, , $240.86
+25-May-17,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Jun2`17,242.5,Put, $7.1, , $240.86
+31-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Jun2`17,242.5,Call, $4.7,-$81, $239.48
+31-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Jun2`17,242.5,Put, $7.25, $15, $239.48
+17-Aug-17,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Aug25`17,247.5,Call, $7.1, , $246.95
+17-Aug-17,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Aug25`17,247.5,Put, $7.65, , $246.95
+23-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Aug25`17,247.5,Call, $12.45, $534, $256.92
+23-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Aug25`17,247.5,Put, $2.85,-$480, $256.92
+29-Nov-17,Open 7DaysBeforeEarnings:Long Calls,1,AVGO,Dec8`17,272.5,Call, $7.75, , $271.5
+29-Nov-17,Open 7DaysBeforeEarnings:Long Puts,1,AVGO,Dec8`17,272.5,Put, $9, , $271.5
+05-Dec-17,Close 1DaysBeforeEarnings:Long Calls,-1,AVGO,Dec8`17,272.5,Call, $2.45,-$531, $261.65
+05-Dec-17,Close 1DaysBeforeEarnings:Long Puts,-1,AVGO,Dec8`17,272.5,Put, $13.25, $425, $261.65

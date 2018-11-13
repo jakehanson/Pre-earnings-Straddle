@@ -1,0 +1,37 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+21-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,PYPL,Oct30`15,34,Call, $1.38, , $33.83
+21-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,PYPL,Oct30`15,34,Put, $1.55, , $33.83
+27-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,PYPL,Oct30`15,34,Call, $2.5, $111, $35.94
+27-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,PYPL,Oct30`15,34,Put, $0.57,-$98, $35.94
+20-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,PYPL,Jan29`16,31.5,Call, $0.88, , $31.2
+20-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,PYPL,Jan29`16,31.5,Put, $1.5, , $31.2
+26-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,PYPL,Jan29`16,31.5,Call, $1.23, $34, $31.97
+26-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,PYPL,Jan29`16,31.5,Put, $0.8,-$70, $31.97
+20-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,PYPL,Apr29`16,40.5,Call, $1.35, , $40.08
+20-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,PYPL,Apr29`16,40.5,Put, $1.72, , $40.08
+26-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,PYPL,Apr29`16,40.5,Call, $0.95,-$41, $39.73
+26-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,PYPL,Apr29`16,40.5,Put, $1.75, $3, $39.73
+14-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,PYPL,Jul22`16,40,Call, $1.21, , $39.96
+14-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,PYPL,Jul22`16,40,Put, $1.22, , $39.96
+20-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,PYPL,Jul22`16,40,Call, $1.21,-$1, $40.05
+20-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,PYPL,Jul22`16,40,Put, $1.11,-$11, $40.05
+13-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,PYPL,Oct21`16,39.5,Call, $0.84, , $39.2
+13-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,PYPL,Oct21`16,39.5,Put, $1.18, , $39.2
+19-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,PYPL,Oct21`16,39.5,Call, $1.37, $52, $40.24
+19-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,PYPL,Oct21`16,39.5,Put, $0.62,-$56, $40.24
+19-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,PYPL,Jan27`17,41.5,Call, $1.08, , $41.27
+19-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,PYPL,Jan27`17,41.5,Put, $1.26, , $41.27
+25-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,PYPL,Jan27`17,41.5,Call, $1.13, $4, $41.71
+25-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,PYPL,Jan27`17,41.5,Put, $0.87,-$39, $41.71
+19-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,PYPL,Apr28`17,43.5,Call, $0.96, , $43.3
+19-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,PYPL,Apr28`17,43.5,Put, $1.14, , $43.3
+25-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,PYPL,Apr28`17,43.5,Call, $1.66, $69, $44.71
+25-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,PYPL,Apr28`17,43.5,Put, $0.44,-$70, $44.71
+19-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,PYPL,Jul28`17,58.5,Call, $1.64, , $58.35
+19-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,PYPL,Jul28`17,58.5,Put, $1.78, , $58.35
+25-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,PYPL,Jul28`17,58.5,Call, $1.46,-$19, $58.26
+25-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,PYPL,Jul28`17,58.5,Put, $1.67,-$11, $58.26
+12-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,PYPL,Oct20`17,69,Call, $1.74, , $68.86
+12-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,PYPL,Oct20`17,69,Put, $1.86, , $68.86
+18-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,PYPL,Oct20`17,69,Call, $0.98,-$77, $67.26
+18-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,PYPL,Oct20`17,69,Put, $2.7, $84, $67.26

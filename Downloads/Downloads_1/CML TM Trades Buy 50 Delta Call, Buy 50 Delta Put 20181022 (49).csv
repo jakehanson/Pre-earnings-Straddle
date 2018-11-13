@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+11-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jan21`12,32,Call, $0.57, , $31.52
+11-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jan21`12,32,Put, $1.04, , $31.52
+17-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jan21`12,32,Call, $0.26,-$32, $30.53
+17-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jan21`12,32,Put, $1.76, $72, $30.53
+11-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Apr21`12,36,Call, $0.91, , $35.76
+11-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Apr21`12,36,Put, $1.12, , $35.76
+17-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Apr21`12,36,Call, $0.88,-$4, $36.08
+17-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Apr21`12,36,Put, $0.76,-$36, $36.08
+11-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jul21`12,39,Call, $1.22, , $39.13
+11-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jul21`12,39,Put, $1.06, , $39.13
+17-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jul21`12,39,Call, $1.18,-$5, $39.07
+17-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jul21`12,39,Put, $1.14, $8, $39.07
+10-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Oct20`12,47,Call, $1.4, , $46.76
+10-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Oct20`12,47,Put, $1.64, , $46.76
+16-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Oct20`12,47,Call, $2.17, $76, $48.24
+16-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Oct20`12,47,Put, $0.9,-$74, $48.24
+09-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jan19`13,52.5,Call, $1.72, , $52.76
+09-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jan19`13,52.5,Put, $1.51, , $52.76
+15-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jan19`13,52.5,Call, $1.5,-$23, $52.51
+15-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jan19`13,52.5,Put, $1.52, $1, $52.51
+10-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Apr20`13,57.5,Call, $1.34, , $57.3
+10-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Apr20`13,57.5,Put, $1.5, , $57.3
+16-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Apr20`13,57.5,Call, $1,-$35, $57.01
+16-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Apr20`13,57.5,Put, $1.56, $6, $57.01
+10-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jul20`13,55,Call, $1.34, , $54.88
+10-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jul20`13,55,Put, $1.52, , $54.88
+16-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jul20`13,55,Call, $2.42, $107, $56.81
+16-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jul20`13,55,Put, $0.65,-$87, $56.81
+09-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Oct19`13,52.5,Call, $1.56, , $52.33
+09-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Oct19`13,52.5,Put, $1.66, , $52.33
+15-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Oct19`13,52.5,Call, $2.37, $80, $53.97
+15-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Oct19`13,52.5,Put, $0.89,-$77, $53.97
+15-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jan24`14,54,Call, $1.58, , $53.79
+15-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jan24`14,54,Put, $1.81, , $53.79
+21-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jan24`14,54,Call, $1.73, $14, $54.15
+21-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jan24`14,54,Put, $1.66,-$15, $54.15
+22-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,May2`14,55.5,Call, $1.4, , $55.47
+22-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,May2`14,55.5,Put, $1.4, , $55.47
+28-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,May2`14,55.5,Call, $0.58,-$83, $53.64
+28-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,May2`14,55.5,Put, $2.45, $105, $53.64
+09-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jul19`14,50,Call, $1.67, , $50.93
+09-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jul19`14,50,Put, $0.8, , $50.93
+15-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jul19`14,50,Call, $1.6,-$8, $50.82
+15-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jul19`14,50,Put, $0.76,-$4, $50.82
+08-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Oct18`14,54.5,Call, $1.35, , $54.51
+08-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Oct18`14,54.5,Put, $1.28, , $54.51
+13-Oct-14,Close 40%CloseAfterGains:Long Calls,-1,EBAY,Oct18`14,54.5,Call, $0.08,-$128, $50.46
+13-Oct-14,Close 40%CloseAfterGains:Long Puts,-1,EBAY,Oct18`14,54.5,Put, $4.15, $287, $50.46
+14-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jan23`15,54,Call, $1.32, , $54.03
+14-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jan23`15,54,Put, $1.33, , $54.03
+20-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jan23`15,54,Call, $1.02,-$31, $53.68
+20-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jan23`15,54,Put, $1.38, $5, $53.68
+15-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Apr24`15,57,Call, $1.37, , $57.02
+15-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Apr24`15,57,Put, $1.31, , $57.02
+21-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Apr24`15,57,Call, $0.9,-$48, $56.42
+21-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Apr24`15,57,Put, $1.45, $14, $56.42
+09-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jul17`15,62,Call, $1.46, , $61.77
+09-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jul17`15,62,Put, $1.6, , $61.77
+15-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jul17`15,62,Call, $2.08, $61, $63.44
+15-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jul17`15,62,Put, $0.63,-$97, $63.44
+14-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Oct23`15,24,Call, $0.75, , $24
+14-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Oct23`15,24,Put, $0.78, , $24
+20-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Oct23`15,24,Call, $0.9, $14, $24.42
+20-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Oct23`15,24,Put, $0.47,-$31, $24.42
+20-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jan29`16,26,Call, $1.01, , $25.82
+20-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jan29`16,26,Put, $1.01, , $25.82
+26-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jan29`16,26,Call, $1.34, $32, $26.65
+26-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jan29`16,26,Put, $0.74,-$27, $26.65
+19-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Apr29`16,24.5,Call, $0.82, , $24.3
+19-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Apr29`16,24.5,Put, $1.02, , $24.3
+25-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Apr29`16,24.5,Call, $0.81,-$2, $24.22
+25-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Apr29`16,24.5,Put, $1.08, $6, $24.22
+13-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jul22`16,25,Call, $0.8, , $25.12
+13-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jul22`16,25,Put, $0.67, , $25.12
+19-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jul22`16,25,Call, $1.75, $94, $26.5
+19-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jul22`16,25,Put, $0.3,-$37, $26.5
+12-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Oct21`16,31.5,Call, $1.23, , $31.5
+12-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Oct21`16,31.5,Put, $1.21, , $31.5
+18-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Oct21`16,31.5,Call, $1.28, $4, $31.64
+18-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Oct21`16,31.5,Put, $1.1,-$11, $31.64
+18-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jan27`17,30.5,Call, $1.12, , $30.39
+18-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jan27`17,30.5,Put, $1.23, , $30.39
+24-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jan27`17,30.5,Call, $0.8,-$33, $29.99
+24-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jan27`17,30.5,Put, $1.29, $6, $29.99
+12-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Apr21`17,34.5,Call, $1.12, , $34.27
+12-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Apr21`17,34.5,Put, $1.33, , $34.27
+18-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Apr21`17,34.5,Call, $0.94,-$19, $34.02
+18-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Apr21`17,34.5,Put, $1.41, $8, $34.02
+13-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Jul21`17,36.5,Call, $1.17, , $36.5
+13-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Jul21`17,36.5,Put, $1.15, , $36.5
+19-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Jul21`17,36.5,Call, $1.56, $38, $37.08
+19-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Jul21`17,36.5,Put, $0.96,-$19, $37.08
+11-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,EBAY,Oct20`17,38.5,Call, $0.96, , $38.31
+11-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,EBAY,Oct20`17,38.5,Put, $1.13, , $38.31
+17-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,EBAY,Oct20`17,38.5,Call, $0.47,-$50, $37.49
+17-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,EBAY,Oct20`17,38.5,Put, $1.46, $33, $37.49

@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+24-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Feb18`12,45.3,Call, $1.25, , $45
+24-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Feb18`12,45.3,Put, $1.65, , $45
+30-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Feb18`12,45.3,Call, $0.75,-$51, $44.18
+30-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Feb18`12,45.3,Put, $2.02, $37, $44.18
+17-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,May19`12,43.3,Call, $1.8, , $43.54
+17-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,May19`12,43.3,Put, $1.65, , $43.54
+23-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,May19`12,43.3,Call, $0.8,-$101, $41.95
+23-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,May19`12,43.3,Put, $2.33, $68, $41.95
+17-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Aug18`12,37,Call, $1.18, , $36.58
+17-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Aug18`12,37,Put, $1.8, , $36.58
+23-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Aug18`12,37,Call, $1.8, $61, $37.77
+23-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Aug18`12,37,Put, $1.2,-$60, $37.77
+18-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Nov17`12,41,Call, $1.17, , $40.84
+18-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Nov17`12,41,Put, $1.42, , $40.84
+24-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Nov17`12,41,Call, $0.68,-$50, $39.57
+24-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Nov17`12,41,Put, $2.2, $78, $39.57
+24-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Feb16`13,48.2,Call, $1, , $47.77
+24-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Feb16`13,48.2,Put, $1.5, , $47.77
+30-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Feb16`13,48.2,Call, $1.18, $17, $48.15
+30-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Feb16`13,48.2,Put, $1.48,-$2, $48.15
+16-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,May18`13,49.2,Call, $1.3, , $48.65
+16-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,May18`13,49.2,Put, $1.95, , $48.65
+22-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,May18`13,49.2,Call, $1.45, $14, $49.04
+22-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,May18`13,49.2,Put, $1.7,-$25, $49.04
+16-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Aug17`13,57.5,Call, $1.25, , $56.75
+16-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Aug17`13,57.5,Put, $2.22, , $56.75
+22-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Aug17`13,57.5,Call, $1.88, $62, $57.81
+22-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Aug17`13,57.5,Put, $1.75,-$47, $57.81
+22-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Nov16`13,57.5,Call, $1.92, , $58.41
+22-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Nov16`13,57.5,Put, $1.23, , $58.41
+28-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Nov16`13,57.5,Call, $1.6,-$33, $58.21
+28-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Nov16`13,57.5,Put, $1.15,-$8, $58.21
+24-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Feb22`14,56.6,Call, $1.3, , $56.24
+24-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Feb22`14,56.6,Put, $1.78, , $56.24
+30-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Feb22`14,56.6,Call, $1.92, $61, $57.45
+30-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Feb22`14,56.6,Put, $1.18,-$60, $57.45
+22-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,May17`14,66.6,Call, $1.18, , $65.87
+22-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,May17`14,66.6,Put, $2.05, , $65.87
+28-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,May17`14,66.6,Call, $1,-$19, $65.81
+28-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,May17`14,66.6,Put, $2.02,-$3, $65.81
+22-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Aug16`14,65,Call, $2.05, , $66.01
+22-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Aug16`14,65,Put, $1.15, , $66.01
+28-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Aug16`14,65,Call, $1.25,-$81, $64.81
+28-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Aug16`14,65,Put, $1.68, $53, $64.81
+21-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Nov22`14,60,Call, $1.42, , $59.4
+21-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Nov22`14,60,Put, $2.22, , $59.4
+27-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Nov22`14,60,Call, $2.42, $99, $61.29
+27-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Nov22`14,60,Put, $1.25,-$97, $61.29
+23-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Feb20`15,65,Call, $1.5, , $64.55
+23-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Feb20`15,65,Put, $2.17, , $64.55
+29-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Feb20`15,65,Call, $1.27,-$24, $64.05
+29-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Feb20`15,65,Put, $2.38, $21, $64.05
+14-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,May15`15,64,Call, $1.32, , $63.28
+14-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,May15`15,64,Put, $2.2, , $63.28
+20-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,May15`15,64,Call, $1.5, $17, $63.88
+20-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,May15`15,64,Put, $1.72,-$48, $63.88
+21-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Aug21`15,65,Call, $1.68, , $65.23
+21-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Aug21`15,65,Put, $1.55, , $65.23
+27-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Aug21`15,65,Call, $1.35,-$34, $64.65
+27-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Aug21`15,65,Put, $1.95, $40, $64.65
+20-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Nov20`15,52.5,Call, $1.92, , $53.02
+20-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Nov20`15,52.5,Put, $1.55, , $53.02
+26-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Nov20`15,52.5,Call, $3.08, $115, $54.89
+26-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Nov20`15,52.5,Put, $0.82,-$73, $54.89
+22-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Feb19`16,46.1,Call, $1.98, , $46.53
+22-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Feb19`16,46.1,Put, $1.7, , $46.53
+28-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Feb19`16,46.1,Call, $2.3, $31, $47.36
+28-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Feb19`16,46.1,Put, $1.2,-$50, $47.36
+19-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,May20`16,56.1,Call, $1.88, , $56.12
+19-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,May20`16,56.1,Put, $2, , $56.12
+25-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,May20`16,56.1,Call, $1.68,-$21, $56.05
+25-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,May20`16,56.1,Put, $1.98,-$2, $56.05
+19-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Aug19`16,55,Call, $1.25, , $53.65
+19-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Aug19`16,55,Put, $2.8, , $53.65
+25-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Aug19`16,55,Call, $2.25, $99, $55.91
+25-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Aug19`16,55,Put, $1.55,-$125, $55.91
+18-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Nov18`16,57.5,Call, $1.5, , $56.92
+18-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Nov18`16,57.5,Put, $2.22, , $56.92
+24-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Nov18`16,57.5,Call, $1.18,-$33, $56.34
+24-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Nov18`16,57.5,Put, $2.4, $18, $56.34
+24-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Feb17`17,66.9,Call, $1.75, , $66.7
+24-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Feb17`17,66.9,Put, $2.1, , $66.7
+30-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Feb17`17,66.9,Call, $2.02, $26, $67.62
+30-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Feb17`17,66.9,Put, $1.55,-$55, $67.62
+18-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,May19`17,64.4,Call, $1.85, , $64.2
+18-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,May19`17,64.4,Put, $2.15, , $64.2
+24-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,May19`17,64.4,Call, $4.05, $219, $67.73
+24-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,May19`17,64.4,Put, $0.68,-$147, $67.73
+18-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Aug18`17,67.5,Call, $2.45, , $68.45
+18-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Aug18`17,67.5,Put, $1.62, , $68.45
+24-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Aug18`17,67.5,Call, $2.72, $26, $69.14
+24-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Aug18`17,67.5,Put, $1.15,-$47, $69.14
+17-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,PCAR,Nov17`17,72.5,Call, $1.9, , $72.7
+17-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,PCAR,Nov17`17,72.5,Put, $1.82, , $72.7
+23-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,PCAR,Nov17`17,72.5,Call, $3.12, $121, $74.65
+23-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,PCAR,Nov17`17,72.5,Put, $0.95,-$87, $74.65

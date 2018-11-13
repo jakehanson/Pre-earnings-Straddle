@@ -1,0 +1,93 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+22-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,COST,Mar17`12,85,Call, $1.12, , $84.31
+22-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,COST,Mar17`12,85,Put, $1.92, , $84.31
+28-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Mar17`12,85,Call, $1.68, $55, $85.27
+28-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Mar17`12,85,Put, $1.35,-$57, $85.27
+17-May-12,Open 7DaysBeforeEarnings:Long Calls,1,COST,Jun16`12,82.5,Call, $2.6, , $83.47
+17-May-12,Open 7DaysBeforeEarnings:Long Puts,1,COST,Jun16`12,82.5,Put, $1.74, , $83.47
+23-May-12,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Jun16`12,82.5,Call, $2.42,-$19, $83.31
+23-May-12,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Jun16`12,82.5,Put, $1.66,-$8, $83.31
+03-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,COST,Oct20`12,100,Call, $1.4, , $99.62
+03-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,COST,Oct20`12,100,Put, $1.73, , $99.62
+09-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Oct20`12,100,Call, $1.35,-$6, $99.64
+09-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Oct20`12,100,Put, $1.74, $1, $99.64
+06-Dec-12,Open 7DaysBeforeEarnings:Long Calls,1,COST,Dec22`12,98,Call, $2.08, , $98.47
+06-Dec-12,Open 7DaysBeforeEarnings:Long Puts,1,COST,Dec22`12,98,Put, $1.62, , $98.47
+11-Dec-12,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Dec22`12,98,Call, $1.75,-$34, $98.31
+11-Dec-12,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Dec22`12,98,Put, $1.52,-$10, $98.31
+05-Mar-13,Open 7DaysBeforeEarnings:Long Calls,1,COST,Mar16`13,105,Call, $0.74, , $103.15
+05-Mar-13,Open 7DaysBeforeEarnings:Long Puts,1,COST,Mar16`13,105,Put, $2.66, , $103.15
+11-Mar-13,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Mar16`13,105,Call, $0.57,-$18, $102.44
+11-Mar-13,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Mar16`13,105,Put, $3.08, $42, $102.44
+23-May-13,Open 7DaysBeforeEarnings:Long Calls,1,COST,May31`13,115,Call, $0.88, , $113.19
+23-May-13,Open 7DaysBeforeEarnings:Long Puts,1,COST,May31`13,115,Put, $2.62, , $113.19
+29-May-13,Close 1DaysBeforeEarnings:Long Calls,-1,COST,May31`13,115,Call, $0.8,-$9, $112.95
+29-May-13,Close 1DaysBeforeEarnings:Long Puts,-1,COST,May31`13,115,Put, $2.86, $24, $112.95
+02-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,COST,Oct11`13,115,Call, $1.72, , $114.82
+02-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,COST,Oct11`13,115,Put, $1.7, , $114.82
+08-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Oct11`13,115,Call, $0.48,-$125, $112.21
+08-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Oct11`13,115,Put, $3.18, $148, $112.21
+04-Dec-13,Open 7DaysBeforeEarnings:Long Calls,1,COST,Dec13`13,123,Call, $1.71, , $122.97
+04-Dec-13,Open 7DaysBeforeEarnings:Long Puts,1,COST,Dec13`13,123,Put, $1.71, , $122.97
+10-Dec-13,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Dec13`13,123,Call, $0.48,-$124, $120.04
+10-Dec-13,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Dec13`13,123,Put, $3.45, $174, $120.04
+27-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,COST,Mar7`14,116,Call, $1.7, , $116.22
+27-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,COST,Mar7`14,116,Put, $1.46, , $116.22
+05-Mar-14,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Mar7`14,116,Call, $1.62,-$9, $116.47
+05-Mar-14,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Mar7`14,116,Put, $1.13,-$33, $116.47
+22-May-14,Open 7DaysBeforeEarnings:Long Calls,1,COST,May30`14,115,Call, $1.21, , $114.73
+22-May-14,Open 7DaysBeforeEarnings:Long Puts,1,COST,May30`14,115,Put, $1.43, , $114.73
+28-May-14,Close 1DaysBeforeEarnings:Long Calls,-1,COST,May30`14,115,Call, $0.86,-$36, $114.24
+28-May-14,Close 1DaysBeforeEarnings:Long Puts,-1,COST,May30`14,115,Put, $1.58, $15, $114.24
+01-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,COST,Oct10`14,125,Call, $1.46, , $124.76
+01-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,COST,Oct10`14,125,Put, $1.58, , $124.76
+07-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Oct10`14,125,Call, $1.7, $23, $125.27
+07-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Oct10`14,125,Put, $1.42,-$16, $125.27
+03-Dec-14,Open 7DaysBeforeEarnings:Long Calls,1,COST,Dec12`14,143,Call, $1.9, , $142.69
+03-Dec-14,Open 7DaysBeforeEarnings:Long Puts,1,COST,Dec12`14,143,Put, $2.26, , $142.69
+09-Dec-14,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Dec12`14,143,Call, $1.43,-$48, $143.04
+09-Dec-14,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Dec12`14,143,Put, $1.44,-$82, $143.04
+26-Feb-15,Open 7DaysBeforeEarnings:Long Calls,1,COST,Mar6`15,147,Call, $1.72, , $146.65
+26-Feb-15,Open 7DaysBeforeEarnings:Long Puts,1,COST,Mar6`15,147,Put, $2.12, , $146.65
+04-Mar-15,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Mar6`15,147,Call, $1.64,-$9, $147.17
+04-Mar-15,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Mar6`15,147,Put, $1.49,-$63, $147.17
+20-May-15,Open 7DaysBeforeEarnings:Long Calls,1,COST,May29`15,144,Call, $1.63, , $143.49
+20-May-15,Open 7DaysBeforeEarnings:Long Puts,1,COST,May29`15,144,Put, $1.99, , $143.49
+26-May-15,Close 1DaysBeforeEarnings:Long Calls,-1,COST,May29`15,144,Call, $1.33,-$31, $143.25
+26-May-15,Close 1DaysBeforeEarnings:Long Puts,-1,COST,May29`15,144,Put, $2.11, $12, $143.25
+01-Dec-15,Open 7DaysBeforeEarnings:Long Calls,1,COST,Dec11`15,162.5,Call, $2.42, , $161.29
+01-Dec-15,Open 7DaysBeforeEarnings:Long Puts,1,COST,Dec11`15,162.5,Put, $3.58, , $161.29
+07-Dec-15,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Dec11`15,162.5,Call, $5.48, $305, $167.12
+07-Dec-15,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Dec11`15,162.5,Put, $0.9,-$268, $167.12
+24-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,COST,Mar4`16,155,Call, $2.31, , $153.87
+24-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,COST,Mar4`16,155,Put, $3.5, , $153.87
+01-Mar-16,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Mar4`16,155,Call, $1.03,-$129, $150.52
+01-Mar-16,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Mar4`16,155,Put, $5.6, $210, $150.52
+18-May-16,Open 7DaysBeforeEarnings:Long Calls,1,COST,May27`16,142,Call, $2.74, , $141.29
+18-May-16,Open 7DaysBeforeEarnings:Long Puts,1,COST,May27`16,142,Put, $3.45, , $141.29
+24-May-16,Close 1DaysBeforeEarnings:Long Calls,-1,COST,May27`16,142,Call, $2.71,-$4, $142.57
+24-May-16,Close 1DaysBeforeEarnings:Long Puts,-1,COST,May27`16,142,Put, $2.16,-$129, $142.57
+22-Sep-16,Open 7DaysBeforeEarnings:Long Calls,1,COST,Sep30`16,152.5,Call, $2.7, , $153.15
+22-Sep-16,Open 7DaysBeforeEarnings:Long Puts,1,COST,Sep30`16,152.5,Put, $1.87, , $153.15
+28-Sep-16,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Sep30`16,152.5,Call, $1.04,-$167, $149.41
+28-Sep-16,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Sep30`16,152.5,Put, $4.2, $233, $149.41
+30-Nov-16,Open 7DaysBeforeEarnings:Long Calls,1,COST,Dec9`16,150,Call, $2.88, , $150.11
+30-Nov-16,Open 7DaysBeforeEarnings:Long Puts,1,COST,Dec9`16,150,Put, $2.63, , $150.11
+06-Dec-16,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Dec9`16,150,Call, $2.99, $10, $151.01
+06-Dec-16,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Dec9`16,150,Put, $1.88,-$75, $151.01
+23-Feb-17,Open 7DaysBeforeEarnings:Long Calls,1,COST,Mar3`17,175,Call, $3.07, , $175.85
+23-Feb-17,Open 7DaysBeforeEarnings:Long Puts,1,COST,Mar3`17,175,Put, $2.2, , $175.85
+01-Mar-17,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Mar3`17,175,Call, $4.35, $127, $177.86
+01-Mar-17,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Mar3`17,175,Put, $1.67,-$53, $177.86
+18-May-17,Open 7DaysBeforeEarnings:Long Calls,1,COST,May26`17,170.5,Call, $2.6, , $170.72
+18-May-17,Open 7DaysBeforeEarnings:Long Puts,1,COST,May26`17,170.5,Put, $2.26, , $170.72
+24-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,COST,May26`17,170.5,Call, $3.75, $114, $173.01
+24-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,COST,May26`17,170.5,Put, $1.19,-$107, $173.01
+28-Sep-17,Open 7DaysBeforeEarnings:Long Calls,1,COST,Oct6`17,165,Call, $2.26, , $163.9
+28-Sep-17,Open 7DaysBeforeEarnings:Long Puts,1,COST,Oct6`17,165,Put, $3.35, , $163.9
+04-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Oct6`17,165,Call, $2.74, $47, $165.21
+04-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Oct6`17,165,Put, $2.5,-$85, $165.21
+07-Dec-17,Open 7DaysBeforeEarnings:Long Calls,1,COST,Dec15`17,187.5,Call, $2.94, , $186.2
+07-Dec-17,Open 7DaysBeforeEarnings:Long Puts,1,COST,Dec15`17,187.5,Put, $4.18, , $186.2
+13-Dec-17,Close 1DaysBeforeEarnings:Long Calls,-1,COST,Dec15`17,187.5,Call, $3.58, $63, $188.28
+13-Dec-17,Close 1DaysBeforeEarnings:Long Puts,-1,COST,Dec15`17,187.5,Put, $2.94,-$124, $188.28
