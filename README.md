@@ -1,0 +1,2 @@
+# Pre-earnings straddle
+The goal of this section is to indescriminantly test a pre-earnings staddle. We will be testing the strategy over the last six years (01/01/2012 - 01/01/2018) on the composite DOW 30 + NASDAQ 100. The choice of the backtesting window and index are due in part to generality and in part to testing claims made by CMLviz about this data set. We find that a blanket pre-earnings straddle is a winning strategy, but requires large bets to beat the market. An adaptive betting strategy would be ideal.
