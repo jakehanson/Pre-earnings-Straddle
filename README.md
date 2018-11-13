@@ -3,3 +3,5 @@ The goal of this directory is to indescriminantly test a pre-earnings staddle. W
 
 ![alt text](https://github.com/jakehanson/Pre-earnings-Straddle/blob/master/Results/backtests-1.png)
 ![alt text](https://github.com/jakehanson/Pre-earnings-Straddle/blob/master/Results/returns-1.png)
+
+Feel free to email me (jake.hanson@asu.edu) if you have any questions or comments.
