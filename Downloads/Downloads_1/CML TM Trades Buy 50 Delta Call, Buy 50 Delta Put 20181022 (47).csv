@@ -1,5 +1,0 @@
-Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
-26-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,DWDP,Nov3`17,73,Call, $1, , $73.05
-26-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,DWDP,Nov3`17,73,Put, $0.9, , $73.05
-01-Nov-17,Close 1DaysBeforeEarnings:Long Calls,-1,DWDP,Nov3`17,73,Call, $0.94,-$7, $73.32
-01-Nov-17,Close 1DaysBeforeEarnings:Long Puts,-1,DWDP,Nov3`17,73,Put, $0.86,-$4, $73.32
