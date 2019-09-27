@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+09-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Feb18`12,40,Call, $0.25, , $38.05
+09-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Feb18`12,40,Put, $2.25, , $38.05
+15-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Feb18`12,40,Call, $0.18,-$8, $37.7
+15-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Feb18`12,40,Put, $2.4, $15, $37.7
+19-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,May19`12,35,Call, $1.18, , $34.21
+19-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,May19`12,35,Put, $1.5, , $34.21
+25-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,May19`12,35,Call, $1.3, $11, $35.48
+25-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,May19`12,35,Put, $0.85,-$65, $35.48
+25-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Aug18`12,40,Call, $1.8, , $39.54
+25-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Aug18`12,40,Put, $2.4, , $39.54
+31-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Aug18`12,40,Call, $1.6,-$21, $39.29
+31-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Aug18`12,40,Put, $2.17,-$23, $39.29
+18-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Nov17`12,44,Call, $3.25, , $42.82
+18-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Nov17`12,44,Put, $4.35, , $42.82
+24-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Nov17`12,44,Call, $1.58,-$168, $38.32
+24-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Nov17`12,44,Put, $7.35, $300, $38.32
+14-Feb-13,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Mar16`13,55,Call, $2.08, , $54.97
+14-Feb-13,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Mar16`13,55,Put, $2.15, , $54.97
+20-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Mar16`13,55,Call, $1.98,-$11, $55.17
+20-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Mar16`13,55,Put, $1.78,-$37, $55.17
+18-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,May18`13,65,Call, $1.62, , $62.79
+18-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,May18`13,65,Put, $3.52, , $62.79
+24-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,May18`13,65,Call, $1.48,-$15, $62.3
+24-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,May18`13,65,Put, $3.4,-$12, $62.3
+18-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Aug17`13,65,Call, $1.82, , $63.12
+18-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Aug17`13,65,Put, $3.75, , $63.12
+24-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Aug17`13,65,Call, $1.62,-$21, $63.26
+24-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Aug17`13,65,Put, $3.4,-$35, $63.26
+17-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Nov16`13,70,Call, $3.85, , $68.18
+17-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Nov16`13,70,Put, $5.65, , $68.18
+23-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Nov16`13,70,Call, $3.45,-$41, $67.67
+23-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Nov16`13,70,Put, $5.75, $10, $67.67
+19-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Mar22`14,75,Call, $4.45, , $76.35
+19-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Mar22`14,75,Put, $3.2, , $76.35
+25-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Mar22`14,75,Call, $7.8, $334, $82.18
+25-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Mar22`14,75,Put, $1.1,-$210, $82.18
+24-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,May17`14,60,Call, $2.62, , $59.23
+24-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,May17`14,60,Put, $3.25, , $59.23
+30-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,May17`14,60,Call, $1.88,-$75, $58.23
+30-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,May17`14,60,Put, $3.7, $45, $58.23
+23-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Aug16`14,65,Call, $1.55, , $62.08
+23-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Aug16`14,65,Put, $4.35, , $62.08
+29-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Aug16`14,65,Call, $0.85,-$71, $61.03
+29-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Aug16`14,65,Put, $4.7, $35, $61.03
+16-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Nov22`14,70,Call, $4.1, , $70.59
+16-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Nov22`14,70,Put, $3.2, , $70.59
+22-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Nov22`14,70,Call, $6.4, $229, $74.32
+22-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Nov22`14,70,Put, $1.42,-$178, $74.32
+18-Feb-15,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Mar20`15,105,Call, $4.1, , $103.36
+18-Feb-15,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Mar20`15,105,Put, $5.9, , $103.36
+24-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Mar20`15,105,Call, $5.2, $109, $106.03
+24-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Mar20`15,105,Put, $4.05,-$185, $106.03
+23-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,May15`15,125,Call, $5, , $122.95
+23-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,May15`15,125,Put, $6.55, , $122.95
+29-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,May15`15,125,Call, $2.05,-$296, $115.19
+29-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,May15`15,125,Put, $11.65, $510, $115.19
+27-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Aug21`15,145,Call, $5.8, , $144.32
+27-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Aug21`15,145,Put, $6.4, , $144.32
+31-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Aug21`15,145,Call, $6.45, $64, $146.27
+31-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Aug21`15,145,Put, $4.9,-$150, $146.27
+22-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Nov20`15,105,Call, $5.9, , $101.6
+22-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Nov20`15,105,Put, $9.3, , $101.6
+28-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Nov20`15,105,Call, $11, $509, $113.69
+28-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Nov20`15,105,Put, $3.8,-$550, $113.69
+18-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Mar18`16,75,Call, $5.6, , $74.87
+18-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Mar18`16,75,Put, $5.5, , $74.87
+24-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Mar18`16,75,Call, $5.95, $34, $76.34
+24-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Mar18`16,75,Put, $5.1,-$40, $76.34
+21-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,May20`16,95,Call, $3.6, , $91.99
+21-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,May20`16,95,Put, $7.65, , $91.99
+27-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,May20`16,95,Call, $1.68,-$193, $87.72
+27-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,May20`16,95,Put, $9.25, $160, $87.72
+28-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Aug19`16,100,Call, $4.55, , $98.2
+28-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Aug19`16,100,Put, $6.3, , $98.2
+03-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Aug19`16,100,Call, $5.55, $99, $101.46
+03-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Aug19`16,100,Put, $4.35,-$195, $101.46
+20-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Nov18`16,85,Call, $3.85, , $84.2
+20-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Nov18`16,85,Put, $4.55, , $84.2
+26-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Nov18`16,85,Call, $2.48,-$138, $81.75
+26-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Nov18`16,85,Put, $5.7, $115, $81.75
+16-Feb-17,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Mar17`17,90,Call, $3.85, , $90.53
+16-Feb-17,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Mar17`17,90,Put, $3.4, , $90.53
+22-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Mar17`17,90,Call, $3.12,-$74, $89.79
+22-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Mar17`17,90,Put, $3.1,-$30, $89.79
+27-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,May19`17,95,Call, $3.8, , $96.26
+27-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,May19`17,95,Put, $2.8, , $96.26
+03-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,May19`17,95,Call, $3.1,-$71, $95.95
+03-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,May19`17,95,Put, $2.45,-$35, $95.95
+26-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Aug18`17,90,Call, $2.85, , $89.2
+26-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Aug18`17,90,Put, $3.5, , $89.2
+01-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Aug18`17,90,Call, $1.95,-$91, $88.02
+01-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Aug18`17,90,Put, $3.95, $45, $88.02
+19-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,BMRN,Nov17`17,90,Call, $2.72, , $88.13
+19-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,BMRN,Nov17`17,90,Put, $4.6, , $88.13
+25-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,BMRN,Nov17`17,90,Call, $1.4,-$133, $84.79
+25-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,BMRN,Nov17`17,90,Put, $6.55, $195, $84.79

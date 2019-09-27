@@ -1,0 +1,89 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+01-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Feb18`12,20,Call, $0.4, , $19.84
+01-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Feb18`12,20,Put, $0.57, , $19.84
+07-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Feb18`12,20,Call, $0.55, $14, $20.19
+07-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Feb18`12,20,Put, $0.38,-$19, $20.19
+02-May-12,Open 7DaysBeforeEarnings:Long Calls,1,FOX,May19`12,20,Call, $0.57, , $20.18
+02-May-12,Open 7DaysBeforeEarnings:Long Puts,1,FOX,May19`12,20,Put, $0.43, , $20.18
+08-May-12,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,May19`12,20,Call, $0.3,-$28, $19.62
+08-May-12,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,May19`12,20,Put, $0.68, $25, $19.62
+01-Aug-12,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Aug18`12,23,Call, $0.68, , $23.18
+01-Aug-12,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Aug18`12,23,Put, $0.5, , $23.18
+07-Aug-12,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Aug18`12,23,Call, $1.18, $49, $23.98
+07-Aug-12,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Aug18`12,23,Put, $0.15,-$35, $23.98
+30-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Feb16`13,28,Call, $0.85, , $28.35
+30-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Feb16`13,28,Put, $0.48, , $28.35
+05-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Feb16`13,28,Call, $1, $14, $28.62
+05-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Feb16`13,28,Put, $0.38,-$10, $28.62
+30-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Aug17`13,30,Call, $0.5, , $29.53
+30-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Aug17`13,30,Put, $0.92, , $29.53
+02-Aug-13,Close 40%CloseAfterGains:Long Calls,-1,FOX,Aug17`13,30,Call, $1.75, $124, $31.54
+02-Aug-13,Close 40%CloseAfterGains:Long Puts,-1,FOX,Aug17`13,30,Put, $0.28,-$64, $31.54
+29-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Nov16`13,35,Call, $0.48, , $34.58
+29-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Nov16`13,35,Put, $0.9, , $34.58
+04-Nov-13,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Nov16`13,35,Call, $0.2,-$29, $34.02
+04-Nov-13,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Nov16`13,35,Put, $1.25, $35, $34.02
+30-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Feb22`14,31,Call, $1.02, , $31.31
+30-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Feb22`14,31,Put, $0.68, , $31.31
+05-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Feb22`14,31,Call, $0.95,-$8, $31.15
+05-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Feb22`14,31,Put, $0.77, $9, $31.15
+30-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,FOX,May17`14,31,Call, $0.82, , $31.32
+30-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,FOX,May17`14,31,Put, $0.62, , $31.32
+06-May-14,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,May17`14,31,Call, $1, $17, $31.66
+06-May-14,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,May17`14,31,Put, $0.32,-$30, $31.66
+30-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Aug16`14,32,Call, $0.68, , $31.97
+30-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Aug16`14,32,Put, $0.78, , $31.97
+05-Aug-14,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Aug16`14,32,Call, $0.35,-$34, $31.03
+05-Aug-14,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Aug16`14,32,Put, $1.05, $27, $31.03
+28-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Nov22`14,33,Call, $0.95, , $33.11
+28-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Nov22`14,33,Put, $0.85, , $33.11
+03-Nov-14,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Nov22`14,33,Call, $0.88,-$8, $33.11
+03-Nov-14,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Nov22`14,33,Put, $0.78,-$7, $33.11
+28-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Feb20`15,32,Call, $1.18, , $32.35
+28-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Feb20`15,32,Put, $0.75, , $32.35
+03-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Feb20`15,32,Call, $1.65, $46, $33.33
+03-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Feb20`15,32,Put, $0.4,-$35, $33.33
+29-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,FOX,May15`15,34,Call, $0.75, , $33.78
+29-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,FOX,May15`15,34,Put, $0.88, , $33.78
+05-May-15,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,May15`15,34,Call, $0.42,-$34, $33.2
+05-May-15,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,May15`15,34,Put, $1.15, $27, $33.2
+29-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Aug21`15,33,Call, $0.8, , $32.99
+29-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Aug21`15,33,Put, $0.75, , $32.99
+04-Aug-15,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Aug21`15,33,Call, $0.92, $11, $33.4
+04-Aug-15,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Aug21`15,33,Put, $0.57,-$18, $33.4
+28-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Nov20`15,30,Call, $1, , $30.41
+28-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Nov20`15,30,Put, $0.62, , $30.41
+03-Nov-15,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Nov20`15,30,Call, $1.78, $77, $31.5
+03-Nov-15,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Nov20`15,30,Put, $0.3,-$32, $31.5
+01-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Feb19`16,27,Call, $0.95, , $27.11
+01-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Feb19`16,27,Put, $0.77, , $27.11
+05-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Feb19`16,27,Call, $0.22,-$74, $25.04
+05-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Feb19`16,27,Put, $2.1, $133, $25.04
+27-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,FOX,May20`16,31,Call, $0.82, , $30.78
+27-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,FOX,May20`16,31,Put, $0.98, , $30.78
+03-May-16,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,May20`16,31,Call, $0.32,-$51, $29.69
+03-May-16,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,May20`16,31,Put, $1.58, $60, $29.69
+27-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Aug19`16,27,Call, $1, , $27.43
+27-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Aug19`16,27,Put, $0.57, , $27.43
+02-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Aug19`16,27,Call, $0.73,-$28, $27.04
+02-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Aug19`16,27,Put, $0.68, $11, $27.04
+26-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Nov18`16,27,Call, $0.5, , $26.52
+26-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Nov18`16,27,Put, $1, , $26.52
+01-Nov-16,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Nov18`16,27,Call, $0.42,-$9, $26.19
+01-Nov-16,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Nov18`16,27,Put, $1.2, $20, $26.19
+30-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Feb17`17,31,Call, $0.8, , $30.98
+30-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Feb17`17,31,Put, $0.82, , $30.98
+03-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Feb17`17,31,Call, $0.8,-$1, $31.09
+03-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Feb17`17,31,Put, $0.7,-$12, $31.09
+03-May-17,Open 7DaysBeforeEarnings:Long Calls,1,FOX,May19`17,28,Call, $1.05, , $28.35
+03-May-17,Open 7DaysBeforeEarnings:Long Puts,1,FOX,May19`17,28,Put, $0.7, , $28.35
+09-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,May19`17,28,Call, $0.7,-$36, $27.96
+09-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,May19`17,28,Put, $0.75, $5, $27.96
+02-Aug-17,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Aug18`17,28,Call, $0.9, , $28.28
+02-Aug-17,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Aug18`17,28,Put, $0.6, , $28.28
+08-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,FOX,Aug18`17,28,Call, $0.55,-$36, $27.71
+08-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,FOX,Aug18`17,28,Put, $0.85, $25, $27.71
+01-Nov-17,Open 7DaysBeforeEarnings:Long Calls,1,FOX,Nov17`17,25,Call, $0.88, , $25.38
+01-Nov-17,Open 7DaysBeforeEarnings:Long Puts,1,FOX,Nov17`17,25,Put, $0.5, , $25.38
+06-Nov-17,Close 40%CloseAfterGains:Long Calls,-1,FOX,Nov17`17,25,Call, $1.95, $106, $26.62
+06-Nov-17,Close 40%CloseAfterGains:Long Puts,-1,FOX,Nov17`17,25,Put, $0.3,-$20, $26.62

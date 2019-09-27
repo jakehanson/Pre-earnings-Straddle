@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+31-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Feb18`12,52.5,Call, $0.68, , $51.86
+31-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Feb18`12,52.5,Put, $1.42, , $51.86
+06-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Feb18`12,52.5,Call, $0.62,-$7, $51.97
+06-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Feb18`12,52.5,Put, $1.2,-$22, $51.97
+16-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,May19`12,46,Call, $3.15, , $44.97
+16-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,May19`12,46,Put, $4.2, , $44.97
+18-Apr-12,Close -40%CloseAfterLosses:Long Calls,-1,ILMN,May19`12,46,Call, $1.38,-$178, $44.51
+18-Apr-12,Close -40%CloseAfterLosses:Long Puts,-1,ILMN,May19`12,46,Put, $3,-$120, $44.51
+17-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Aug18`12,42,Call, $1.3, , $41.71
+17-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Aug18`12,42,Put, $2.08, , $41.71
+23-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Aug18`12,42,Call, $2.17, $86, $42.87
+23-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Aug18`12,42,Put, $1.4,-$68, $42.87
+16-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Nov17`12,49,Call, $2.48, , $48.19
+16-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Nov17`12,49,Put, $3.4, , $48.19
+22-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Nov17`12,49,Call, $1.15,-$134, $46.62
+22-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Nov17`12,49,Put, $4, $60, $46.62
+22-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Feb16`13,50,Call, $2.55, , $50.75
+22-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Feb16`13,50,Put, $1.75, , $50.75
+25-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Feb16`13,50,Call, $3.25, $69, $52.06
+25-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Feb16`13,50,Put, $1.2,-$55, $52.06
+15-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,May18`13,55,Call, $2.6, , $55.56
+15-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,May18`13,55,Put, $1.9, , $55.56
+19-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,May18`13,55,Call, $3.2, $59, $56.09
+19-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,May18`13,55,Put, $2.05, $15, $56.09
+16-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Aug17`13,75,Call, $2.68, , $73.89
+16-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Aug17`13,75,Put, $3.75, , $73.89
+22-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Aug17`13,75,Call, $2.78, $9, $74.73
+22-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Aug17`13,75,Put, $3.08,-$67, $74.73
+14-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Nov16`13,82.5,Call, $3.08, , $81.2
+14-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Nov16`13,82.5,Put, $4.35, , $81.2
+18-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Nov16`13,82.5,Call, $3,-$9, $81.43
+18-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Nov16`13,82.5,Put, $4,-$35, $81.43
+21-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Feb22`14,140,Call, $7.2, , $141.2
+21-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Feb22`14,140,Put, $6.1, , $141.2
+27-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Feb22`14,140,Call, $6.8,-$41, $140.25
+27-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Feb22`14,140,Put, $6.5, $40, $140.25
+15-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,May17`14,135,Call, $8.1, , $131.05
+15-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,May17`14,135,Put, $11.9, , $131.05
+21-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,May17`14,135,Call, $12.45, $434, $141.21
+21-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,May17`14,135,Put, $6.65,-$525, $141.21
+16-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Aug16`14,175,Call, $7.45, , $171.09
+16-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Aug16`14,175,Put, $10.85, , $171.09
+22-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Aug16`14,175,Call, $8.5, $104, $176.31
+22-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Aug16`14,175,Put, $7.2,-$365, $176.31
+13-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Oct24`14,150,Call, $7.15, , $150.02
+13-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Oct24`14,150,Put, $5.65, , $150.02
+17-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Oct24`14,150,Call, $16.6, $944, $164.91
+17-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Oct24`14,150,Put, $2.2,-$345, $164.91
+20-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Jan30`15,197.5,Call, $6.3, , $196.73
+20-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Jan30`15,197.5,Put, $8.4, , $196.73
+26-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Jan30`15,197.5,Call, $6.35, $4, $201.68
+26-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Jan30`15,197.5,Put, $3.68,-$472, $201.68
+14-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Apr24`15,190,Call, $5.65, , $188.16
+14-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Apr24`15,190,Put, $7.35, , $188.16
+20-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Apr24`15,190,Call, $8.85, $319, $193.18
+20-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Apr24`15,190,Put, $5.85,-$150, $193.18
+14-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Jul24`15,230,Call, $6.6, , $229.26
+14-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Jul24`15,230,Put, $6.45, , $229.26
+20-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Jul24`15,230,Call, $13.7, $709, $240.02
+20-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Jul24`15,230,Put, $3.65,-$280, $240.02
+13-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Oct23`15,145,Call, $7.05, , $145.43
+13-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Oct23`15,145,Put, $5.2, , $145.43
+19-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Oct23`15,145,Call, $6.2,-$86, $147.48
+19-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Oct23`15,145,Put, $4,-$120, $147.48
+26-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Feb5`16,172.5,Call, $6.1, , $172.9
+26-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Feb5`16,172.5,Put, $6, , $172.9
+28-Jan-16,Close 40%CloseAfterGains:Long Calls,-1,ILMN,Feb5`16,172.5,Call, $1.85,-$426, $154.25
+28-Jan-16,Close 40%CloseAfterGains:Long Puts,-1,ILMN,Feb5`16,172.5,Put, $18.95, $1295, $154.25
+26-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,May6`16,140,Call, $5.15, , $139.21
+26-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,May6`16,140,Put, $5.65, , $139.21
+02-May-16,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,May6`16,140,Call, $2.4,-$276, $135.92
+02-May-16,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,May6`16,140,Put, $6.75, $110, $135.92
+19-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Jul29`16,149,Call, $4.9, , $148.68
+19-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Jul29`16,149,Put, $5, , $148.68
+25-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Jul29`16,149,Call, $5.5, $59, $150.64
+25-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Jul29`16,149,Put, $4,-$100, $150.64
+25-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Nov4`16,139,Call, $4.2, , $138.18
+25-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Nov4`16,139,Put, $5.05, , $138.18
+31-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Nov4`16,139,Call, $2.28,-$193, $136.14
+31-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Nov4`16,139,Put, $5.05, , $136.14
+24-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Feb3`17,160,Call, $4.85, , $160.48
+24-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Feb3`17,160,Put, $4.65, , $160.48
+30-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Feb3`17,160,Call, $3.4,-$146, $159.28
+30-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Feb3`17,160,Put, $4.3,-$35, $159.28
+18-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Apr28`17,175,Call, $6.2, , $175.29
+18-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Apr28`17,175,Put, $6.1, , $175.29
+24-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Apr28`17,175,Call, $8.05, $184, $180.2
+24-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Apr28`17,175,Put, $3.02,-$308, $180.2
+25-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Aug4`17,175,Call, $4.5, , $173.85
+25-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Aug4`17,175,Put, $5.7, , $173.85
+31-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Aug4`17,175,Call, $4.6, $9, $173.85
+31-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Aug4`17,175,Put, $5.35,-$35, $173.85
+17-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,ILMN,Oct27`17,207.5,Call, $6.45, , $206.48
+17-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,ILMN,Oct27`17,207.5,Put, $7.4, , $206.48
+23-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,ILMN,Oct27`17,207.5,Call, $9.45, $299, $211.55
+23-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,ILMN,Oct27`17,207.5,Put, $5.65,-$175, $211.55

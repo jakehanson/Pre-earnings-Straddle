@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+15-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Mar17`12,30,Call, $1, , $30.21
+15-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Mar17`12,30,Put, $0.78, , $30.21
+21-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Mar17`12,30,Call, $1,-$1, $30.39
+21-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Mar17`12,30,Put, $0.6,-$18, $30.39
+16-May-12,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Jun16`12,30,Call, $0.4, , $28.65
+16-May-12,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Jun16`12,30,Put, $1.7, , $28.65
+22-May-12,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Jun16`12,30,Call, $0.2,-$21, $28.04
+22-May-12,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Jun16`12,30,Put, $2.17, $47, $28.04
+15-Aug-12,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Sep22`12,30,Call, $1.25, , $30.91
+15-Aug-12,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Sep22`12,30,Put, $0.5, , $30.91
+21-Aug-12,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Sep22`12,30,Call, $2, $74, $31.7
+21-Aug-12,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Sep22`12,30,Put, $0.3,-$20, $31.7
+28-Nov-12,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Dec22`12,35,Call, $0.12, , $32.92
+28-Nov-12,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Dec22`12,35,Put, $2.33, , $32.92
+04-Dec-12,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Dec22`12,35,Call, $0.2, $7, $33.23
+04-Dec-12,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Dec22`12,35,Put, $1.95,-$38, $33.23
+13-Feb-13,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Mar16`13,35,Call, $0.77, , $34.24
+13-Feb-13,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Mar16`13,35,Put, $1.58, , $34.24
+19-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Mar16`13,35,Call, $0.88, $10, $34.62
+19-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Mar16`13,35,Put, $1.25,-$33, $34.62
+15-May-13,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Jun22`13,35,Call, $1.27, , $35.46
+15-May-13,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Jun22`13,35,Put, $0.77, , $35.46
+21-May-13,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Jun22`13,35,Call, $1.5, $22, $35.77
+21-May-13,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Jun22`13,35,Put, $0.62,-$15, $35.77
+14-Aug-13,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Sep21`13,40,Call, $0.25, , $37.71
+14-Aug-13,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Sep21`13,40,Put, $2.52, , $37.71
+20-Aug-13,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Sep21`13,40,Call, $0.15,-$11, $37.01
+20-Aug-13,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Sep21`13,40,Put, $3.02, $50, $37.01
+27-Nov-13,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Dec21`13,40,Call, $0.08, , $36.76
+27-Nov-13,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Dec21`13,40,Put, $3.25, , $36.76
+03-Dec-13,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Dec21`13,40,Call, $0.1, $1, $36.67
+03-Dec-13,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Dec21`13,40,Put, $3.22,-$3, $36.67
+12-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Feb22`14,40,Call, $0.95, , $40.61
+12-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Feb22`14,40,Put, $0.5, , $40.61
+18-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Feb22`14,40,Call, $1.27, $31, $40.84
+18-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Feb22`14,40,Put, $0.3,-$20, $40.84
+14-May-14,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Jun21`14,40,Call, $0.3, , $38.04
+14-May-14,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Jun21`14,40,Put, $2.1, , $38.04
+20-May-14,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Jun21`14,40,Call, $0.38, $7, $38.2
+20-May-14,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Jun21`14,40,Put, $1.62,-$48, $38.2
+13-Aug-14,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Sep20`14,40,Call, $0.35, , $38.75
+13-Aug-14,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Sep20`14,40,Put, $1.7, , $38.75
+19-Aug-14,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Sep20`14,40,Call, $0.57, $21, $39.1
+19-Aug-14,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Sep20`14,40,Put, $1.25,-$45, $39.1
+26-Nov-14,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Dec20`14,45,Call, $0.2, , $43.19
+26-Nov-14,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Dec20`14,45,Put, $1.92, , $43.19
+02-Dec-14,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Dec20`14,45,Call, $0.22, $1, $43.13
+02-Dec-14,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Dec20`14,45,Put, $2.1, $18, $43.13
+11-Feb-15,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Feb20`15,45,Call, $0.52, , $44.4
+11-Feb-15,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Feb20`15,45,Put, $1.25, , $44.4
+17-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Feb20`15,45,Call, $0.9, $37, $44.74
+17-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Feb20`15,45,Put, $1.25, , $44.74
+14-May-15,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Jun19`15,50,Call, $0.6, , $48.72
+14-May-15,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Jun19`15,50,Put, $2.02, , $48.72
+19-May-15,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Jun19`15,50,Call, $0.7, $9, $49
+19-May-15,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Jun19`15,50,Put, $1.7,-$32, $49
+12-Aug-15,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Aug21`15,50,Call, $1.48, , $51.24
+12-Aug-15,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Aug21`15,50,Put, $0.78, , $51.24
+18-Aug-15,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Aug21`15,50,Call, $2.2, $71, $51.98
+18-Aug-15,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Aug21`15,50,Put, $0.3,-$48, $51.98
+25-Nov-15,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Dec18`15,50,Call, $1.65, , $49.79
+25-Nov-15,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Dec18`15,50,Put, $1.95, , $49.79
+01-Dec-15,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Dec18`15,50,Call, $2.22, $56, $50.49
+01-Dec-15,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Dec18`15,50,Put, $1.6,-$35, $50.49
+10-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Feb19`16,40,Call, $2.42, , $41.37
+10-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Feb19`16,40,Put, $0.92, , $41.37
+16-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Feb19`16,40,Call, $2.92, $49, $42.96
+16-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Feb19`16,40,Put, $0.38,-$54, $42.96
+11-May-16,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,May20`16,50,Call, $0.45, , $48.2
+11-May-16,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,May20`16,50,Put, $2.3, , $48.2
+17-May-16,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,May20`16,50,Call, $0.4,-$6, $47.78
+17-May-16,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,May20`16,50,Put, $2.4, $10, $47.78
+10-Aug-16,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Aug19`16,55,Call, $1.52, , $55.75
+10-Aug-16,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Aug19`16,55,Put, $0.82, , $55.75
+16-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Aug19`16,55,Call, $1.68, $15, $55.86
+16-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Aug19`16,55,Put, $0.68,-$14, $55.86
+23-Nov-16,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Dec16`16,60,Call, $2.05, , $61.08
+23-Nov-16,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Dec16`16,60,Put, $1.08, , $61.08
+29-Nov-16,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Dec16`16,60,Call, $2.3, $24, $61.17
+29-Nov-16,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Dec16`16,60,Put, $1.05,-$3, $61.17
+08-Feb-17,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Feb17`17,65,Call, $1.4, , $64.79
+08-Feb-17,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Feb17`17,65,Put, $1.55, , $64.79
+14-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Feb17`17,65,Call, $1.75, $34, $65.84
+14-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Feb17`17,65,Put, $0.98,-$57, $65.84
+10-May-17,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,May19`17,75,Call, $1.42, , $74.54
+10-May-17,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,May19`17,75,Put, $1.95, , $74.54
+16-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,May19`17,75,Call, $2.35, $92, $75.12
+16-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,May19`17,75,Put, $2.12, $17, $75.12
+09-Aug-17,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Aug18`17,75,Call, $3.15, , $76.85
+09-Aug-17,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Aug18`17,75,Put, $1.2, , $76.85
+15-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Aug18`17,75,Call, $4.15, $99, $78.23
+15-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Aug18`17,75,Put, $0.82,-$38, $78.23
+22-Nov-17,Open 7DaysBeforeEarnings:Long Calls,1,SNPS,Dec15`17,90,Call, $2.05, , $89.34
+22-Nov-17,Open 7DaysBeforeEarnings:Long Puts,1,SNPS,Dec15`17,90,Put, $2.58, , $89.34
+28-Nov-17,Close 1DaysBeforeEarnings:Long Calls,-1,SNPS,Dec15`17,90,Call, $2.4, $34, $89.8
+28-Nov-17,Close 1DaysBeforeEarnings:Long Puts,-1,SNPS,Dec15`17,90,Put, $2.47,-$11, $89.8

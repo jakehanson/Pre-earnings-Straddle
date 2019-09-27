@@ -1,0 +1,93 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+20-Mar-12,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Apr21`12,34,Call, $0.91, , $33.81
+20-Mar-12,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Apr21`12,34,Put, $1.11, , $33.81
+26-Mar-12,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Apr21`12,34,Call, $1.14, $22, $34.37
+26-Mar-12,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Apr21`12,34,Put, $0.78,-$33, $34.37
+12-Jun-12,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Jul21`12,31,Call, $1.21, , $31.25
+12-Jun-12,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Jul21`12,31,Put, $0.98, , $31.25
+18-Jun-12,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Jul21`12,31,Call, $1.56, $34, $31.96
+18-Jun-12,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Jul21`12,31,Put, $0.59,-$39, $31.96
+21-Sep-12,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Oct20`12,35,Call, $0.98, , $35.11
+21-Sep-12,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Oct20`12,35,Put, $0.8, , $35.11
+27-Sep-12,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Oct20`12,35,Call, $1.87, $88, $36.6
+27-Sep-12,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Oct20`12,35,Put, $0.36,-$44, $36.6
+14-Dec-12,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Dec22`12,37,Call, $0.58, , $36.76
+14-Dec-12,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Dec22`12,37,Put, $0.88, , $36.76
+20-Dec-12,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Dec22`12,37,Call, $0.94, $35, $37.55
+20-Dec-12,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Dec22`12,37,Put, $0.42,-$46, $37.55
+12-Mar-13,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Apr20`13,41,Call, $1.13, , $41.04
+12-Mar-13,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Apr20`13,41,Put, $1.06, , $41.04
+18-Mar-13,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Apr20`13,41,Call, $2.06, $92, $42.43
+18-Mar-13,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Apr20`13,41,Put, $0.6,-$46, $42.43
+18-Jun-13,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Jul20`13,50,Call, $2.09, , $50.9
+18-Jun-13,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Jul20`13,50,Put, $1.2, , $50.9
+24-Jun-13,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Jul20`13,50,Call, $0.8,-$130, $48.05
+24-Jun-13,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Jul20`13,50,Put, $2.7, $150, $48.05
+24-Sep-13,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Oct19`13,55,Call, $1.79, , $55.39
+24-Sep-13,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Oct19`13,55,Put, $1.42, , $55.39
+30-Sep-13,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Oct19`13,55,Call, $0.99,-$81, $53.8
+30-Sep-13,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Oct19`13,55,Put, $2.09, $67, $53.8
+13-Dec-13,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Dec21`13,57,Call, $1.36, , $57.01
+13-Dec-13,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Dec21`13,57,Put, $1.35, , $57.01
+19-Dec-13,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Dec21`13,57,Call, $1.11,-$26, $56.94
+19-Dec-13,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Dec21`13,57,Put, $1.12,-$23, $56.94
+18-Mar-14,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Mar28`14,67.5,Call, $1.46, , $67.2
+18-Mar-14,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Mar28`14,67.5,Put, $1.77, , $67.2
+24-Mar-14,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Mar28`14,67.5,Call, $0.31,-$116, $64.31
+24-Mar-14,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Mar28`14,67.5,Put, $3.6, $183, $64.31
+17-Jun-14,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Jun27`14,73,Call, $1.78, , $73.1
+17-Jun-14,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Jun27`14,73,Put, $1.69, , $73.1
+23-Jun-14,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Jun27`14,73,Call, $1.94, $15, $73.73
+23-Jun-14,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Jun27`14,73,Put, $1.23,-$46, $73.73
+23-Sep-14,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Oct3`14,61,Call, $1.31, , $61.1
+23-Sep-14,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Oct3`14,61,Put, $1.25, , $61.1
+29-Sep-14,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Oct3`14,61,Call, $0.66,-$66, $59.6
+29-Sep-14,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Oct3`14,61,Put, $2, $75, $59.6
+16-Dec-14,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Dec26`14,72.5,Call, $1.86, , $72.39
+16-Dec-14,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Dec26`14,72.5,Put, $1.55, , $72.39
+22-Dec-14,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Dec26`14,72.5,Call, $2.56, $69, $74.27
+22-Dec-14,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Dec26`14,72.5,Put, $0.8,-$75, $74.27
+02-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Apr10`15,86,Call, $2.02, , $85.97
+02-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Apr10`15,86,Put, $1.92, , $85.97
+08-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Apr10`15,86,Call, $2.54, $51, $87.68
+08-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Apr10`15,86,Put, $0.85,-$107, $87.68
+02-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Jul10`15,86,Call, $1.57, , $85.81
+02-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Jul10`15,86,Put, $1.62, , $85.81
+08-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Jul10`15,86,Call, $1.39,-$19, $85.91
+08-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Jul10`15,86,Put, $1.54,-$8, $85.91
+21-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Oct30`15,88.5,Call, $2.2, , $88.04
+21-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Oct30`15,88.5,Put, $2.66, , $88.04
+27-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Oct30`15,88.5,Call, $7.4, $519, $95.16
+27-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Oct30`15,88.5,Put, $0.62,-$204, $95.16
+31-Dec-15,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Jan8`16,85.5,Call, $2.22, , $85.16
+31-Dec-15,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Jan8`16,85.5,Put, $2.42, , $85.16
+06-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Jan8`16,85.5,Call, $0.16,-$207, $79.63
+06-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Jan8`16,85.5,Put, $5.68, $326, $79.63
+29-Mar-16,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Apr8`16,83,Call, $1.88, , $83.02
+29-Mar-16,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Apr8`16,83,Put, $1.84, , $83.02
+04-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Apr8`16,83,Call, $3.78, $189, $86.31
+04-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Apr8`16,83,Put, $0.5,-$134, $86.31
+29-Jun-16,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Jul8`16,83.5,Call, $2.03, , $83.19
+29-Jun-16,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Jul8`16,83.5,Put, $2.28, , $83.19
+05-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Jul8`16,83.5,Call, $2.05, $1, $83.52
+05-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Jul8`16,83.5,Put, $2.08,-$20, $83.52
+13-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Oct21`16,78.5,Call, $1.52, , $78.2
+13-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Oct21`16,78.5,Put, $1.87, , $78.2
+19-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Oct21`16,78.5,Call, $0.82,-$71, $77.18
+19-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Oct21`16,78.5,Put, $2.16, $29, $77.18
+29-Dec-16,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Jan6`17,83.5,Call, $1.78, , $83.48
+29-Dec-16,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Jan6`17,83.5,Put, $1.83, , $83.48
+04-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Jan6`17,83.5,Call, $1.38,-$41, $82.98
+04-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Jan6`17,83.5,Put, $1.84, $1, $82.98
+29-Mar-17,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Apr7`17,84,Call, $1.6, , $83.77
+29-Mar-17,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Apr7`17,84,Put, $1.82, , $83.77
+04-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Apr7`17,84,Call, $0.88,-$73, $82.5
+04-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Apr7`17,84,Put, $2.4, $58, $82.5
+22-Jun-17,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Jun30`17,76.5,Call, $1.49, , $76.37
+22-Jun-17,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Jun30`17,76.5,Put, $1.56, , $76.37
+28-Jun-17,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Jun30`17,76.5,Call, $1.45,-$5, $77.09
+28-Jun-17,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Jun30`17,76.5,Put, $1.04,-$52, $77.09
+18-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,WBA,Oct27`17,68,Call, $1.25, , $67.74
+18-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,WBA,Oct27`17,68,Put, $1.5, , $67.74
+24-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,WBA,Oct27`17,68,Call, $1.26, , $67.29
+24-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,WBA,Oct27`17,68,Put, $1.64, $14, $67.29

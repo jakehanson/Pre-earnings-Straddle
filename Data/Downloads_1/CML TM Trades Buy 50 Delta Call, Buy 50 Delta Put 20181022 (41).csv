@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+20-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Jan27`12,105,Call, $2.46, , $106.89
+20-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Jan27`12,105,Put, $0.66, , $106.89
+26-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Jan27`12,105,Call, $1.9,-$57, $106.59
+26-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Jan27`12,105,Put, $0.26,-$40, $106.59
+20-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Apr27`12,100,Call, $2.88, , $102.52
+20-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Apr27`12,100,Put, $0.36, , $102.52
+26-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Apr27`12,100,Call, $6.38, $349, $106.22
+26-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Apr27`12,100,Put, $0.02,-$34, $106.22
+20-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Jul27`12,110,Call, $0.66, , $109.19
+20-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Jul27`12,110,Put, $1.5, , $109.19
+24-Jul-12,Close 40%CloseAfterGains:Long Calls,-1,CVX,Jul27`12,110,Call, $0.2,-$47, $106.3
+24-Jul-12,Close 40%CloseAfterGains:Long Puts,-1,CVX,Jul27`12,110,Put, $3.82, $232, $106.3
+26-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Nov2`12,110,Call, $1.78, , $111.18
+26-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Nov2`12,110,Put, $0.76, , $111.18
+01-Nov-12,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Nov2`12,110,Call, $1.51,-$28, $111.46
+01-Nov-12,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Nov2`12,110,Put, $0.29,-$47, $111.46
+25-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Feb1`13,115,Call, $1.58, , $116.2
+25-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Feb1`13,115,Put, $0.57, , $116.2
+31-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Feb1`13,115,Call, $1.75, $16, $115.15
+31-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Feb1`13,115,Put, $0.72, $15, $115.15
+19-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Apr26`13,115,Call, $2.04, , $115.9
+19-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Apr26`13,115,Put, $1, , $115.9
+25-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Apr26`13,115,Call, $3.65, $160, $118.51
+25-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Apr26`13,115,Put, $0.11,-$89, $118.51
+26-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Aug2`13,128,Call, $0.94, , $127.56
+26-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Aug2`13,128,Put, $1.42, , $127.56
+01-Aug-13,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Aug2`13,128,Call, $0.12,-$83, $126.44
+01-Aug-13,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Aug2`13,128,Put, $2.11, $69, $126.44
+25-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Nov1`13,121,Call, $0.89, , $120.59
+25-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Nov1`13,121,Put, $1.32, , $120.59
+31-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Nov1`13,121,Call, $0.44,-$46, $119.96
+31-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Nov1`13,121,Put, $1.29,-$3, $119.96
+24-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Jan31`14,116,Call, $1.67, , $116.29
+24-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Jan31`14,116,Put, $1.23, , $116.29
+30-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Jan31`14,116,Call, $1.19,-$49, $116.45
+30-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Jan31`14,116,Put, $0.92,-$31, $116.45
+25-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,CVX,May2`14,124,Call, $1.33, , $123.99
+25-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,CVX,May2`14,124,Put, $1.33, , $123.99
+01-May-14,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,May2`14,124,Call, $1.35, $1, $124.94
+01-May-14,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,May2`14,124,Put, $0.6,-$73, $124.94
+25-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Aug1`14,134,Call, $1, , $133.57
+25-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Aug1`14,134,Put, $1.45, , $133.57
+31-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Aug1`14,134,Call, $0.06,-$95, $129.24
+31-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Aug1`14,134,Put, $4.78, $333, $129.24
+24-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Oct31`14,116,Call, $1.34, , $115.91
+24-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Oct31`14,116,Put, $1.59, , $115.91
+30-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Oct31`14,116,Call, $1.71, $36, $117.2
+30-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Oct31`14,116,Put, $0.49,-$110, $117.2
+23-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Jan30`15,107,Call, $1.52, , $106.85
+23-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Jan30`15,107,Put, $1.72, , $106.85
+29-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Jan30`15,107,Call, $0.16,-$137, $103
+29-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Jan30`15,107,Put, $4.12, $240, $103
+24-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,CVX,May1`15,110,Call, $1.24, , $109.87
+24-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,CVX,May1`15,110,Put, $1.36, , $109.87
+30-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,May1`15,110,Call, $1.66, $41, $111.06
+30-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,May1`15,110,Put, $0.6,-$76, $111.06
+24-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Jul31`15,90.5,Call, $1.61, , $90.6
+24-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Jul31`15,90.5,Put, $1.46, , $90.6
+30-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Jul31`15,90.5,Call, $3.1, $148, $93.03
+30-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Jul31`15,90.5,Put, $0.18,-$128, $93.03
+23-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Oct30`15,91.5,Call, $1.38, , $91.24
+23-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Oct30`15,91.5,Put, $1.66, , $91.24
+27-Oct-15,Close 40%CloseAfterGains:Long Calls,-1,CVX,Oct30`15,91.5,Call, $0.26,-$113, $87.7
+27-Oct-15,Close 40%CloseAfterGains:Long Puts,-1,CVX,Oct30`15,91.5,Put, $4.15, $249, $87.7
+22-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Jan29`16,83.5,Call, $1.81, , $83.54
+22-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Jan29`16,83.5,Put, $1.72, , $83.54
+28-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Jan29`16,83.5,Call, $2.86, $104, $85.92
+28-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Jan29`16,83.5,Put, $0.45,-$127, $85.92
+22-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Apr29`16,102,Call, $1.65, , $102.01
+22-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Apr29`16,102,Put, $1.66, , $102.01
+28-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Apr29`16,102,Call, $1.4,-$26, $102.4
+28-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Apr29`16,102,Put, $1.02,-$64, $102.4
+22-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Jul29`16,106,Call, $0.94, , $105.66
+22-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Jul29`16,106,Put, $1.39, , $105.66
+25-Jul-16,Close 40%CloseAfterGains:Long Calls,-1,CVX,Jul29`16,106,Call, $0.29,-$66, $103.07
+25-Jul-16,Close 40%CloseAfterGains:Long Puts,-1,CVX,Jul29`16,106,Put, $3.2, $181, $103.07
+21-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Oct28`16,101,Call, $1.45, , $101.3
+21-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Oct28`16,101,Put, $1.12, , $101.3
+27-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Oct28`16,101,Call, $0.54,-$92, $99.92
+27-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Oct28`16,101,Put, $1.39, $27, $99.92
+20-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Jan27`17,116,Call, $1.12, , $115.6
+20-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Jan27`17,116,Put, $1.5, , $115.6
+26-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Jan27`17,116,Call, $1.76, $63, $116.55
+26-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Jan27`17,116,Put, $0.59,-$91, $116.55
+21-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Apr28`17,105,Call, $1.27, , $104.89
+21-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Apr28`17,105,Put, $1.28, , $104.89
+27-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Apr28`17,105,Call, $1.3, $2, $105.47
+27-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Apr28`17,105,Put, $0.92,-$36, $105.47
+21-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Jul28`17,103,Call, $1.39, , $103.25
+21-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Jul28`17,103,Put, $1.1, , $103.25
+27-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Jul28`17,103,Call, $3.28, $188, $106.11
+27-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Jul28`17,103,Put, $0.22,-$88, $106.11
+20-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,CVX,Oct27`17,119,Call, $0.84, , $118.64
+20-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,CVX,Oct27`17,119,Put, $1.32, , $118.64
+26-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,CVX,Oct27`17,119,Call, $0.72,-$13, $118.44
+26-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,CVX,Oct27`17,119,Put, $1.24,-$8, $118.44

@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+24-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Feb18`12,115,Call, $4.95, , $117.03
+24-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Feb18`12,115,Put, $2.85, , $117.03
+30-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Feb18`12,115,Call, $4.55,-$41, $116.58
+30-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Feb18`12,115,Put, $3.05, $20, $116.58
+24-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,May19`12,130,Call, $2.28, , $127.74
+24-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,May19`12,130,Put, $4.65, , $127.74
+30-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,May19`12,130,Call, $5.55, $326, $134.01
+30-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,May19`12,130,Put, $1.75,-$290, $134.01
+17-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Aug18`12,145,Call, $4.7, , $145.91
+17-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Aug18`12,145,Put, $3.75, , $145.91
+23-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Aug18`12,145,Call, $1.75,-$296, $139.23
+23-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Aug18`12,145,Put, $7.35, $360, $139.23
+18-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Nov17`12,150,Call, $5.8, , $149.56
+18-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Nov17`12,150,Put, $6.45, , $149.56
+24-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Nov17`12,150,Call, $2.4,-$341, $142.06
+24-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Nov17`12,150,Put, $10.5, $405, $142.06
+22-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Feb16`13,145,Call, $3.2, , $144.86
+22-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Feb16`13,145,Put, $3.4, , $144.86
+25-Jan-13,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Feb16`13,145,Call, $3.7, $49, $146.2
+25-Jan-13,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Feb16`13,145,Put, $2.7,-$70, $146.2
+18-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,May18`13,200,Call, $6.35, , $198.66
+18-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,May18`13,200,Put, $7.2, , $198.66
+24-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,May18`13,200,Call, $10.35, $399, $206.18
+24-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,May18`13,200,Put, $3.7,-$350, $206.18
+18-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Jul26`13,225,Call, $4.6, , $223.12
+18-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Jul26`13,225,Put, $6.5, , $223.12
+24-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Jul26`13,225,Call, $7.1, $249, $226.61
+24-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Jul26`13,225,Put, $5.5,-$100, $226.61
+21-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Nov1`13,245,Call, $5.95, , $243.07
+21-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Nov1`13,245,Put, $8.1, , $243.07
+25-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Nov1`13,245,Call, $11.15, $519, $252.26
+25-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Nov1`13,245,Put, $3.75,-$435, $252.26
+22-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Jan31`14,310,Call, $9.15, , $310.54
+22-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Jan31`14,310,Put, $9.05, , $310.54
+28-Jan-14,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Jan31`14,310,Call, $4.6,-$456, $305.65
+28-Jan-14,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Jan31`14,310,Put, $9.8, $75, $305.65
+16-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Apr25`14,290,Call, $9.7, , $291.48
+16-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Apr25`14,290,Put, $8.3, , $291.48
+22-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Apr25`14,290,Call, $17.1, $739, $306.2
+22-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Apr25`14,290,Put, $1.1,-$720, $306.2
+16-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Jul25`14,305,Call, $6.8, , $303.74
+16-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Jul25`14,305,Put, $7.75, , $303.74
+22-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Jul25`14,305,Call, $5.65,-$116, $303.67
+22-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Jul25`14,305,Put, $6.9,-$85, $303.67
+15-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Oct24`14,307.5,Call, $8.65, , $305.69
+15-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Oct24`14,307.5,Put, $9.55, , $305.69
+21-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Oct24`14,307.5,Call, $19.45, $1079, $326.77
+21-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Oct24`14,307.5,Put, $2.1,-$745, $326.77
+22-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Jan30`15,355,Call, $9.7, , $353.65
+22-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Jan30`15,355,Put, $12.05, , $353.65
+28-Jan-15,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Jan30`15,355,Call, $7.7,-$201, $351.18
+28-Jan-15,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Jan30`15,355,Put, $10.4,-$165, $351.18
+17-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Apr24`15,420,Call, $12, , $419.44
+17-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Apr24`15,420,Put, $11.9, , $419.44
+23-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Apr24`15,420,Call, $16.3, $429, $430.28
+23-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Apr24`15,420,Put, $5.5,-$640, $430.28
+17-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Jul24`15,407.5,Call, $15.25, , $404.66
+17-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Jul24`15,407.5,Put, $18.45, , $404.66
+23-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Jul24`15,407.5,Call, $3.12,-$1214, $385.05
+23-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Jul24`15,407.5,Put, $25.3, $685, $385.05
+14-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Oct23`15,257.5,Call, $11.3, , $256.79
+14-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Oct23`15,257.5,Put, $11.95, , $256.79
+20-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Oct23`15,257.5,Call, $15.05, $374, $265.81
+20-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Oct23`15,257.5,Put, $7.2,-$475, $265.81
+20-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Jan29`16,270,Call, $10.1, , $269.35
+20-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Jan29`16,270,Put, $10.95, , $269.35
+26-Jan-16,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Jan29`16,270,Call, $4.6,-$551, $259.87
+26-Jan-16,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Jan29`16,270,Put, $14.35, $340, $259.87
+14-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Apr22`16,272.5,Call, $9, , $270.56
+14-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Apr22`16,272.5,Put, $11, , $270.56
+20-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Apr22`16,272.5,Call, $5.35,-$366, $265.89
+20-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Apr22`16,272.5,Put, $11.85, $85, $265.89
+14-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Jul22`16,255,Call, $7.65, , $252.87
+14-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Jul22`16,255,Put, $10, , $252.87
+20-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Jul22`16,255,Call, $12.1, $444, $262.41
+20-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Jul22`16,255,Put, $4.7,-$530, $262.41
+19-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Oct28`16,297.5,Call, $9.6, , $295.14
+19-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Oct28`16,297.5,Put, $11.4, , $295.14
+25-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Oct28`16,297.5,Call, $4.35,-$526, $286
+25-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Oct28`16,297.5,Put, $16.3, $490, $286
+19-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Jan27`17,280,Call, $8.75, , $280.35
+19-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Jan27`17,280,Put, $8.6, , $280.35
+25-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Jan27`17,280,Call, $3.85,-$491, $273.24
+25-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Jan27`17,280,Put, $11, $240, $273.24
+18-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Apr28`17,272.5,Call, $6.75, , $271.16
+18-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Apr28`17,272.5,Put, $8.1, , $271.16
+24-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Apr28`17,272.5,Call, $8.75, $199, $276.86
+24-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Apr28`17,272.5,Put, $3.75,-$435, $276.86
+18-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Jul28`17,282.5,Call, $7.05, , $282.6
+18-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Jul28`17,282.5,Put, $6.95, , $282.6
+24-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Jul28`17,282.5,Call, $7.4, $34, $284.7
+24-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Jul28`17,282.5,Put, $5.2,-$175, $284.7
+17-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,BIIB,Oct27`17,345,Call, $8.7, , $344.47
+17-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,BIIB,Oct27`17,345,Put, $9.25, , $344.47
+23-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,BIIB,Oct27`17,345,Call, $2.02,-$669, $328.55
+23-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,BIIB,Oct27`17,345,Put, $18.8, $955, $328.55

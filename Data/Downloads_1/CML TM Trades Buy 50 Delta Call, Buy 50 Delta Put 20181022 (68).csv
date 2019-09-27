@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+15-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Mar17`12,44,Call, $2.01, , $43.96
+15-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Mar17`12,44,Put, $2.46, , $43.96
+21-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Mar17`12,44,Call, $2.3, $28, $44.69
+21-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Mar17`12,44,Put, $2,-$46, $44.69
+25-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,May19`12,46,Call, $1.44, , $45.67
+25-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,May19`12,46,Put, $1.74, , $45.67
+01-May-12,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,May19`12,46,Call, $2.68, $123, $47.49
+01-May-12,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,May19`12,46,Put, $1.2,-$54, $47.49
+25-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Aug18`12,38,Call, $1.27, , $37.5
+25-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Aug18`12,38,Put, $1.83, , $37.5
+31-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Aug18`12,38,Call, $2.05, $77, $38.61
+31-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Aug18`12,38,Put, $1.51,-$32, $38.61
+24-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Nov17`12,39,Call, $1.61, , $39.29
+24-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Nov17`12,39,Put, $1.38, , $39.29
+30-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Nov17`12,39,Call, $1.42,-$20, $38.99
+30-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Nov17`12,39,Put, $1.56, $18, $38.99
+13-Feb-13,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Mar16`13,39,Call, $1.17, , $38.56
+13-Feb-13,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Mar16`13,39,Put, $2.18, , $38.56
+19-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Mar16`13,39,Call, $1.65, $47, $39.24
+19-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Mar16`13,39,Put, $1.92,-$26, $39.24
+24-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,May18`13,34,Call, $1.27, , $34.25
+24-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,May18`13,34,Put, $1.19, , $34.25
+30-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,May18`13,34,Call, $1.74, $46, $35.08
+30-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,May18`13,34,Put, $0.77,-$42, $35.08
+24-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Aug17`13,37,Call, $1.14, , $36.91
+24-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Aug17`13,37,Put, $1.28, , $36.91
+30-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Aug17`13,37,Call, $1.21, $6, $37.26
+30-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Aug17`13,37,Put, $0.99,-$29, $37.26
+23-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Nov16`13,49,Call, $1.74, , $48.77
+23-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Nov16`13,49,Put, $2.02, , $48.77
+29-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Nov16`13,49,Call, $1.56,-$19, $48.07
+29-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Nov16`13,49,Put, $2.54, $52, $48.07
+12-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Feb22`14,46,Call, $1.35, , $46.02
+12-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Feb22`14,46,Put, $1.36, , $46.02
+18-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Feb22`14,46,Call, $2.17, $81, $47.17
+18-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Feb22`14,46,Put, $1,-$36, $47.17
+23-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,May17`14,57.5,Call, $1.48, , $56.11
+23-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,May17`14,57.5,Put, $2.9, , $56.11
+29-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,May17`14,57.5,Call, $0.99,-$50, $55.09
+29-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,May17`14,57.5,Put, $3.32, $42, $55.09
+23-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Aug16`14,57.5,Call, $1.82, , $57.25
+23-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Aug16`14,57.5,Put, $2.1, , $57.25
+29-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Aug16`14,57.5,Call, $2.16, $33, $57.58
+29-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Aug16`14,57.5,Put, $2.1, , $57.58
+22-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Nov22`14,55,Call, $1.56, , $53.6
+22-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Nov22`14,55,Put, $2.98, , $53.6
+28-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Nov22`14,55,Call, $3.28, $171, $57.2
+28-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Nov22`14,55,Put, $1.22,-$176, $57.2
+11-Feb-15,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Feb20`15,55,Call, $1.37, , $54.31
+11-Feb-15,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Feb20`15,55,Put, $2.15, , $54.31
+17-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Feb20`15,55,Call, $2.95, $157, $56.81
+17-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Feb20`15,55,Put, $1.22,-$93, $56.81
+22-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,May15`15,47.5,Call, $1.4, , $46.95
+22-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,May15`15,47.5,Put, $1.92, , $46.95
+28-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,May15`15,47.5,Call, $1.54, $13, $47.49
+28-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,May15`15,47.5,Put, $1.6,-$32, $47.49
+22-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Aug21`15,42.5,Call, $1.64, , $42.83
+22-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Aug21`15,42.5,Put, $1.33, , $42.83
+28-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Aug21`15,42.5,Call, $1.62,-$3, $42.79
+28-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Aug21`15,42.5,Put, $1.27,-$6, $42.79
+21-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Nov20`15,35,Call, $0.82, , $34.1
+21-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Nov20`15,35,Put, $1.74, , $34.1
+27-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Nov20`15,35,Call, $1.02, $19, $34.79
+27-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Nov20`15,35,Put, $1.23,-$51, $34.79
+10-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Feb19`16,35,Call, $1.46, , $34.47
+10-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Feb19`16,35,Put, $1.98, , $34.47
+16-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Feb19`16,35,Call, $1.76, $29, $35.23
+16-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Feb19`16,35,Put, $1.54,-$44, $35.23
+20-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,May20`16,42.5,Call, $1.82, , $42.89
+20-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,May20`16,42.5,Put, $1.38, , $42.89
+26-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,May20`16,42.5,Call, $1.42,-$41, $42.29
+26-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,May20`16,42.5,Put, $1.58, $20, $42.29
+20-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Aug19`16,45,Call, $1.92, , $45.7
+20-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Aug19`16,45,Put, $1.21, , $45.7
+26-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Aug19`16,45,Call, $2.37, $44, $46.39
+26-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Aug19`16,45,Put, $0.97,-$24, $46.39
+19-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Nov18`16,50,Call, $1.43, , $48.59
+19-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Nov18`16,50,Put, $2.83, , $48.59
+25-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Nov18`16,50,Call, $1.78, $34, $49.51
+25-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Nov18`16,50,Put, $2.3,-$53, $49.51
+15-Feb-17,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Mar17`17,50,Call, $2.12, , $50.82
+15-Feb-17,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Mar17`17,50,Put, $1.67, , $50.82
+21-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Mar17`17,50,Call, $2.04,-$9, $50.45
+21-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Mar17`17,50,Put, $1.94, $27, $50.45
+26-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,May5`17,51,Call, $1.54, , $50.57
+26-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,May5`17,51,Put, $1.88, , $50.57
+02-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,May5`17,51,Call, $1.6, $5, $51.24
+02-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,May5`17,51,Put, $1.38,-$50, $51.24
+26-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Aug4`17,52.5,Call, $1.48, , $52.25
+26-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Aug4`17,52.5,Put, $1.74, , $52.25
+01-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Aug4`17,52.5,Call, $0.6,-$89, $49.99
+01-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Aug4`17,52.5,Put, $3.05, $131, $49.99
+25-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,GRMN,Nov3`17,56.5,Call, $1.64, , $56.55
+25-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,GRMN,Nov3`17,56.5,Put, $1.52, , $56.55
+31-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,GRMN,Nov3`17,56.5,Call, $1.5,-$15, $56.61
+31-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,GRMN,Nov3`17,56.5,Put, $1.42,-$10, $56.61

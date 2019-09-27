@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+01-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Feb18`12,80,Call, $3.35, , $81.98
+01-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Feb18`12,80,Put, $1.4, , $81.98
+07-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Feb18`12,80,Call, $4.4, $104, $83.85
+07-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Feb18`12,80,Put, $0.75,-$65, $83.85
+18-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,May19`12,95,Call, $4.05, , $96.92
+18-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,May19`12,95,Put, $2.08, , $96.92
+24-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,May19`12,95,Call, $3.1,-$96, $95
+24-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,May19`12,95,Put, $3.15, $107, $95
+18-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Aug18`12,95,Call, $3.6, , $94.56
+18-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Aug18`12,95,Put, $4.1, , $94.56
+24-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Aug18`12,95,Call, $1.68,-$193, $88.88
+24-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Aug18`12,95,Put, $7.75, $365, $88.88
+17-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Nov17`12,80,Call, $3.5, , $80.44
+17-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Nov17`12,80,Put, $3.05, , $80.44
+23-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Nov17`12,80,Call, $4.95, $144, $82.64
+23-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Nov17`12,80,Put, $2,-$105, $82.64
+30-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Feb16`13,90,Call, $3.15, , $91.74
+30-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Feb16`13,90,Put, $1.42, , $91.74
+05-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Feb16`13,90,Call, $4.2, $104, $93.08
+05-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Feb16`13,90,Put, $1.1,-$32, $93.08
+17-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,May18`13,100,Call, $3.3, , $98.67
+17-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,May18`13,100,Put, $4.65, , $98.67
+23-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,May18`13,100,Call, $4.1, $79, $101.37
+23-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,May18`13,100,Put, $2.55,-$210, $101.37
+17-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Aug17`13,115,Call, $3.8, , $115.77
+17-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Aug17`13,115,Put, $3.1, , $115.77
+23-Jul-13,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Aug17`13,115,Call, $5.55, $174, $118.54
+23-Jul-13,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Aug17`13,115,Put, $1.92,-$118, $118.54
+16-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Nov16`13,135,Call, $2.98, , $132.17
+16-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Nov16`13,135,Put, $5.95, , $132.17
+22-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Nov16`13,135,Call, $3.5, $51, $133.77
+22-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Nov16`13,135,Put, $4.7,-$125, $133.77
+29-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Feb22`14,130,Call, $4.7, , $130.3
+29-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Feb22`14,130,Put, $4.35, , $130.3
+04-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Feb22`14,130,Call, $6.7, $199, $134.49
+04-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Feb22`14,130,Put, $2.3,-$205, $134.49
+16-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,May17`14,145,Call, $4.75, , $144.54
+16-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,May17`14,145,Put, $5.15, , $144.54
+22-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,May17`14,145,Call, $6.65, $189, $147.95
+22-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,May17`14,145,Put, $3.6,-$155, $147.95
+16-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Aug16`14,155,Call, $4, , $153.92
+16-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Aug16`14,155,Put, $5.1, , $153.92
+22-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Aug16`14,155,Call, $1,-$301, $145.88
+22-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Aug16`14,155,Put, $9.5, $440, $145.88
+15-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Nov22`14,150,Call, $5.3, , $149.62
+15-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Nov22`14,150,Put, $5.2, , $149.62
+21-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Nov22`14,150,Call, $10.7, $539, $158.9
+21-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Nov22`14,150,Put, $1.9,-$330, $158.9
+28-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Feb20`15,190,Call, $6.7, , $191.27
+28-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Feb20`15,190,Put, $4.65, , $191.27
+03-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Feb20`15,190,Call, $6.9, $19, $193.28
+03-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Feb20`15,190,Put, $3.7,-$95, $193.28
+15-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,May15`15,220,Call, $5.05, , $215.91
+15-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,May15`15,220,Put, $8.8, , $215.91
+21-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,May15`15,220,Call, $5.4, $34, $217.07
+21-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,May15`15,220,Put, $8.25,-$55, $217.07
+22-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Aug21`15,240,Call, $7.15, , $240.65
+22-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Aug21`15,240,Put, $6.6, , $240.65
+28-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Aug21`15,240,Call, $7.9, $74, $240.95
+28-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Aug21`15,240,Put, $6.8, $20, $240.95
+21-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Nov20`15,250,Call, $10.3, , $253.2
+21-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Nov20`15,250,Put, $6.6, , $253.2
+27-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Nov20`15,250,Call, $14.15, $384, $260.14
+27-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Nov20`15,250,Put, $4.4,-$220, $260.14
+03-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Feb19`16,250,Call, $10.25, , $253.62
+03-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Feb19`16,250,Put, $7.25, , $253.62
+09-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Feb19`16,250,Call, $3.4,-$686, $236.29
+09-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Feb19`16,250,Put, $16.4, $915, $236.29
+20-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,May20`16,270,Call, $10.9, , $273.58
+20-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,May20`16,270,Put, $7.05, , $273.58
+26-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,May20`16,270,Call, $9.7,-$121, $272.34
+26-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,May20`16,270,Put, $7.15, $10, $272.34
+20-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Aug19`16,270,Call, $10.2, , $274.14
+20-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Aug19`16,270,Put, $6.05, , $274.14
+26-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Aug19`16,270,Call, $15.4, $519, $281.77
+26-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Aug19`16,270,Put, $3.6,-$245, $281.77
+19-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Nov18`16,280,Call, $7.45, , $278.06
+19-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Nov18`16,280,Put, $9.1, , $278.06
+25-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Nov18`16,280,Call, $7.55, $9, $280.27
+25-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Nov18`16,280,Put, $7.75,-$135, $280.27
+31-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Feb17`17,260,Call, $7.9, , $262.27
+31-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Feb17`17,260,Put, $6.15, , $262.27
+06-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Feb17`17,260,Call, $5.6,-$231, $258.4
+06-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Feb17`17,260,Put, $7, $85, $258.4
+19-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,May19`17,260,Call, $7.45, , $258.87
+19-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,May19`17,260,Put, $8.3, , $258.87
+25-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,May19`17,260,Call, $9.55, $209, $263.96
+25-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,May19`17,260,Put, $5.4,-$290, $263.96
+19-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Aug18`17,190,Call, $5.9, , $186.91
+19-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Aug18`17,190,Put, $8.95, , $186.91
+25-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Aug18`17,190,Call, $5.05,-$86, $186.85
+25-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Aug18`17,190,Put, $8.1,-$85, $186.85
+18-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,ORLY,Nov17`17,210,Call, $9.75, , $212.99
+18-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,ORLY,Nov17`17,210,Put, $6.7, , $212.99
+24-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,ORLY,Nov17`17,210,Call, $4.3,-$546, $203.33
+24-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,ORLY,Nov17`17,210,Put, $10.95, $425, $203.33

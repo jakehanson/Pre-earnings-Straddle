@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+16-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Mar17`12,10,Call, $0.88, , $10.35
+16-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Mar17`12,10,Put, $0.52, , $10.35
+22-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Mar17`12,10,Call, $0.85,-$4, $10.28
+22-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Mar17`12,10,Put, $0.55, $3, $10.28
+19-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,May19`12,8,Call, $0.55, , $8.14
+19-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,May19`12,8,Put, $0.45, , $8.14
+25-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,May19`12,8,Call, $0.4,-$16, $7.94
+25-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,May19`12,8,Put, $0.48, $3, $7.94
+19-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Aug18`12,7,Call, $0.35, , $6.55
+19-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Aug18`12,7,Put, $0.82, , $6.55
+25-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Aug18`12,7,Call, $0.32,-$4, $6.28
+25-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Aug18`12,7,Put, $1, $18, $6.28
+23-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Nov17`12,11,Call, $0.43, , $10.8
+23-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Nov17`12,11,Put, $0.62, , $10.8
+29-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Nov17`12,11,Call, $0.3,-$14, $10.59
+29-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Nov17`12,11,Put, $0.68, $6, $10.59
+19-Feb-13,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Mar16`13,10,Call, $0.5, , $10.27
+19-Feb-13,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Mar16`13,10,Put, $0.26, , $10.27
+25-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Mar16`13,10,Call, $0.24,-$27, $9.76
+25-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Mar16`13,10,Put, $0.45, $19, $9.76
+17-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,May18`13,11,Call, $0.48, , $11.02
+17-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,May18`13,11,Put, $0.43, , $11.02
+23-Apr-13,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,May18`13,11,Call, $0.82, $33, $11.69
+23-Apr-13,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,May18`13,11,Put, $0.12,-$31, $11.69
+01-Aug-13,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Aug17`13,24,Call, $1.25, , $24.23
+01-Aug-13,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Aug17`13,24,Put, $1.02, , $24.23
+07-Aug-13,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Aug17`13,24,Call, $1.2,-$6, $24.01
+07-Aug-13,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Aug17`13,24,Put, $1.17, $15, $24.01
+31-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Nov8`13,28,Call, $0.79, , $27.73
+31-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Nov8`13,28,Put, $1.1, , $27.73
+05-Nov-13,Close -40%CloseAfterLosses:Long Calls,-1,TMUS,Nov8`13,28,Call, $0.46,-$34, $28.12
+05-Nov-13,Close -40%CloseAfterLosses:Long Puts,-1,TMUS,Nov8`13,28,Put, $0.34,-$76, $28.12
+18-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Feb28`14,31.5,Call, $1.3, , $31.2
+18-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Feb28`14,31.5,Put, $1.59, , $31.2
+24-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Feb28`14,31.5,Call, $1.85, $54, $32.31
+24-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Feb28`14,31.5,Put, $0.65,-$94, $32.31
+24-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,May2`14,29.5,Call, $1.17, , $29.39
+24-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,May2`14,29.5,Put, $1.25, , $29.39
+30-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,May2`14,29.5,Call, $0.64,-$54, $29.29
+30-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,May2`14,29.5,Put, $0.93,-$32, $29.29
+23-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Aug1`14,31.5,Call, $1.03, , $31.5
+23-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Aug1`14,31.5,Put, $0.89, , $31.5
+29-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Aug1`14,31.5,Call, $0.52,-$52, $31.14
+29-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Aug1`14,31.5,Put, $0.72,-$17, $31.14
+20-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Oct31`14,27,Call, $0.9, , $26.96
+20-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Oct31`14,27,Put, $1.02, , $26.96
+24-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Oct31`14,27,Call, $1.25, $34, $28.12
+24-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Oct31`14,27,Put, $0.45,-$57, $28.12
+12-Feb-15,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Feb20`15,31.5,Call, $0.77, , $31.59
+12-Feb-15,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Feb20`15,31.5,Put, $0.74, , $31.59
+18-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Feb20`15,31.5,Call, $0.44,-$34, $31
+18-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Feb20`15,31.5,Put, $0.97, $23, $31
+21-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,May1`15,33.5,Call, $0.74, , $33.35
+21-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,May1`15,33.5,Put, $0.84, , $33.35
+27-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,May1`15,33.5,Call, $1.3, $55, $34.06
+27-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,May1`15,33.5,Put, $0.69,-$15, $34.06
+23-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Jul31`15,38,Call, $0.99, , $37.93
+23-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Jul31`15,38,Put, $1.16, , $37.93
+29-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Jul31`15,38,Call, $0.4,-$60, $37.04
+29-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Jul31`15,38,Put, $1.44, $28, $37.04
+20-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Oct30`15,41,Call, $1.03, , $40.7
+20-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Oct30`15,41,Put, $1.3, , $40.7
+26-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Oct30`15,41,Call, $1.27, $23, $41.38
+26-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Oct30`15,41,Put, $0.9,-$40, $41.38
+10-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Feb19`16,34.5,Call, $1.25, , $34.57
+10-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Feb19`16,34.5,Put, $1.18, , $34.57
+16-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Feb19`16,34.5,Call, $2.46, $120, $36.45
+16-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Feb19`16,34.5,Put, $0.45,-$73, $36.45
+19-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Apr29`16,40,Call, $0.93, , $39.85
+19-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Apr29`16,40,Put, $1.17, , $39.85
+25-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Apr29`16,40,Call, $1.68, $74, $41.18
+25-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Apr29`16,40,Put, $0.53,-$64, $41.18
+20-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Jul29`16,44.5,Call, $1.06, , $44.54
+20-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Jul29`16,44.5,Put, $1.06, , $44.54
+26-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Jul29`16,44.5,Call, $1.23, $16, $44.98
+26-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Jul29`16,44.5,Put, $0.75,-$31, $44.98
+17-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Oct28`16,46.5,Call, $1.12, , $46.52
+17-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Oct28`16,46.5,Put, $1.1, , $46.52
+21-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Oct28`16,46.5,Call, $1.06,-$7, $46.75
+21-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Oct28`16,46.5,Put, $0.84,-$26, $46.75
+07-Feb-17,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Feb17`17,62,Call, $1.76, , $61.89
+07-Feb-17,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Feb17`17,62,Put, $1.93, , $61.89
+13-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Feb17`17,62,Call, $0.82,-$95, $60.9
+13-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Feb17`17,62,Put, $1.9,-$3, $60.9
+17-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Apr28`17,65,Call, $1.89, , $64.94
+17-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Apr28`17,65,Put, $1.96, , $64.94
+21-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Apr28`17,65,Call, $1.82,-$8, $64.7
+21-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Apr28`17,65,Put, $2.1, $14, $64.7
+12-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Jul21`17,61.5,Call, $1.25, , $61.51
+12-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Jul21`17,61.5,Put, $1.29, , $61.51
+18-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Jul21`17,61.5,Call, $1.08,-$18, $61.39
+18-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Jul21`17,61.5,Put, $1.2,-$9, $61.39
+16-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,TMUS,Oct27`17,61,Call, $1.79, , $60.97
+16-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,TMUS,Oct27`17,61,Put, $1.81, , $60.97
+20-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,TMUS,Oct27`17,61,Call, $0.9,-$90, $60.46
+20-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,TMUS,Oct27`17,61,Put, $1.46,-$35, $60.46

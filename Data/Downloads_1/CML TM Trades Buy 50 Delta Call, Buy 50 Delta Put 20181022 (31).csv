@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+24-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Feb18`12,67.5,Call, $2.05, , $67.63
+24-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Feb18`12,67.5,Put, $1.95, , $67.63
+30-Jan-12,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Feb18`12,67.5,Call, $2.45, $39, $67.93
+30-Jan-12,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Feb18`12,67.5,Put, $2, $5, $67.93
+17-Apr-12,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,May19`12,67.5,Call, $1.38, , $66.11
+17-Apr-12,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,May19`12,67.5,Put, $2.65, , $66.11
+23-Apr-12,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,May19`12,67.5,Call, $1.3,-$9, $65.53
+23-Apr-12,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,May19`12,67.5,Put, $3.2, $55, $65.53
+17-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Aug18`12,57.5,Call, $2.15, , $57.95
+17-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Aug18`12,57.5,Put, $1.72, , $57.95
+23-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Aug18`12,57.5,Call, $1.5,-$66, $56.58
+23-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Aug18`12,57.5,Put, $2.4, $68, $56.58
+16-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Nov17`12,60,Call, $2.62, , $60.9
+16-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Nov17`12,60,Put, $1.65, , $60.9
+22-Oct-12,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Nov17`12,60,Call, $2.05,-$58, $59.85
+22-Oct-12,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Nov17`12,60,Put, $2.2, $55, $59.85
+29-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Feb16`13,67.5,Call, $1.85, , $67.92
+29-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Feb16`13,67.5,Put, $1.45, , $67.92
+04-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Feb16`13,67.5,Call, $1.18,-$68, $66.03
+04-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Feb16`13,67.5,Put, $2.58, $113, $66.03
+30-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,May18`13,60,Call, $1.55, , $59.39
+30-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,May18`13,60,Put, $2.25, , $59.39
+06-May-13,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,May18`13,60,Call, $2.1, $54, $60.37
+06-May-13,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,May18`13,60,Put, $1.72,-$53, $60.37
+30-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Aug17`13,60,Call, $1.7, , $59.2
+30-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Aug17`13,60,Put, $2.5, , $59.2
+05-Aug-13,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Aug17`13,60,Call, $1.88, $17, $59.66
+05-Aug-13,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Aug17`13,60,Put, $2.28,-$22, $59.66
+29-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Nov16`13,60,Call, $2.45, , $60.91
+29-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Nov16`13,60,Put, $1.6, , $60.91
+04-Nov-13,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Nov16`13,60,Call, $2.98, $52, $61.73
+04-Nov-13,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Nov16`13,60,Put, $1.27,-$33, $61.73
+28-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Feb22`14,57.5,Call, $1.92, , $57.45
+28-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Feb22`14,57.5,Put, $1.95, , $57.45
+03-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Feb22`14,57.5,Call, $2.2, $27, $57.73
+03-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Feb22`14,57.5,Put, $2, $5, $57.73
+22-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,May17`14,57.5,Call, $1.75, , $57.7
+22-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,May17`14,57.5,Put, $1.58, , $57.7
+28-Apr-14,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,May17`14,57.5,Call, $1.2,-$56, $56.49
+28-Apr-14,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,May17`14,57.5,Put, $2.2, $62, $56.49
+22-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Aug16`14,65,Call, $2.53, , $65.96
+22-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Aug16`14,65,Put, $1.55, , $65.96
+28-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Aug16`14,65,Call, $2.3,-$24, $65.61
+28-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Aug16`14,65,Put, $1.7, $15, $65.61
+21-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Nov22`14,70,Call, $2.38, , $69.93
+21-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Nov22`14,70,Put, $2.47, , $69.93
+27-Oct-14,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Nov22`14,70,Call, $3.25, $86, $71.7
+27-Oct-14,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Nov22`14,70,Put, $1.52,-$95, $71.7
+27-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Feb20`15,75,Call, $1.7, , $73.74
+27-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Feb20`15,75,Put, $2.88, , $73.74
+02-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Feb20`15,75,Call, $1.78, $7, $73.44
+02-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Feb20`15,75,Put, $3.4, $52, $73.44
+20-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,May15`15,70,Call, $2.35, , $70.09
+20-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,May15`15,70,Put, $2.02, , $70.09
+24-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,May15`15,70,Call, $2.38, $2, $70.65
+24-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,May15`15,70,Put, $1.75,-$27, $70.65
+21-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Aug21`15,65,Call, $2.42, , $65.39
+21-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Aug21`15,65,Put, $2, , $65.39
+27-Jul-15,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Aug21`15,65,Call, $1.95,-$48, $64.76
+27-Jul-15,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Aug21`15,65,Put, $2.2, $20, $64.76
+20-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Nov20`15,72.5,Call, $2.05, , $72.13
+20-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Nov20`15,72.5,Put, $2.45, , $72.13
+26-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Nov20`15,72.5,Call, $2.17, $11, $72.5
+26-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Nov20`15,72.5,Put, $2.17,-$28, $72.5
+26-Jan-16,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Feb19`16,65,Call, $1.6, , $64.07
+26-Jan-16,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Feb19`16,65,Put, $2.6, , $64.07
+01-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Feb19`16,65,Call, $2.1, $49, $65.21
+01-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Feb19`16,65,Put, $1.8,-$80, $65.21
+19-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,May20`16,75,Call, $2.22, , $75.23
+19-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,May20`16,75,Put, $1.95, , $75.23
+25-Apr-16,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,May20`16,75,Call, $1.8,-$43, $74.6
+25-Apr-16,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,May20`16,75,Put, $2.28, $33, $74.6
+19-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Aug19`16,72.5,Call, $1.48, , $71.62
+19-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Aug19`16,72.5,Put, $2.42, , $71.62
+25-Jul-16,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Aug19`16,72.5,Call, $1.35,-$14, $71.5
+25-Jul-16,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Aug19`16,72.5,Put, $2.38,-$4, $71.5
+18-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Nov18`16,70,Call, $1.27, , $68.8
+18-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Nov18`16,70,Put, $2.42, , $68.8
+24-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Nov18`16,70,Call, $1.35, $7, $69.12
+24-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Nov18`16,70,Put, $2.2,-$22, $69.12
+24-Jan-17,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Feb17`17,75,Call, $1.65, , $74.66
+24-Jan-17,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Feb17`17,75,Put, $1.95, , $74.66
+30-Jan-17,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Feb17`17,75,Call, $2.7, $104, $76.51
+30-Jan-17,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Feb17`17,75,Put, $1.3,-$65, $76.51
+18-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,May19`17,75,Call, $2.02, , $75.29
+18-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,May19`17,75,Put, $1.6, , $75.29
+24-Apr-17,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,May19`17,75,Call, $3.4, $137, $77.59
+24-Apr-17,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,May19`17,75,Put, $0.85,-$75, $77.59
+12-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Jul21`17,70,Call, $1.27, , $68.87
+12-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Jul21`17,70,Put, $2.4, , $68.87
+18-Jul-17,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Jul21`17,70,Call, $1.4, $12, $69.5
+18-Jul-17,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Jul21`17,70,Put, $1.98,-$42, $69.5
+24-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,CHRW,Nov17`17,80,Call, $1.68, , $78.83
+24-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,CHRW,Nov17`17,80,Put, $2.82, , $78.83
+30-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,CHRW,Nov17`17,80,Call, $1.2,-$49, $78.35
+30-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,CHRW,Nov17`17,80,Put, $2.88, $6, $78.35

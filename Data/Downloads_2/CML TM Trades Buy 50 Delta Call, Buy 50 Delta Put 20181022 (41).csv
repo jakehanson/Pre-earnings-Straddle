@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+08-Feb-12,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Feb18`12,32,Call, $1.27, , $31.93
+08-Feb-12,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Feb18`12,32,Put, $1.42, , $31.93
+14-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Feb18`12,32,Call, $2.05, $77, $33.17
+14-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Feb18`12,32,Put, $0.7,-$72, $33.17
+02-May-12,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,May19`12,34,Call, $1.32, , $33.94
+02-May-12,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,May19`12,34,Put, $1.7, , $33.94
+08-May-12,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,May19`12,34,Call, $0.32,-$101, $30.19
+08-May-12,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,May19`12,34,Put, $4.25, $255, $30.19
+18-Jul-12,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Aug18`12,33,Call, $1.72, , $32.15
+18-Jul-12,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Aug18`12,33,Put, $3.08, , $32.15
+24-Jul-12,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Aug18`12,33,Call, $0.75,-$98, $29.84
+24-Jul-12,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Aug18`12,33,Put, $4.3, $122, $29.84
+31-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Nov17`12,28,Call, $1.4, , $28.13
+31-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Nov17`12,28,Put, $1.72, , $28.13
+02-Nov-12,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Nov17`12,28,Call, $1.95, $54, $28.92
+02-Nov-12,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Nov17`12,28,Put, $1.27,-$45, $28.92
+13-Feb-13,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Mar16`13,39,Call, $2.33, , $38.45
+13-Feb-13,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Mar16`13,39,Put, $3.05, , $38.45
+19-Feb-13,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Mar16`13,39,Call, $2.62, $28, $39.28
+19-Feb-13,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Mar16`13,39,Put, $2.45,-$60, $39.28
+01-May-13,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,May18`13,55,Call, $2.68, , $53.28
+01-May-13,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,May18`13,55,Put, $5.1, , $53.28
+07-May-13,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,May18`13,55,Call, $3.8, $111, $55.51
+07-May-13,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,May18`13,55,Put, $3.75,-$135, $55.51
+31-Jul-13,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Aug17`13,135,Call, $9.1, , $134.28
+31-Jul-13,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Aug17`13,135,Put, $10, , $134.28
+06-Aug-13,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Aug17`13,135,Call, $13.85, $474, $142.15
+06-Aug-13,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Aug17`13,135,Put, $6.8,-$320, $142.15
+29-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Nov8`13,165,Call, $11.7, , $164.47
+29-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Nov8`13,165,Put, $12.3, , $164.47
+04-Nov-13,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Nov8`13,165,Call, $15.75, $404, $175.2
+04-Nov-13,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Nov8`13,165,Put, $5.7,-$660, $175.2
+12-Feb-14,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Feb22`14,200,Call, $10.45, , $195.32
+12-Feb-14,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Feb22`14,200,Put, $15.05, , $195.32
+18-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Feb22`14,200,Call, $13.23, $277, $203.7
+18-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Feb22`14,200,Put, $9.55,-$550, $203.7
+30-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,May9`14,210,Call, $11.7, , $207.89
+30-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,May9`14,210,Put, $14.1, , $207.89
+06-May-14,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,May9`14,210,Call, $9.5,-$221, $207.28
+06-May-14,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,May9`14,210,Put, $12.05,-$205, $207.28
+24-Jul-14,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Aug1`14,225,Call, $9, , $223.54
+24-Jul-14,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Aug1`14,225,Put, $10.12, , $223.54
+30-Jul-14,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Aug1`14,225,Call, $11.5, $249, $228.92
+30-Jul-14,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Aug1`14,225,Put, $7.52,-$260, $228.92
+29-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Nov7`14,240,Call, $11.1, , $238.1
+29-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Nov7`14,240,Put, $12.98, , $238.1
+04-Nov-14,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Nov7`14,240,Call, $9.95,-$116, $238.93
+04-Nov-14,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Nov7`14,240,Put, $10.75,-$223, $238.93
+04-Feb-15,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Feb13`15,220,Call, $8.65, , $218.55
+04-Feb-15,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Feb13`15,220,Put, $10.35, , $218.55
+10-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Feb13`15,220,Call, $7.8,-$86, $216.29
+10-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Feb13`15,220,Put, $11.62, $127, $216.29
+29-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,May8`15,235,Call, $8.85, , $232.45
+29-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,May8`15,235,Put, $11.3, , $232.45
+05-May-15,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,May8`15,235,Call, $8.12,-$74, $232.95
+05-May-15,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,May8`15,235,Put, $10.07,-$123, $232.95
+29-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Aug7`15,265,Call, $11.35, , $263.82
+29-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Aug7`15,265,Put, $12.08, , $263.82
+04-Aug-15,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Aug7`15,265,Call, $10.68,-$68, $266.28
+04-Aug-15,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Aug7`15,265,Put, $9.6,-$248, $266.28
+27-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Nov6`15,212.5,Call, $8.93, , $210.35
+27-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Nov6`15,212.5,Put, $11.32, , $210.35
+02-Nov-15,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Nov6`15,212.5,Call, $9.7, $76, $213.79
+02-Nov-15,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Nov6`15,212.5,Put, $8.48,-$284, $213.79
+03-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Feb12`16,175,Call, $9.85, , $173.48
+03-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Feb12`16,175,Put, $12.08, , $173.48
+09-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Feb12`16,175,Call, $1.86,-$800, $148.25
+09-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Feb12`16,175,Put, $28.7, $1662, $148.25
+27-Apr-16,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,May6`16,252.5,Call, $11.45, , $251.47
+27-Apr-16,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,May6`16,252.5,Put, $12.75, , $251.47
+03-May-16,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,May6`16,252.5,Call, $2.76,-$870, $232.32
+03-May-16,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,May6`16,252.5,Put, $23.02, $1027, $232.32
+27-Jul-16,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Aug5`16,230,Call, $8.3, , $228.49
+27-Jul-16,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Aug5`16,230,Put, $11.02, , $228.49
+02-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Aug5`16,230,Call, $6.1,-$221, $227.2
+02-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Aug5`16,230,Put, $9.5,-$152, $227.2
+19-Oct-16,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Oct28`16,205,Call, $6.92, , $203.56
+19-Oct-16,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Oct28`16,205,Put, $8.57, , $203.56
+25-Oct-16,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Oct28`16,205,Call, $4.92,-$201, $202.34
+25-Oct-16,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Oct28`16,205,Put, $7.62,-$95, $202.34
+15-Feb-17,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Feb24`17,280,Call, $9.35, , $279.76
+15-Feb-17,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Feb24`17,280,Put, $9.9, , $279.76
+21-Feb-17,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Feb24`17,280,Call, $7.7,-$166, $277.39
+21-Feb-17,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Feb24`17,280,Put, $10.52, $62, $277.39
+26-Apr-17,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,May5`17,312.5,Call, $9.15, , $310.17
+26-Apr-17,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,May5`17,312.5,Put, $11.52, , $310.17
+02-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,May5`17,312.5,Call, $12.7, $354, $318.89
+02-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,May5`17,312.5,Put, $6.05,-$547, $318.89
+26-Jul-17,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Aug4`17,345,Call, $11.72, , $343.85
+26-Jul-17,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Aug4`17,345,Put, $12.98, , $343.85
+01-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Aug4`17,345,Call, $1.92,-$981, $319.57
+01-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Aug4`17,345,Put, $27.6, $1462, $319.57
+25-Oct-17,Open 7DaysBeforeEarnings:Long Calls,1,TSLA,Nov3`17,327.5,Call, $11.23, , $325.84
+25-Oct-17,Open 7DaysBeforeEarnings:Long Puts,1,TSLA,Nov3`17,327.5,Put, $12.68, , $325.84
+31-Oct-17,Close 1DaysBeforeEarnings:Long Calls,-1,TSLA,Nov3`17,327.5,Call, $13.7, $246, $331.53
+31-Oct-17,Close 1DaysBeforeEarnings:Long Puts,-1,TSLA,Nov3`17,327.5,Put, $9.48,-$320, $331.53

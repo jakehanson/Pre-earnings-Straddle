@@ -1,0 +1,97 @@
+Date,Description,Size,Symbol,Expiration,Strike,Type,Trade Price,Profit/Loss,Stock Price
+31-Jan-12,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Feb18`12,95,Call, $3.3, , $95.6
+31-Jan-12,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Feb18`12,95,Put, $2.68, , $95.6
+06-Feb-12,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Feb18`12,95,Call, $3.25,-$6, $94.01
+06-Feb-12,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Feb18`12,95,Put, $3.85, $117, $94.01
+01-May-12,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,May19`12,105,Call, $2.35, , $104.84
+01-May-12,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,May19`12,105,Put, $2.5, , $104.84
+07-May-12,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,May19`12,105,Call, $1.8,-$56, $103.78
+07-May-12,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,May19`12,105,Put, $3, $50, $103.78
+09-Aug-12,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Aug18`12,115,Call, $2.55, , $115.11
+09-Aug-12,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Aug18`12,115,Put, $2.55, , $115.11
+15-Aug-12,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Aug18`12,115,Call, $3.4, $84, $116.6
+15-Aug-12,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Aug18`12,115,Put, $1.4,-$115, $116.6
+31-Oct-12,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Nov17`12,115,Call, $2.98, , $114.92
+31-Oct-12,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Nov17`12,115,Put, $3.18, , $114.92
+06-Nov-12,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Nov17`12,115,Call, $3, $1, $115.37
+06-Nov-12,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Nov17`12,115,Put, $2.75,-$43, $115.37
+25-Jan-13,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Feb16`13,105,Call, $1.45, , $103.12
+25-Jan-13,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Feb16`13,105,Put, $3.35, , $103.12
+29-Jan-13,Close 40%CloseAfterGains:Long Calls,-1,PRGO,Feb16`13,105,Call, $0.6,-$86, $99.25
+29-Jan-13,Close 40%CloseAfterGains:Long Puts,-1,PRGO,Feb16`13,105,Put, $6.15, $280, $99.25
+30-Apr-13,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,May18`13,120,Call, $1.92, , $119.41
+30-Apr-13,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,May18`13,120,Put, $2.75, , $119.41
+06-May-13,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,May18`13,120,Call, $1.88,-$5, $118.84
+06-May-13,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,May18`13,120,Put, $3.05, $30, $118.84
+08-Aug-13,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Aug17`13,130,Call, $1.55, , $128.93
+08-Aug-13,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Aug17`13,130,Put, $2.68, , $128.93
+14-Aug-13,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Aug17`13,130,Call, $0.68,-$88, $126.42
+14-Aug-13,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Aug17`13,130,Put, $4.4, $172, $126.42
+24-Oct-13,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Nov16`13,130,Call, $3.15, , $129.2
+24-Oct-13,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Nov16`13,130,Put, $4, , $129.2
+30-Oct-13,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Nov16`13,130,Call, $2.8,-$36, $128.62
+30-Oct-13,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Nov16`13,130,Put, $4.4, $40, $128.62
+30-Jan-14,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Feb22`14,155,Call, $5.25, , $155.9
+30-Jan-14,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Feb22`14,155,Put, $4.75, , $155.9
+05-Feb-14,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Feb22`14,155,Call, $4.05,-$121, $153.28
+05-Feb-14,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Feb22`14,155,Put, $5.95, $120, $153.28
+30-Apr-14,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,May17`14,145,Call, $5, , $144.86
+30-Apr-14,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,May17`14,145,Put, $5.2, , $144.86
+06-May-14,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,May17`14,145,Call, $3.3,-$171, $142.99
+06-May-14,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,May17`14,145,Put, $5.2, , $142.99
+07-Aug-14,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Aug16`14,140,Call, $5.3, , $141.56
+07-Aug-14,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Aug16`14,140,Put, $3.7, , $141.56
+13-Aug-14,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Aug16`14,140,Call, $3.03,-$228, $139.15
+13-Aug-14,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Aug16`14,140,Put, $4.1, $40, $139.15
+30-Oct-14,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Nov22`14,160,Call, $4.95, , $161.33
+30-Oct-14,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Nov22`14,160,Put, $5, , $161.33
+05-Nov-14,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Nov22`14,160,Call, $3.6,-$136, $158.5
+05-Nov-14,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Nov22`14,160,Put, $4.95,-$5, $158.5
+29-Jan-15,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Feb20`15,155,Call, $3.95, , $154
+29-Jan-15,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Feb20`15,155,Put, $5.75, , $154
+04-Feb-15,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Feb20`15,155,Call, $2.75,-$121, $151.48
+04-Feb-15,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Feb20`15,155,Put, $6.35, $60, $151.48
+14-Apr-15,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,May15`15,200,Call, $10.15, , $203.69
+14-Apr-15,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,May15`15,200,Put, $7.1, , $203.69
+20-Apr-15,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,May15`15,200,Call, $7.45,-$271, $198.08
+20-Apr-15,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,May15`15,200,Put, $9.4, $230, $198.08
+29-Jul-15,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Aug21`15,195,Call, $4.2, , $192.83
+29-Jul-15,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Aug21`15,195,Put, $6.85, , $192.83
+04-Aug-15,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Aug21`15,195,Call, $3.12,-$109, $190.64
+04-Aug-15,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Aug21`15,195,Put, $7.75, $90, $190.64
+15-Oct-15,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Nov20`15,165,Call, $6.6, , $162.62
+15-Oct-15,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Nov20`15,165,Put, $9.95, , $162.62
+21-Oct-15,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Nov20`15,165,Call, $3.85,-$276, $155.24
+21-Oct-15,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Nov20`15,165,Put, $14.25, $430, $155.24
+11-Feb-16,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Feb19`16,135,Call, $4.25, , $135.07
+11-Feb-16,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Feb19`16,135,Put, $3.85, , $135.07
+17-Feb-16,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Feb19`16,135,Call, $10.5, $624, $145.17
+17-Feb-16,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Feb19`16,135,Put, $0.55,-$330, $145.17
+09-May-16,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,May20`16,95,Call, $3.15, , $93.78
+09-May-16,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,May20`16,95,Put, $4.5, , $93.78
+13-May-16,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,May20`16,95,Call, $0.2,-$296, $88.36
+13-May-16,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,May20`16,95,Put, $6.95, $245, $88.36
+03-Aug-16,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Aug12`16,94.5,Call, $3.15, , $94.25
+03-Aug-16,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Aug12`16,94.5,Put, $3.95, , $94.25
+09-Aug-16,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Aug12`16,94.5,Call, $3.25, $9, $95.09
+09-Aug-16,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Aug12`16,94.5,Put, $2.68,-$127, $95.09
+03-Nov-16,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Nov11`16,80.5,Call, $3.82, , $79.95
+03-Nov-16,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Nov11`16,80.5,Put, $3.78, , $79.95
+09-Nov-16,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Nov11`16,80.5,Call, $4.9, $107, $83.51
+09-Nov-16,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Nov11`16,80.5,Put, $2.47,-$131, $83.51
+15-May-17,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,May26`17,75,Call, $2, , $75.05
+15-May-17,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,May26`17,75,Put, $2, , $75.05
+19-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,May26`17,75,Call, $0.43,-$158, $70.79
+19-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,May26`17,75,Put, $4.85, $285, $70.79
+23-May-17,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Jun2`17,73,Call, $1.27, , $73.07
+23-May-17,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Jun2`17,73,Put, $1.45, , $73.07
+30-May-17,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Jun2`17,73,Call, $0.05,-$123, $67.92
+30-May-17,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Jun2`17,73,Put, $5.25, $380, $67.92
+03-Aug-17,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Aug11`17,68.5,Call, $2.35, , $68.31
+03-Aug-17,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Aug11`17,68.5,Put, $2.33, , $68.31
+09-Aug-17,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Aug11`17,68.5,Call, $1.92,-$44, $66.37
+09-Aug-17,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Aug11`17,68.5,Put, $4.05, $172, $66.37
+02-Nov-17,Open 7DaysBeforeEarnings:Long Calls,1,PRGO,Nov10`17,81.5,Call, $3.32, , $81.27
+02-Nov-17,Open 7DaysBeforeEarnings:Long Puts,1,PRGO,Nov10`17,81.5,Put, $3.18, , $81.27
+08-Nov-17,Close 1DaysBeforeEarnings:Long Calls,-1,PRGO,Nov10`17,81.5,Call, $2.5,-$83, $81.2
+08-Nov-17,Close 1DaysBeforeEarnings:Long Puts,-1,PRGO,Nov10`17,81.5,Put, $3.45, $27, $81.2
